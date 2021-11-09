@@ -3,7 +3,8 @@ name: Latest blog post workflow
 #   schedule:
 #     - cron: '* 2 * * *'
 on: 
-  repository_dispatch:
+  repository_dispatch: 
+    types: [trigger_shenxianpeng]
   workflow_dispatch:
 
 jobs:
