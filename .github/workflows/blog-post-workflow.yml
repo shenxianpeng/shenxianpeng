@@ -1,7 +1,9 @@
 name: Latest blog post workflow
-on:
-  schedule:
-    - cron: '* 2 * * *'
+# on:
+#   schedule:
+#     - cron: '* 2 * * *'
+on: 
+  repository_dispatch:
   workflow_dispatch:
 
 jobs:
