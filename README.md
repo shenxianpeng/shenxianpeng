@@ -21,6 +21,11 @@ I'm a Build/DevOps Engineer at Rocket Software.
 - [Polaris - 静态代码分析](https://shenxianpeng.github.io/2021/10/what-is-polaris/)
 - [Git 常用命令备忘录](https://shenxianpeng.github.io/2021/10/git-cheatsheet/)
 - [How does SonarQube Community Edition integrate with the project](https://shenxianpeng.github.io/2021/09/sonarqube-integration/)
+- [Run lcov failed &quot;Can&#39;t locate JSON/PP.pm in @INC ...&quot;](https://shenxianpeng.github.io/2021/09/lcov-error/)
+- [使用 Gcov 和 LCOV 度量 C/C++ 项目的代码覆盖率](https://shenxianpeng.github.io/2021/08/gcov-example-cn/)
+- [SonarQube installation and troubleshootings](https://shenxianpeng.github.io/2021/08/sonarqube-setup/)
+- [How to fix &quot;hidden symbol `__gcov_init&#39; in ../libgcov.a&lpar;_gcov.o&rpar; is referenced by DSO&quot;](https://shenxianpeng.github.io/2021/07/how-to-fix-gcov-hidden-symbol/)
+- [Add or update Bitbucket build status with REST API](https://shenxianpeng.github.io/2021/07/update-bitbucket-build-status/)
 <!-- BLOG-POST-LIST:END -->
 
 [blogger]: https://shenxianpeng.github.io/
