@@ -29,7 +29,8 @@ I'm a Build/DevOps Engineer at Rocket Software.
 <!-- BLOG-POST-LIST:END -->
 
 [blogger]: https://shenxianpeng.github.io/
-[wechat]: http://mp.weixin.qq.com/mp/getmasssendmsg?__biz=MzU2NjE2MDY0MA==#wechat_webview_type=1&wechat_redirect
+[wechat]: http://mp.weixin.qq.com/profile?src=3&timestamp=1636449668&ver=1&signature=mWc-OIPct-8wSKUXsur7QPDlIvIE*B70DUninRKnMcS4yQGuJj7JEaK-FxzsHGdVbK4yX8PvY60*a0iEEj7Njw==
+<!-- [wechat]: http://mp.weixin.qq.com/mp/getmasssendmsg?__biz=MzU2NjE2MDY0MA==#wechat_webview_type=1&wechat_redirect -->
 [linkedin]: https://www.linkedin.com/in/xianpeng-shen/
 [gmail]: mailto:xianpeng.shen@gmail.com
 
