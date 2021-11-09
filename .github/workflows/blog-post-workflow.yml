@@ -1,10 +1,8 @@
 name: Latest blog post workflow
-# on:
-#   schedule:
-#     - cron: '* 2 * * *'
+
 on: 
   repository_dispatch: 
-    types: [trigger_shenxianpeng]
+    types: [special_repository]
   workflow_dispatch:
 
 jobs:
@@ -12,7 +10,6 @@ jobs:
     name: Update this repo's README with latest blog posts
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: "https://shenxianpeng.github.io/atom.xml"
