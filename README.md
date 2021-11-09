@@ -1,25 +1,20 @@
 # Hi there, I'm Peter 👋
 
-## Here's what I'm up to
-- I'm a DevOps engineer
-- I share knowledge in the field of CI/CD and DevOps on the [wechat](wecaht) and [blog](blogger)
-
-  ![WeChat](https://github.com/shenxianpeng/shenxianpeng.github.io/blob/master/about/index/qrcode.jpg)
+I'm a Build/DevOps Engineer at Rocket Software.
 
 ### Connect with me:
 [<img align="left" alt="shenxianpeng | Blogger" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/blogger.svg" />][blogger]
+[<img align="left" alt="shenxianpeng | Blogger" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/wechat.svg" />][wechat]
 [<img align="left" alt="shenxianpeng | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="shenxianpeng | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][gmail]
 
-<!-- [<img align="left" alt="shenxianpeng | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] -->
-<!-- [<img align="left" alt="shenxianpeng | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
- -->
 <br />
 <br />
 
 ---
 
 # Recent blog posts
+
 <!-- BLOG-POST-LIST:START -->
 - [2021-22 世界质量报告（World Quality Report）](https://shenxianpeng.github.io/2021/11/world-quality-report/)
 - [Docker 最佳实践](https://shenxianpeng.github.io/2021/11/docker-best-practice/)
@@ -28,17 +23,12 @@
 - [How does SonarQube Community Edition integrate with the project](https://shenxianpeng.github.io/2021/09/sonarqube-integration/)
 <!-- BLOG-POST-LIST:END -->
 
-[wechat]: https://github.com/shenxianpeng/shenxianpeng.github.io/blob/master/about/index/qrcode.jpg
 [blogger]: https://shenxianpeng.github.io/
+[wechat]: http://mp.weixin.qq.com/mp/getmasssendmsg?__biz=MzU2NjE2MDY0MA==#wechat_webview_type=1&wechat_redirect
 [linkedin]: https://www.linkedin.com/in/xianpeng-shen/
 [gmail]: to:xianpeng.shen@gmail.com
 
-[twitter]: https://twitter.com/<username>
-[instagram]: https://instagram.com/<username>
-
-
-<!--
-**shenxianpeng/shenxianpeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **shenxianpeng/shenxianpeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -50,4 +40,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+ -->
