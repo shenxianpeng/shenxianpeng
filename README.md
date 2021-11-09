@@ -31,7 +31,7 @@ I'm a Build/DevOps Engineer at Rocket Software.
 [blogger]: https://shenxianpeng.github.io/
 [wechat]: http://mp.weixin.qq.com/mp/getmasssendmsg?__biz=MzU2NjE2MDY0MA==#wechat_webview_type=1&wechat_redirect
 [linkedin]: https://www.linkedin.com/in/xianpeng-shen/
-[gmail]: to:xianpeng.shen@gmail.com
+[gmail]: mailto:xianpeng.shen@gmail.com
 
 <!-- **shenxianpeng/shenxianpeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
