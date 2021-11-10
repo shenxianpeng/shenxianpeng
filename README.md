@@ -16,6 +16,7 @@ I'm a Build/DevOps Engineer at Rocket Software.
 # Recent blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [如何将每次发布的博客文章自动同步到 GitHub 个人主页？](https://shenxianpeng.github.io/2021/11/special-repository/)
 - [2021-22 世界质量报告（World Quality Report）](https://shenxianpeng.github.io/2021/11/world-quality-report/)
 - [Docker 最佳实践](https://shenxianpeng.github.io/2021/11/docker-best-practice/)
 - [Polaris - 静态代码分析](https://shenxianpeng.github.io/2021/10/what-is-polaris/)
@@ -25,7 +26,6 @@ I'm a Build/DevOps Engineer at Rocket Software.
 - [使用 Gcov 和 LCOV 度量 C/C++ 项目的代码覆盖率](https://shenxianpeng.github.io/2021/08/gcov-example-cn/)
 - [SonarQube installation and troubleshootings](https://shenxianpeng.github.io/2021/08/sonarqube-setup/)
 - [How to fix &quot;hidden symbol `__gcov_init&#39; in ../libgcov.a&lpar;_gcov.o&rpar; is referenced by DSO&quot;](https://shenxianpeng.github.io/2021/07/how-to-fix-gcov-hidden-symbol/)
-- [Add or update Bitbucket build status with REST API](https://shenxianpeng.github.io/2021/07/update-bitbucket-build-status/)
 <!-- BLOG-POST-LIST:END -->
 
 [blogger]: https://shenxianpeng.github.io/
