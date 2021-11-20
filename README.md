@@ -16,7 +16,6 @@ I'm a Build/DevOps Engineer at Rocket Software.
 # Recent blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [DevOps 工程师需不需要学些 Groovy？](https://shenxianpeng.github.io/2021/11/groovy/)
 - [如何将每次发布的博客文章自动同步到 GitHub 个人主页？](https://shenxianpeng.github.io/2021/11/special-repository/)
 - [2021-22 世界质量报告（World Quality Report）](https://shenxianpeng.github.io/2021/11/world-quality-report/)
 - [Docker 最佳实践](https://shenxianpeng.github.io/2021/11/docker-best-practice/)
@@ -26,6 +25,7 @@ I'm a Build/DevOps Engineer at Rocket Software.
 - [Run lcov failed &quot;Can&#39;t locate JSON/PP.pm in @INC ...&quot;](https://shenxianpeng.github.io/2021/09/lcov-error/)
 - [使用 Gcov 和 LCOV 度量 C/C++ 项目的代码覆盖率](https://shenxianpeng.github.io/2021/08/gcov-example-cn/)
 - [SonarQube installation and troubleshootings](https://shenxianpeng.github.io/2021/08/sonarqube-setup/)
+- [How to fix &quot;hidden symbol `__gcov_init&#39; in ../libgcov.a&lpar;_gcov.o&rpar; is referenced by DSO&quot;](https://shenxianpeng.github.io/2021/07/how-to-fix-gcov-hidden-symbol/)
 <!-- BLOG-POST-LIST:END -->
 
 [blogger]: https://shenxianpeng.github.io/
