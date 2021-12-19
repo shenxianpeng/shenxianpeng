@@ -15,7 +15,7 @@ I'm a Build/DevOps Engineer at Rocket Software.
 # Recent blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [如何帮助组织建立统一的规则来评估 CI/CD 成熟度](https://shenxianpeng.github.io/2021/12/cicd-assessment/)
+- [如何建立统一的规则来评估 CI/CD 成熟度](https://shenxianpeng.github.io/2021/12/cicd-assessment/)
 - [GitHub Actions 还能这么玩？自动将发布的博客文章更新到 GitHub 个人主页](https://shenxianpeng.github.io/2021/11/special-repository/)
 - [2021-22 世界质量报告（World Quality Report）](https://shenxianpeng.github.io/2021/11/world-quality-report/)
 - [Docker 最佳实践](https://shenxianpeng.github.io/2021/11/docker-best-practice/)
