@@ -15,6 +15,7 @@ I'm a Build/DevOps Engineer at Rocket Software.
 # Recent blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [2022年序员如何选择显示器？1080p还是2K? 单屏还是多屏？](https://shenxianpeng.github.io/2021/12/choose-monitor/)
 - [组织内如何评估 CI/CD 成熟度](https://shenxianpeng.github.io/2021/12/cicd-assessment/)
 - [GitHub Actions 还能这么玩？自动将发布的博客文章更新到 GitHub 个人主页](https://shenxianpeng.github.io/2021/11/special-repository/)
 - [2021-22 世界质量报告（World Quality Report）](https://shenxianpeng.github.io/2021/11/world-quality-report/)
@@ -24,7 +25,6 @@ I'm a Build/DevOps Engineer at Rocket Software.
 - [How does SonarQube Community Edition integrate with the project](https://shenxianpeng.github.io/2021/09/sonarqube-integration/)
 - [Run lcov failed &quot;Can&#39;t locate JSON/PP.pm in @INC ...&quot;](https://shenxianpeng.github.io/2021/09/lcov-error/)
 - [使用 Gcov 和 LCOV 度量 C/C++ 项目的代码覆盖率](https://shenxianpeng.github.io/2021/08/gcov-example-cn/)
-- [SonarQube installation and troubleshootings](https://shenxianpeng.github.io/2021/08/sonarqube-setup/)
 <!-- BLOG-POST-LIST:END -->
 
 [blogger]: https://shenxianpeng.github.io/
