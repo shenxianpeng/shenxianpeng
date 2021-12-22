@@ -2,15 +2,20 @@
 
 I'm a Build/DevOps Engineer at Rocket Software.
 
-### Connect with me:
-[<img align="left" alt="shenxianpeng | Blogger" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/blogger.svg" />][blogger]
-[<img align="left" alt="shenxianpeng | Blogger" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/wechat.svg" />][wechat]
-[<img align="left" alt="shenxianpeng | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="shenxianpeng | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][gmail]
-![Profile views](https://gpvc.arturio.dev/shenxianpeng)
+### Connect with me: 
 
-![](https://github.com/shenxianpeng/blog/blob/master/source/about/index/qrcode.jpg)
----
+<img align="left" width="150" height="150" src="https://github.com/shenxianpeng/blog/blob/master/source/about/index/qrcode.jpg">
+<br>
+
+[<img align="left" alt="shenxianpeng | Blogger" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/blogger.svg" />][blogger]
+<br>
+[<img align="left" alt="shenxianpeng | Blogger" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/wechat.svg" />][wechat]
+<br>
+[<img align="left" alt="shenxianpeng | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<br>
+[<img align="left" alt="shenxianpeng | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][gmail]
+<br>
+![Profile views](https://gpvc.arturio.dev/shenxianpeng)
 
 # Recent blog posts
 
