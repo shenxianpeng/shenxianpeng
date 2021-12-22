@@ -8,8 +8,8 @@ I'm a Build/DevOps Engineer at Rocket Software.
 [<img align="left" alt="shenxianpeng | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="shenxianpeng | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][gmail]
 ![Profile views](https://gpvc.arturio.dev/shenxianpeng)
-<br />
 
+![](https://github.com/shenxianpeng/blog/blob/master/source/about/index/qrcode.jpg)
 ---
 
 # Recent blog posts
