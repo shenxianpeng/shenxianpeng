@@ -19,3 +19,4 @@ jobs:
         with:
           feed_list: "https://shenxianpeng.github.io/atom.xml"
           max_post_count: 10
+          date_format: mmm d, yyyy
