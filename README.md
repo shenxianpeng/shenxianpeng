@@ -24,7 +24,7 @@ I'm a Build/DevOps Engineer at Rocket Software.
 - [Git 常用命令备忘录](https://shenxianpeng.github.io/2021/10/git-cheatsheet/)
 - [How does SonarQube Community Edition integrate with the project](https://shenxianpeng.github.io/2021/09/sonarqube-integration/)
 - [Run lcov failed &quot;Can&#39;t locate JSON/PP.pm in @INC ...&quot;](https://shenxianpeng.github.io/2021/09/lcov-error/)
-- [使用 Gcov 和 LCOV 度量 C/C++ 项目的代码覆盖率](https://shenxianpeng.github.io/2021/08/gcov-example-cn/)
+- [使用 Gcov 和 LCOV 做 C/C++ 项目的代码覆盖率](https://shenxianpeng.github.io/2021/08/gcov-example-cn/)
 <!-- BLOG-POST-LIST:END -->
 
 [blogger]: https://shenxianpeng.github.io/
