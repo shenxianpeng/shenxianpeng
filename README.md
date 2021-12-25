@@ -3,12 +3,11 @@
 I'm a Build/DevOps Engineer at [Rocket Software](https://www.rocketsoftware.com).
 
 ### Connect with me: 
-<img align="left" width="160" height="160" src="https://github.com/shenxianpeng/blog/blob/master/source/about/index/qrcode.jpg"><br>
-[<img align="center" alt="shenxianpeng | Blogger" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/blogger.svg" />][blogger]<br>
-[<img align="center" alt="shenxianpeng | Blogger" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/wechat.svg" />][wechat]<br>
-[<img align="center" alt="shenxianpeng | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]<br>
-[<img align="center" alt="shenxianpeng | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][gmail]<br>
-![Profile views](https://gpvc.arturio.dev/shenxianpeng)
+<img align="left" width="150" height="150" src="https://github.com/shenxianpeng/blog/blob/master/source/about/index/qrcode.jpg"><br>
+[<img align="center" alt="shenxianpeng | Blogger" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/blogger.svg" />][blogger]<br>
+[<img align="center" alt="shenxianpeng | Blogger" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/wechat.svg" />][wechat]<br>
+[<img align="center" alt="shenxianpeng | LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]<br>
+[<img align="center" alt="shenxianpeng | Gmail" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][gmail]<br>
 
 # Recent blog posts
 
@@ -30,6 +29,8 @@ I'm a Build/DevOps Engineer at [Rocket Software](https://www.rocketsoftware.com)
 <!-- [wechat]: http://mp.weixin.qq.com/mp/getmasssendmsg?__biz=MzU2NjE2MDY0MA==#wechat_webview_type=1&wechat_redirect -->
 [linkedin]: https://www.linkedin.com/in/xianpeng-shen/
 [gmail]: mailto:xianpeng.shen@gmail.com
+
+ ![Profile views](https://gpvc.arturio.dev/shenxianpeng)
 
 <!-- **shenxianpeng/shenxianpeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
