@@ -1,6 +1,6 @@
 # Hi there, I'm Peter 👋
 
-I'm a Build/DevOps Engineer at Rocket Software.
+I'm a Build/DevOps Engineer at [Rocket Software](https://www.rocketsoftware.com).
 
 ### Connect with me: 
 <img align="left" width="160" height="160" src="https://github.com/shenxianpeng/blog/blob/master/source/about/index/qrcode.jpg"><br>
