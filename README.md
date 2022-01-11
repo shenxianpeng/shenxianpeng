@@ -12,11 +12,11 @@ I'm a Build/DevOps Engineer at [Rocket Software](https://www.rocketsoftware.com)
 # Recent blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [【必读】Docker 最佳实践](https://shenxianpeng.github.io/2022/01/docker-best-practice/)
 - [2022年序员如何选择显示器？1080p还是2K? 单屏还是多屏？](https://shenxianpeng.github.io/2021/12/choose-monitor/)
 - [组织内如何评估 CI/CD 成熟度](https://shenxianpeng.github.io/2021/12/cicd-assessment/)
 - [GitHub Actions 还能这么玩？自动将发布的博客文章更新到 GitHub 个人主页](https://shenxianpeng.github.io/2021/11/special-repository/)
 - [2021-22 世界质量报告（World Quality Report）](https://shenxianpeng.github.io/2021/11/world-quality-report/)
-- [Docker 最佳实践](https://shenxianpeng.github.io/2021/11/docker-best-practice/)
 - [Polaris - 静态代码分析](https://shenxianpeng.github.io/2021/10/what-is-polaris/)
 - [Git 常用命令备忘录](https://shenxianpeng.github.io/2021/10/git-cheatsheet/)
 - [How does SonarQube Community Edition integrate with the project](https://shenxianpeng.github.io/2021/09/sonarqube-integration/)
