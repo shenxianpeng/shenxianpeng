@@ -12,6 +12,7 @@ I'm a Build/DevOps Engineer at [Rocket Software](https://www.rocketsoftware.com)
 # Recent blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [什么是 Go ？Go 有哪些优势，它的现状，初学者如何选择，如何学习 ...](https://shenxianpeng.github.io/2022/01/get-started-with-go/)
 - [你一定要了解这 17 条 Docker 最佳实践！](https://shenxianpeng.github.io/2022/01/docker-best-practice/)
 - [2022年序员如何选择显示器？1080p还是2K? 单屏还是多屏？](https://shenxianpeng.github.io/2021/12/choose-monitor/)
 - [组织内如何评估 CI/CD 成熟度](https://shenxianpeng.github.io/2021/12/cicd-assessment/)
@@ -21,7 +22,6 @@ I'm a Build/DevOps Engineer at [Rocket Software](https://www.rocketsoftware.com)
 - [Git 常用命令备忘录](https://shenxianpeng.github.io/2021/10/git-cheatsheet/)
 - [How does SonarQube Community Edition integrate with the project](https://shenxianpeng.github.io/2021/09/sonarqube-integration/)
 - [Run lcov failed &quot;Can&#39;t locate JSON/PP.pm in @INC ...&quot;](https://shenxianpeng.github.io/2021/09/lcov-error/)
-- [使用 Gcov 和 LCOV 做 C/C++ 项目的代码覆盖率](https://shenxianpeng.github.io/2021/08/gcov-example-cn/)
 <!-- BLOG-POST-LIST:END -->
 
 [blogger]: https://shenxianpeng.github.io/
