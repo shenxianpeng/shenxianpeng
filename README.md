@@ -1,13 +1,25 @@
-# Hi there, I'm Peter 👋
+## Hi there, I'm Peter 👋
 
 I'm a Build/DevOps Engineer at [Rocket Software](https://www.rocketsoftware.com).
 
-### Connect with me: 
-<img align="left" width="140" height="140" src="https://github.com/shenxianpeng/blog/blob/master/source/about/index/qrcode.jpg"><br>
-[<img align="center" alt="shenxianpeng | Blogger" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/blogger.svg" />][blogger]<br>
-[<img align="center" alt="shenxianpeng | Blogger" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/wechat.svg" />][wechat]<br>
-[<img align="center" alt="shenxianpeng | LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]<br>
-[<img align="center" alt="shenxianpeng | Gmail" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][gmail]<br>
+### Connect with me:
+
+<img align="left" alt="shenxianpeng | WeChat" width="135px" src="https://github.com/shenxianpeng/blog/blob/master/source/about/index/qrcode.jpg" />
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+[<img align="left" alt="shenxianpeng | Blogger" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/blogger.svg" />][blogger]
+[<img align="left" alt="shenxianpeng | ZhiHu" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/zhihu.svg" />][zhihu]
+[<img align="left" alt="shenxianpeng | Wechat" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/wechat.svg" />][wechat]
+[<img align="left" alt="shenxianpeng | LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="shenxianpeng | Gmail" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][gmail]
+
+<br>
 
 # Recent blog posts
 
@@ -25,6 +37,7 @@ I'm a Build/DevOps Engineer at [Rocket Software](https://www.rocketsoftware.com)
 <!-- BLOG-POST-LIST:END -->
 
 [blogger]: https://shenxianpeng.github.io/
+[zhihu]: https://www.zhihu.com/people/shenxianpeng
 [wechat]: http://mp.weixin.qq.com/profile?src=3&timestamp=1636449668&ver=1&signature=mWc-OIPct-8wSKUXsur7QPDlIvIE*B70DUninRKnMcS4yQGuJj7JEaK-FxzsHGdVbK4yX8PvY60*a0iEEj7Njw==
 <!-- [wechat]: http://mp.weixin.qq.com/mp/getmasssendmsg?__biz=MzU2NjE2MDY0MA==#wechat_webview_type=1&wechat_redirect -->
 [linkedin]: https://www.linkedin.com/in/xianpeng-shen/
