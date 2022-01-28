@@ -20,7 +20,8 @@ I'm a Build/DevOps Engineer at [Rocket Software](https://www.rocketsoftware.com)
 # Recent blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [什么是 Vagrant？Vagrant 和 Docker 该怎么选？](https://shenxianpeng.github.io/2022/01/vagrant-vs-docker/)
+- [Vagrant 和 Docker 的区别，该如何选？](https://shenxianpeng.github.io/2022/01/vagrant-vs-docker/)
+- [Vagrant 介绍](https://shenxianpeng.github.io/2022/01/vagrant/)
 - [什么是 Go ？Go 的优势和现状。初学者应该学习 Python 还是 Go？](https://shenxianpeng.github.io/2022/01/what-is-go/)
 - [你一定要了解这 17 条 Docker 最佳实践！](https://shenxianpeng.github.io/2022/01/docker-best-practice/)
 - [2022年序员如何选择显示器？1080p还是2K? 单屏还是多屏？](https://shenxianpeng.github.io/2021/12/choose-monitor/)
@@ -29,7 +30,6 @@ I'm a Build/DevOps Engineer at [Rocket Software](https://www.rocketsoftware.com)
 - [2021-22 世界质量报告（World Quality Report）](https://shenxianpeng.github.io/2021/11/world-quality-report/)
 - [Polaris - 静态代码分析](https://shenxianpeng.github.io/2021/10/what-is-polaris/)
 - [Git 常用命令备忘录](https://shenxianpeng.github.io/2021/10/git-cheatsheet/)
-- [How does SonarQube Community Edition integrate with the project](https://shenxianpeng.github.io/2021/09/sonarqube-integration/)
 <!-- BLOG-POST-LIST:END -->
 
 [blogger]: https://shenxianpeng.github.io/
