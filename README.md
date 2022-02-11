@@ -20,8 +20,8 @@ I'm a Build/DevOps Engineer at [Rocket Software](https://www.rocketsoftware.com)
 # Recent blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [什么是 Vagrant? Vagrant 和 VirtualBox 的区别](https://shenxianpeng.github.io/2022/01/vagrant/)
 - [Vagrant 和 Docker 的区别，该如何选？](https://shenxianpeng.github.io/2022/01/vagrant-vs-docker/)
+- [什么是 Vagrant? Vagrant 和 VirtualBox 的区别](https://shenxianpeng.github.io/2022/01/vagrant/)
 - [什么是 Go ？Go 的优势和现状。初学者应该学习 Python 还是 Go？](https://shenxianpeng.github.io/2022/01/what-is-go/)
 - [你一定要了解这 17 条 Docker 最佳实践！](https://shenxianpeng.github.io/2022/01/docker-best-practice/)
 - [2022年序员如何选择显示器？1080p还是2K? 单屏还是多屏？](https://shenxianpeng.github.io/2021/12/choose-monitor/)
