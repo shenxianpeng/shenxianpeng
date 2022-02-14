@@ -4,11 +4,11 @@ I'm a Build/DevOps Engineer at [Rocket Software](https://www.rocketsoftware.com)
 
 ### Connect with me:
 
-[<img align="left" alt="shenxianpeng | Blogger" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/blogger.svg" />][blogger]
-[<img align="left" alt="shenxianpeng | ZhiHu" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/zhihu.svg" />][zhihu]
-[<img align="left" alt="shenxianpeng | Wechat" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/wechat.svg" />][wechat]
-[<img align="left" alt="shenxianpeng | LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="shenxianpeng | Gmail" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][gmail]
+[<img align="left" alt="shenxianpeng | Blogger" width="25px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/blogger-256.png" />][blogger]
+[<img align="left" alt="shenxianpeng | ZhiHu" width="25px" src="https://cdn4.iconfinder.com/data/icons/chinas-social-share-icons/256/cssi_zhihu-256.png" />][zhihu]
+[<img align="left" alt="shenxianpeng | Wechat" width="25px" src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_9-wechat-256.png" />][wechat]
+[<img align="left" alt="shenxianpeng | LinkedIn" width="25px" src="https://cdn4.iconfinder.com/data/icons/social-media-flat-7/64/Social-media_LinkedIn-256.png" />][linkedin]
+[<img align="left" alt="shenxianpeng | Gmail" width="25px" src="https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-gmail-social-media-justicon-flat-justicon.png" />][gmail]
 
 <br>
 
