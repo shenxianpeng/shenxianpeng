@@ -20,7 +20,7 @@ I'm a Build/DevOps Engineer at [Rocket Software](https://www.rocketsoftware.com)
 # Recent blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [从QA到DEV到DEVOPS，“码字”给我带来哪些收获](https://shenxianpeng.github.io/2022/02/from-qa-to-dev-to-devops/)
+- [从QA到DEV到DEVOPS，码字五年有哪些收获](https://shenxianpeng.github.io/2022/02/from-qa-to-dev-to-devops/)
 - [Vagrant 和 Docker 的区别，该如何选？](https://shenxianpeng.github.io/2022/01/vagrant-vs-docker/)
 - [什么是 Vagrant? Vagrant 和 VirtualBox 的区别](https://shenxianpeng.github.io/2022/01/vagrant/)
 - [什么是 Go ？Go 的优势和现状。初学者应该学习 Python 还是 Go？](https://shenxianpeng.github.io/2022/01/what-is-go/)
