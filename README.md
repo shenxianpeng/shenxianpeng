@@ -20,7 +20,7 @@ I'm a Build/DevOps Engineer at [Rocket Software](https://www.rocketsoftware.com)
 # Recent blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [DevOps 的问答和 2022 年最值得关注的趋势](https://shenxianpeng.github.io/2022/02/devops-trends-2022/)
+- [2022 年最值得关注的 DevOps 趋势和问答](https://shenxianpeng.github.io/2022/02/devops-trends-2022/)
 - [从QA到DEV到DEVOPS，码字五年有哪些收获](https://shenxianpeng.github.io/2022/02/from-qa-to-dev-to-devops/)
 - [Vagrant 和 Docker 的区别，该如何选？](https://shenxianpeng.github.io/2022/01/vagrant-vs-docker/)
 - [什么是 Vagrant? Vagrant 和 VirtualBox 的区别](https://shenxianpeng.github.io/2022/01/vagrant/)
