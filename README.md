@@ -20,6 +20,7 @@ I'm a Build/DevOps Engineer at [Rocket Software](https://www.rocketsoftware.com)
 # Recent blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [用了这么久的 Jenkins 和 Groovy，是时候认识一下 Groovy 了](https://shenxianpeng.github.io/2022/03/groovy/)
 - [Resolved - The Pip Inspector tree parse failed to produce output](https://shenxianpeng.github.io/2022/03/blackduck-troubleshooting/)
 - [2022 年最值得关注的 DevOps 趋势和问答](https://shenxianpeng.github.io/2022/02/devops-trends-2022/)
 - [从QA到DEV到DEVOPS，码字五年有哪些收获](https://shenxianpeng.github.io/2022/02/from-qa-to-dev-to-devops/)
@@ -29,7 +30,6 @@ I'm a Build/DevOps Engineer at [Rocket Software](https://www.rocketsoftware.com)
 - [你一定要了解这 17 条 Docker 最佳实践！](https://shenxianpeng.github.io/2022/01/docker-best-practice/)
 - [2022年序员如何选择显示器？1080p还是2K? 单屏还是多屏？](https://shenxianpeng.github.io/2021/12/choose-monitor/)
 - [组织内如何评估 CI/CD 成熟度](https://shenxianpeng.github.io/2021/12/cicd-assessment/)
-- [GitHub Actions 还能这么玩？自动将发布的博客文章更新到 GitHub 个人主页](https://shenxianpeng.github.io/2021/11/special-repository/)
 <!-- BLOG-POST-LIST:END -->
 
 [blogger]: https://shenxianpeng.github.io/
