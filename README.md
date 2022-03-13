@@ -20,7 +20,7 @@ I'm a Build/DevOps Engineer at [Rocket Software](https://www.rocketsoftware.com)
 # Recent blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [最靠谱的办法：在不删除和重建 GitHub 仓库的情况下与父&lpar;Fork&rpar;仓库分离](https://shenxianpeng.github.io/2022/03/unfork-github-repo/)
+- [靠谱：在不删除和重建 GitHub 仓库的情况下与父&lpar;Fork&rpar;仓库分离&lpar;Unfork&rpar;](https://shenxianpeng.github.io/2022/03/unfork-github-repo/)
 - [在 Jenkins 上用了这么久的 Groovy，是时候认识一下它了](https://shenxianpeng.github.io/2022/03/groovy/)
 - [Resolved - The Pip Inspector tree parse failed to produce output](https://shenxianpeng.github.io/2022/03/blackduck-troubleshooting/)
 - [2022 年最值得关注的 DevOps 趋势和问答](https://shenxianpeng.github.io/2022/02/devops-trends-2022/)
