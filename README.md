@@ -20,6 +20,7 @@ I'm a Build/DevOps Engineer at [Rocket Software](https://www.rocketsoftware.com)
 # Recent blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to enable, setup and disable Jenkins LDAP](https://shenxianpeng.github.io/2022/03/jenkins-ldap-configuration/)
 - [靠谱：在不删除和重建 GitHub 仓库的情况下与父&lpar;Fork&rpar;仓库分离&lpar;Unfork&rpar;](https://shenxianpeng.github.io/2022/03/unfork-github-repo/)
 - [在 Jenkins 上用了这么久的 Groovy，是时候认识一下它了](https://shenxianpeng.github.io/2022/03/groovy/)
 - [Resolved - The Pip Inspector tree parse failed to produce output](https://shenxianpeng.github.io/2022/03/blackduck-troubleshooting/)
@@ -29,7 +30,6 @@ I'm a Build/DevOps Engineer at [Rocket Software](https://www.rocketsoftware.com)
 - [什么是 Vagrant? Vagrant 和 VirtualBox 的区别](https://shenxianpeng.github.io/2022/01/vagrant/)
 - [什么是 Go ？Go 的优势和现状。初学者应该学习 Python 还是 Go？](https://shenxianpeng.github.io/2022/01/what-is-go/)
 - [你一定要了解这 17 条 Docker 最佳实践！](https://shenxianpeng.github.io/2022/01/docker-best-practice/)
-- [2022年序员如何选择显示器？1080p还是2K? 单屏还是多屏？](https://shenxianpeng.github.io/2021/12/choose-monitor/)
 <!-- BLOG-POST-LIST:END -->
 
 [blogger]: https://shenxianpeng.github.io/
