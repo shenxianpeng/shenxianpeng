@@ -1,6 +1,6 @@
 ## Hi there, I'm Peter 👋
 
-I'm a Build/DevOps Engineer at [Rocket Software](https://www.rocketsoftware.com).
+I'm a Build/DevOps Engineer.
 
 ### Connect with me:
 
