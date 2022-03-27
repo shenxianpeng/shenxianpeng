@@ -4,6 +4,13 @@ I'm a Build/DevOps Engineer.
 
 ### Connect with me:
 
+<img align="left" alt="shenxianpeng | WeChat" src="https://github.com/shenxianpeng/blog/blob/master/source/about/index/qrcode.png" />
+<br>
+<br>
+<br>
+<br>
+<br>
+
 [<img align="left" alt="shenxianpeng | Blogger" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/blogger.svg" />][blogger]
 [<img align="left" alt="shenxianpeng | ZhiHu" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/zhihu.svg" />][zhihu]
 [<img align="left" alt="shenxianpeng | Wechat" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/wechat.svg" />][wechat]
@@ -11,9 +18,6 @@ I'm a Build/DevOps Engineer.
 [<img align="left" alt="shenxianpeng | Gmail" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][gmail]
 
 <br>
-
-<!-- <img align="left" alt="shenxianpeng | WeChat" width="135px" src="https://github.com/shenxianpeng/blog/blob/master/source/about/index/qrcode.jpg" />
- -->
 
 ---
 
