@@ -16,6 +16,7 @@ I'm a Build/DevOps Engineer.
 [<img align="left" alt="shenxianpeng | Wechat" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/wechat.svg" />][wechat]
 [<img align="left" alt="shenxianpeng | LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="shenxianpeng | Gmail" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][gmail]
+[<img align="left" alt="shenxianpeng | DEV" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/dev-dot-to.svg" />][dev.to]
 
 <br>
 
@@ -39,9 +40,9 @@ I'm a Build/DevOps Engineer.
 [blogger]: https://shenxianpeng.github.io/
 [zhihu]: https://www.zhihu.com/people/shenxianpeng
 [wechat]: http://mp.weixin.qq.com/profile?src=3&timestamp=1636449668&ver=1&signature=mWc-OIPct-8wSKUXsur7QPDlIvIE*B70DUninRKnMcS4yQGuJj7JEaK-FxzsHGdVbK4yX8PvY60*a0iEEj7Njw==
-<!-- [wechat]: http://mp.weixin.qq.com/mp/getmasssendmsg?__biz=MzU2NjE2MDY0MA==#wechat_webview_type=1&wechat_redirect -->
 [linkedin]: https://www.linkedin.com/in/xianpeng-shen/
 [gmail]: mailto:xianpeng.shen@gmail.com
+[dev.to]: https://dev.to/shenxianpeng
 
  ![Profile views](https://gpvc.arturio.dev/shenxianpeng)
 
