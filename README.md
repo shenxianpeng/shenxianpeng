@@ -25,7 +25,7 @@ I'm a Build/DevOps Engineer.
 # Recent blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Docker，containerd，CRI，CRI-O，OCI，runc 分不清？看这一篇就够了](https://shenxianpeng.github.io/2022/03/container-ecosystem/)
+- [关于 Docker，containerd，CRI，CRI-O，OCI，runc 的解释以及它们是如何工作在一起的](https://shenxianpeng.github.io/2022/03/container-ecosystem/)
 - [How to enable, configure and disable Jenkins LDAP](https://shenxianpeng.github.io/2022/03/jenkins-ldap-configuration/)
 - [靠谱：在不删除和重建 GitHub 仓库的情况下与父&lpar;Fork&rpar;仓库分离&lpar;Unfork&rpar;](https://shenxianpeng.github.io/2022/03/unfork-github-repo/)
 - [在 Jenkins 上用了这么久的 Groovy，是时候认识一下它了](https://shenxianpeng.github.io/2022/03/groovy/)
