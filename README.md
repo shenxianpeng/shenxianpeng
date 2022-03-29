@@ -25,7 +25,8 @@ I'm a Build/DevOps Engineer.
 # Recent blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How to enable, setup and disable Jenkins LDAP](https://shenxianpeng.github.io/2022/03/jenkins-ldap-configuration/)
+- [一篇文章搞懂什么是 Docker，containerd，CRI，CRI-O，OCI，runc](https://shenxianpeng.github.io/2022/03/container-ecosystem/)
+- [How to enable, configure and disable Jenkins LDAP](https://shenxianpeng.github.io/2022/03/jenkins-ldap-configuration/)
 - [靠谱：在不删除和重建 GitHub 仓库的情况下与父&lpar;Fork&rpar;仓库分离&lpar;Unfork&rpar;](https://shenxianpeng.github.io/2022/03/unfork-github-repo/)
 - [在 Jenkins 上用了这么久的 Groovy，是时候认识一下它了](https://shenxianpeng.github.io/2022/03/groovy/)
 - [Resolved - The Pip Inspector tree parse failed to produce output](https://shenxianpeng.github.io/2022/03/blackduck-troubleshooting/)
@@ -34,7 +35,6 @@ I'm a Build/DevOps Engineer.
 - [Vagrant 和 Docker 的区别，该如何选？](https://shenxianpeng.github.io/2022/01/vagrant-vs-docker/)
 - [什么是 Vagrant? Vagrant 和 VirtualBox 的区别](https://shenxianpeng.github.io/2022/01/vagrant/)
 - [什么是 Go ？Go 的优势和现状。初学者应该学习 Python 还是 Go？](https://shenxianpeng.github.io/2022/01/what-is-go/)
-- [你一定要了解这 17 条 Docker 最佳实践！](https://shenxianpeng.github.io/2022/01/docker-best-practice/)
 <!-- BLOG-POST-LIST:END -->
 
 [blogger]: https://shenxianpeng.github.io/
