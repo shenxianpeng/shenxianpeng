@@ -1,6 +1,8 @@
-## Hi there, I'm Peter 👋
+## Hi there, I'm Peter Shen 👋
 
 I'm a Build/DevOps engineer. I'm also the author of the WeChat account `DevOps-Engineer`.
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=shenxianpeng&show_icons=true&&theme=vue)
 
 <img alt="shenxianpeng | WeChat" src="https://github.com/shenxianpeng/blog/blob/master/source/about/index/qrcode.png" />
  
