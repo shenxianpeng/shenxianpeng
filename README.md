@@ -7,10 +7,10 @@ I'm a Build/DevOps engineer. I'm also the author of the WeChat account `DevOps-E
 <img alt="shenxianpeng | WeChat" src="https://github.com/shenxianpeng/blog/blob/master/source/about/index/qrcode.png" />
  
 📫 Connect with me =>
-[<img alt="shenxianpeng | Gmail" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][gmail]
-[<img alt="shenxianpeng | LinkedIn" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] 
-[<img alt="shenxianpeng | Blogger" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/blogger.svg" />][blogger] 
-[<img alt="shenxianpeng | ZhiHu" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/zhihu.svg" />][zhihu] 
+[<img alt="shenxianpeng | Gmail" width="20px" src="https://www.svgrepo.com/show/381000/new-logo-gmail.svg" />][gmail]
+[<img alt="shenxianpeng | LinkedIn" width="20px" src="https://www.svgrepo.com/show/157006/linkedin.svg" />][linkedin] 
+[<img alt="shenxianpeng | Blogger" width="20px" src="https://www.svgrepo.com/show/349311/blogger.svg" />][blogger] 
+[<img alt="shenxianpeng | ZhiHu" width="20px" src="https://www.svgrepo.com/show/305628/zhihu.svg" />][zhihu] 
 
 <!-- [<img align="left" alt="shenxianpeng | Wechat" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/wechat.svg" />][wechat] -->
 <!-- [<img align="left" alt="shenxianpeng | DEV" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/dev-dot-to.svg" />][dev.to] -->
