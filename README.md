@@ -1,6 +1,7 @@
-## Hi there, I'm Peter Shen 👋
+## Hi there, I'm Peter 👋
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=shenxianpeng&show_icons=true&&theme=vue)
+<!-- ![GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shenxianpeng&theme=github) -->
 
 ## Me
 
