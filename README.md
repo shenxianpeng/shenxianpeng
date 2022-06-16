@@ -24,6 +24,7 @@
 # Recent blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [努力做好一个爸爸](https://shenxianpeng.github.io/2022/06/to-be-a-father/)
 - [WSL + VS Code + Docker Desktop 在 Windows 做开发还能这么爽！](https://shenxianpeng.github.io/2022/04/wsl/)
 - [关于 Docker，containerd，CRI，CRI-O，OCI，runc 的解释以及它们是如何工作在一起的](https://shenxianpeng.github.io/2022/03/container-ecosystem/)
 - [How to enable, configure and disable Jenkins LDAP](https://shenxianpeng.github.io/2022/03/jenkins-ldap-configuration/)
@@ -33,7 +34,6 @@
 - [2022 年最值得关注的 DevOps 趋势和问答](https://shenxianpeng.github.io/2022/02/devops-trends-2022/)
 - [从QA到DEV到DEVOPS，码字五年有哪些收获](https://shenxianpeng.github.io/2022/02/from-qa-to-dev-to-devops/)
 - [Vagrant 和 Docker 的区别，该如何选？](https://shenxianpeng.github.io/2022/01/vagrant-vs-docker/)
-- [什么是 Vagrant? Vagrant 和 VirtualBox 的区别](https://shenxianpeng.github.io/2022/01/vagrant/)
 <!-- BLOG-POST-LIST:END -->
 
 [blogger]: https://shenxianpeng.github.io/
