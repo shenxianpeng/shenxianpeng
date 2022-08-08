@@ -5,8 +5,7 @@
 
 ## Me
 
-* I'm a Build/DevOps engineer for RocketSoftware
-* I'm the author of the WeChat account [DevOps-Engineer][wechat].
+I'm a Build/DevOps engineer and the author of the WeChat account [DevOps-Engineer][wechat].
 
 <img alt="shenxianpeng | WeChat" src="https://github.com/shenxianpeng/blog/blob/master/source/about/index/qrcode.png" />
  
