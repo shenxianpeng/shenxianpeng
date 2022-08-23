@@ -23,8 +23,8 @@ I'm a Build/DevOps engineer and the author of the WeChat account [DevOps-Enginee
 # Recent blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [三个月陪产假期间的个人计划和周报](https://shenxianpeng.github.io/2022/06/vacation-weekly-report/)
 - [How to create GPG keys and add to GitHub](https://shenxianpeng.github.io/2022/07/create-gpg-keys/)
-- [当爸爸了 &amp; 未来三个月陪产假期间的个人计划和周报](https://shenxianpeng.github.io/2022/06/to-be-a-father/)
 - [在 Windows 做开发还能这么爽？WSL + VS Code + Docker Desktop 你值得有用](https://shenxianpeng.github.io/2022/04/wsl/)
 - [关于 Docker，containerd，CRI，CRI-O，OCI，runc 的解释以及它们是如何工作在一起的](https://shenxianpeng.github.io/2022/03/container-ecosystem/)
 - [How to enable, configure and disable Jenkins LDAP](https://shenxianpeng.github.io/2022/03/jenkins-ldap-configuration/)
