@@ -32,11 +32,6 @@
 - [在 Windows 做开发还能这么爽？WSL + VS Code + Docker Desktop 你值得有用](https://shenxianpeng.github.io/2022/04/wsl/)
 - [关于 Docker，containerd，CRI，CRI-O，OCI，runc 的解释以及它们是如何工作在一起的](https://shenxianpeng.github.io/2022/03/container-ecosystem/)
 - [How to enable, configure and disable Jenkins LDAP](https://shenxianpeng.github.io/2022/03/jenkins-ldap-configuration/)
-- [靠谱：在不删除和重建 GitHub 仓库的情况下与父&lpar;Fork&rpar;仓库分离&lpar;Unfork&rpar;](https://shenxianpeng.github.io/2022/03/unfork-github-repo/)
-- [在 Jenkins 上用了这么久的 Groovy，是时候认识一下它了](https://shenxianpeng.github.io/2022/03/groovy/)
-- [Resolved - The Pip Inspector tree parse failed to produce output](https://shenxianpeng.github.io/2022/03/blackduck-troubleshooting/)
-- [2022 年最值得关注的 DevOps 趋势和问答](https://shenxianpeng.github.io/2022/02/devops-trends-2022/)
-- [从QA到DEV到DEVOPS，码字五年有哪些收获](https://shenxianpeng.github.io/2022/02/from-qa-to-dev-to-devops/)
 <!-- BLOG-POST-LIST:END -->
 
 [blogger]: https://shenxianpeng.github.io/
