@@ -10,7 +10,7 @@
 * Author of the official account [DevOps-Engineer][wechat] 
 * Creator of [cpp-linter][cpp-linter]
 
-<img alt="shenxianpeng | WeChat" src="https://github.com/shenxianpeng/blog/blob/master/source/about/index/qrcode.png" />
+<!-- <img alt="shenxianpeng | WeChat" src="https://github.com/shenxianpeng/blog/blob/master/source/about/index/qrcode.png" /> -->
  
 📫 Connect with me=>
 [<img alt="shenxianpeng | Gmail" width="20px" src="https://www.svgrepo.com/show/381000/new-logo-gmail.svg" />][gmail]
