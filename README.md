@@ -8,7 +8,7 @@
 
 * A Build/DevOps engineer
 * Author of the official account [DevOps-Engineer][wechat] 
-* Creator of [cpp-linter][cpp-linter]
+* Creator and contributor of [cpp-linter][cpp-linter]
 
 <!-- <img alt="shenxianpeng | WeChat" src="https://github.com/shenxianpeng/blog/blob/master/source/about/index/qrcode.png" /> -->
  
@@ -17,7 +17,7 @@
 [<img alt="shenxianpeng | LinkedIn" width="20px" src="https://www.svgrepo.com/show/157006/linkedin.svg" />][linkedin] 
 [<img alt="shenxianpeng | Blogger" width="20px" src="https://www.svgrepo.com/show/349311/blogger.svg" />][blogger] 
 [<img alt="shenxianpeng | ZhiHu" width="20px" src="https://www.svgrepo.com/show/305628/zhihu.svg" />][zhihu]
-[<img alt="shenxianpeng | PayPal" width="20px" src="https://www.svgrepo.com/show/354170/paypal.svg" />][paypal] 
+<!-- [<img alt="shenxianpeng | PayPal" width="20px" src="https://www.svgrepo.com/show/354170/paypal.svg" />][paypal] -->
 
 <!-- [<img align="left" alt="shenxianpeng | Wechat" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/wechat.svg" />][wechat] -->
 <!-- [<img align="left" alt="shenxianpeng | DEV" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/dev-dot-to.svg" />][dev.to] -->
