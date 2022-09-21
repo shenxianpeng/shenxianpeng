@@ -1,10 +1,8 @@
-## Hi there, I'm Peter 👋
+### Hi there, I'm Peter 👋
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=shenxianpeng&show_icons=true&&theme=default&count_private=true&&include_all_commits=true)
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=shenxianpeng&show_icons=true&&theme=default&count_private=true&&include_all_commits=true) -->
 
-<!-- ![GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shenxianpeng&theme=github) -->
-
-## Me
+## Here's what I'm up to
 
 * A Build/DevOps engineer
 * Author of the official account [DevOps-Engineer][wechat] 
@@ -12,15 +10,18 @@
 
 <!-- <img alt="shenxianpeng | WeChat" src="https://github.com/shenxianpeng/blog/blob/master/source/about/index/qrcode.png" /> -->
  
-📫 Connect with me=>
-[<img alt="shenxianpeng | Gmail" width="20px" src="https://www.svgrepo.com/show/381000/new-logo-gmail.svg" />][gmail]
-[<img alt="shenxianpeng | LinkedIn" width="20px" src="https://www.svgrepo.com/show/157006/linkedin.svg" />][linkedin] 
-[<img alt="shenxianpeng | Blogger" width="20px" src="https://www.svgrepo.com/show/349311/blogger.svg" />][blogger] 
-[<img alt="shenxianpeng | ZhiHu" width="20px" src="https://www.svgrepo.com/show/305628/zhihu.svg" />][zhihu]
+### Connect with me:
+
+[<img align="left" alt="shenxianpeng | Gmail" width="22px" src="https://www.svgrepo.com/show/381000/new-logo-gmail.svg" />][gmail]
+[<img align="left" alt="shenxianpeng | LinkedIn" width="22px" src="https://www.svgrepo.com/show/157006/linkedin.svg" />][linkedin] 
+[<img align="left" alt="shenxianpeng | Blogger" width="22px" src="https://www.svgrepo.com/show/349311/blogger.svg" />][blogger] 
+[<img align="left" alt="shenxianpeng | ZhiHu" width="22px" src="https://www.svgrepo.com/show/305628/zhihu.svg" />][zhihu]
 <!-- [<img alt="shenxianpeng | PayPal" width="20px" src="https://www.svgrepo.com/show/354170/paypal.svg" />][paypal] -->
 
 <!-- [<img align="left" alt="shenxianpeng | Wechat" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/wechat.svg" />][wechat] -->
 <!-- [<img align="left" alt="shenxianpeng | DEV" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/dev-dot-to.svg" />][dev.to] -->
+
+<br />
 
 ---
 
