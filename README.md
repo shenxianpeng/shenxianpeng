@@ -28,6 +28,7 @@
 # Recent blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to fix &quot;Temporary Failure in name resolution&quot; in WSL](https://shenxianpeng.github.io/2022/09/fix-wsl-networking-issue/)
 - [Restrict others from login your important Linux machine](https://shenxianpeng.github.io/2022/09/restrict-connect-server/)
 - [C/C++ 代码格式化和静态分析检查的一站式工作流 Cpp Linter](https://shenxianpeng.github.io/2022/08/cpp-linter/)
 - [How to create GPG keys and add to GitHub](https://shenxianpeng.github.io/2022/07/create-gpg-keys/)
@@ -37,7 +38,6 @@
 - [How to enable, configure and disable Jenkins LDAP](https://shenxianpeng.github.io/2022/03/jenkins-ldap-configuration/)
 - [靠谱：在不删除和重建 GitHub 仓库的情况下与父&lpar;Fork&rpar;仓库分离&lpar;Unfork&rpar;](https://shenxianpeng.github.io/2022/03/unfork-github-repo/)
 - [在 Jenkins 上用了这么久的 Groovy，是时候认识一下它了](https://shenxianpeng.github.io/2022/03/groovy/)
-- [Resolved - The Pip Inspector tree parse failed to produce output](https://shenxianpeng.github.io/2022/03/blackduck-troubleshooting/)
 <!-- BLOG-POST-LIST:END -->
 
 [blogger]: https://shenxianpeng.github.io/
