@@ -42,7 +42,7 @@
 
 [blogger]: https://shenxianpeng.github.io/
 [zhihu]: https://www.zhihu.com/people/shenxianpeng
-[wechat]: https://shenxianpeng.github.io/about/index/qrcode.jpg
+[wechat]: https://github.com/shenxianpeng/blog/blob/master/source/about/index/qrcode.jpg?raw=true
 [linkedin]: https://www.linkedin.com/in/xianpeng-shen/
 [gmail]: mailto:xianpeng.shen@gmail.com
 [paypal]: https://www.paypal.me/shenxianpeng
