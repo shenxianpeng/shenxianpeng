@@ -12,10 +12,10 @@
  
 ### Connect with me:
 
-[<img align="left" alt="shenxianpeng | Blogger" width="22px" src="https://www.svgrepo.com/show/349311/blogger.svg" />][blogger] 
-[<img align="left" alt="shenxianpeng | ZhiHu" width="22px" src="https://www.svgrepo.com/show/305628/zhihu.svg" />][zhihu]
-[<img align="left" alt="shenxianpeng | Gmail" width="22px" src="https://www.svgrepo.com/show/381000/new-logo-gmail.svg" />][gmail]
-[<img align="left" alt="shenxianpeng | LinkedIn" width="22px" src="https://www.svgrepo.com/show/157006/linkedin.svg" />][linkedin] 
+[<img align="left" alt="shenxianpeng | Blogger" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/blogger.svg" />][blogger] 
+[<img align="left" alt="shenxianpeng | ZhiHu" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/zhihu.svg" />][zhihu]
+[<img align="left" alt="shenxianpeng | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][gmail]
+[<img align="left" alt="shenxianpeng | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" />][linkedin] 
 
 <!-- [<img alt="shenxianpeng | PayPal" width="20px" src="https://www.svgrepo.com/show/354170/paypal.svg" />][paypal] -->
 
