@@ -29,6 +29,7 @@
 # Recent blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [2022 年终总结](https://shenxianpeng.github.io/2022/12/2022-summary/)
 - [How to implement [skip ci] for Jenkins multi-branch pipeline](https://shenxianpeng.github.io/2022/10/jenkins-skip-ci/)
 - [How to fix &quot;Temporary Failure in name resolution&quot; in WSL](https://shenxianpeng.github.io/2022/09/fix-wsl-networking-issue/)
 - [Restrict others from login your important Linux machine](https://shenxianpeng.github.io/2022/09/restrict-connect-server/)
@@ -38,7 +39,6 @@
 - [在 Windows 做开发还能这么爽？WSL + VS Code + Docker Desktop 你值得有用](https://shenxianpeng.github.io/2022/04/wsl/)
 - [关于 Docker，containerd，CRI，CRI-O，OCI，runc 的解释以及它们是如何工作在一起的](https://shenxianpeng.github.io/2022/03/container-ecosystem/)
 - [How to enable, configure and disable Jenkins LDAP](https://shenxianpeng.github.io/2022/03/jenkins-ldap-configuration/)
-- [靠谱：在不删除和重建 GitHub 仓库的情况下与父&lpar;Fork&rpar;仓库分离&lpar;Unfork&rpar;](https://shenxianpeng.github.io/2022/03/unfork-github-repo/)
 <!-- BLOG-POST-LIST:END -->
 
 [blogger]: https://shenxianpeng.github.io/
