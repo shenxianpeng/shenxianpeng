@@ -4,10 +4,13 @@
 
 ## Here's what I'm up to
 
-* A Build/DevOps engineer
+* A DevOps/Build/Release/Automation engineer
 * Author of the official account [DevOps-Engineer][wechat] 
-<!-- * Creator and contributor of [cpp-linter][cpp-linter] -->
+* Creator and contributor of [cpp-linter][cpp-linter] and [commit-check][commit-check]
 
+If my open-source projects are useful for your **company/product** you can also sponsor my work on them ☕
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H85WC9L)
 <!-- <img alt="shenxianpeng | WeChat" src="https://github.com/shenxianpeng/blog/blob/master/source/about/index/qrcode.png" /> -->
  
 ### Connect with me:
@@ -49,6 +52,7 @@
 [paypal]: https://www.paypal.me/shenxianpeng
 [dev.to]: https://dev.to/shenxianpeng
 [cpp-linter]: https://github.com/cpp-linter
+[commit-check]: https://github.com/commit-check
 
  ![Profile views](https://gpvc.arturio.dev/shenxianpeng)
  
