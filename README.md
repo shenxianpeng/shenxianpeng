@@ -32,6 +32,7 @@ If my open-source projects are useful for your **company/product** you can also 
 # Recent blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Jenkins pipeline 最佳实践](https://shenxianpeng.github.io/2023/02/pipeline-best-practices/)
 - [2022 年终总结](https://shenxianpeng.github.io/2022/12/2022-summary/)
 - [How to implement [skip ci] for Jenkins multi-branch pipeline](https://shenxianpeng.github.io/2022/10/jenkins-skip-ci/)
 - [How to fix &quot;Temporary Failure in name resolution&quot; in WSL](https://shenxianpeng.github.io/2022/09/fix-wsl-networking-issue/)
@@ -41,7 +42,6 @@ If my open-source projects are useful for your **company/product** you can also 
 - [12 周的陪产假我一刻都没闲着](https://shenxianpeng.github.io/2022/06/vacation-weekly-report/)
 - [在 Windows 做开发还能这么爽？WSL + VS Code + Docker Desktop 你值得有用](https://shenxianpeng.github.io/2022/04/wsl/)
 - [关于 Docker，containerd，CRI，CRI-O，OCI，runc 的解释以及它们是如何工作在一起的](https://shenxianpeng.github.io/2022/03/container-ecosystem/)
-- [How to enable, configure and disable Jenkins LDAP](https://shenxianpeng.github.io/2022/03/jenkins-ldap-configuration/)
 <!-- BLOG-POST-LIST:END -->
 
 [blogger]: https://shenxianpeng.github.io/
