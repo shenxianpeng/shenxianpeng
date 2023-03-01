@@ -4,6 +4,7 @@ on:
   repository_dispatch: 
     types: [special_repository]
   workflow_dispatch:
+  workflow_call:
 
 jobs:
   update-readme-with-blog:
