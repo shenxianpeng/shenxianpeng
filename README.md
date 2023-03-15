@@ -33,7 +33,7 @@ If my open-source projects are useful for your **company/product** you can also 
 
 <!-- BLOG-POST-LIST:START -->
 - [如何在 DevOps 任务中使用 ChatGPT?](https://shenxianpeng.github.io/2023/02/chatgpt-for-devops/)
-- [为什么我的 Jenkins 越来越慢？你可能犯了这些错误](https://shenxianpeng.github.io/2023/02/pipeline-best-practices/)
+- [为什么我的 Jenkins Controller 越来越慢？可能犯了这些错误...](https://shenxianpeng.github.io/2023/02/pipeline-best-practices/)
 - [2022 年终总结](https://shenxianpeng.github.io/2022/12/2022-summary/)
 - [How to implement [skip ci] for Jenkins multi-branch pipeline](https://shenxianpeng.github.io/2022/10/jenkins-skip-ci/)
 - [How to fix &quot;Temporary Failure in name resolution&quot; in WSL](https://shenxianpeng.github.io/2022/09/fix-wsl-networking-issue/)
