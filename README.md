@@ -32,6 +32,7 @@ If my open-source projects are useful for your **company/product** you can also 
 # Recent blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Jenkins agent service can not start automatically on Windows even the Startup type is Automatic](https://shenxianpeng.github.io/2023/04/jenkins-troubleshooting/)
 - [SLSA 框架与软件供应链安全防护](https://shenxianpeng.github.io/2023/03/slsa/)
 - [如何在 DevOps 任务中使用 ChatGPT?](https://shenxianpeng.github.io/2023/02/chatgpt-for-devops/)
 - [为什么我的 Jenkins Controller 越来越慢？可能犯了这些错误...](https://shenxianpeng.github.io/2023/02/pipeline-best-practices/)
@@ -41,7 +42,6 @@ If my open-source projects are useful for your **company/product** you can also 
 - [Restrict others from login your important Linux machine](https://shenxianpeng.github.io/2022/09/restrict-connect-server/)
 - [C/C++ 代码格式化和静态分析检查的一站式工作流 Cpp Linter](https://shenxianpeng.github.io/2022/08/cpp-linter/)
 - [How to create GPG keys and add to GitHub](https://shenxianpeng.github.io/2022/07/create-gpg-keys/)
-- [12 周的陪产假我一刻都没闲着](https://shenxianpeng.github.io/2022/06/vacation-weekly-report/)
 <!-- BLOG-POST-LIST:END -->
 
 [blogger]: https://shenxianpeng.github.io/
