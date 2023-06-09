@@ -30,6 +30,7 @@ If my open-source projects are useful for your **company/product** you can also 
 # Recent blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [如果你是项目成员，需不需要 Fork 原始仓库还是直接在原始仓库上修改？](https://shenxianpeng.github.io/2023/06/fork-or-unfork/)
 - [程序员自我修养之Git提交信息和分支创建规范（工具篇）](https://shenxianpeng.github.io/2023/05/commit-check/)
 - [Jenkins agent service can not start automatically on Windows](https://shenxianpeng.github.io/2023/04/jenkins-troubleshooting/)
 - [SLSA 框架与软件供应链安全防护](https://shenxianpeng.github.io/2023/03/slsa/)
@@ -39,7 +40,6 @@ If my open-source projects are useful for your **company/product** you can also 
 - [How to implement [skip ci] for Jenkins multi-branch pipeline](https://shenxianpeng.github.io/2022/10/jenkins-skip-ci/)
 - [How to fix &quot;Temporary Failure in name resolution&quot; in WSL](https://shenxianpeng.github.io/2022/09/fix-wsl-networking-issue/)
 - [Restrict others from login your important Linux machine](https://shenxianpeng.github.io/2022/09/restrict-connect-server/)
-- [C/C++ 代码格式化和静态分析检查的一站式工作流 Cpp Linter](https://shenxianpeng.github.io/2022/08/cpp-linter/)
 <!-- BLOG-POST-LIST:END -->
 
 [blogger]: https://shenxianpeng.github.io/
