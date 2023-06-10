@@ -30,6 +30,7 @@ If my open-source projects are useful for your **company/product** you can also 
 # Recent blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [一篇文章搞清楚什么是 SBOM（Software Bill of Materials）以及它与 SLSA 等概念的区别](https://shenxianpeng.github.io/2023/06/sbom/)
 - [如果你是项目成员，是 Fork 原始仓库还是直接原始仓库中修改代码？](https://shenxianpeng.github.io/2023/06/fork-or-unfork/)
 - [程序员自我修养之Git提交信息和分支创建规范（工具篇）](https://shenxianpeng.github.io/2023/05/commit-check/)
 - [Jenkins agent service can not start automatically on Windows](https://shenxianpeng.github.io/2023/04/jenkins-troubleshooting/)
@@ -39,7 +40,6 @@ If my open-source projects are useful for your **company/product** you can also 
 - [2022 年终总结](https://shenxianpeng.github.io/2022/12/2022-summary/)
 - [How to implement [skip ci] for Jenkins multi-branch pipeline](https://shenxianpeng.github.io/2022/10/jenkins-skip-ci/)
 - [How to fix &quot;Temporary Failure in name resolution&quot; in WSL](https://shenxianpeng.github.io/2022/09/fix-wsl-networking-issue/)
-- [Restrict others from login your important Linux machine](https://shenxianpeng.github.io/2022/09/restrict-connect-server/)
 <!-- BLOG-POST-LIST:END -->
 
 [blogger]: https://shenxianpeng.github.io/
