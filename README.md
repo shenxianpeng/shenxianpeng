@@ -30,7 +30,7 @@ If my open-source projects are useful for your **company/product** you can also 
 # Recent blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [一篇文章说清楚什么是 SBOM（软件材料清单）](https://shenxianpeng.github.io/2023/06/sbom/)
+- [深入了解 SBOM：定义、关系、区别、最佳实践和生成工具](https://shenxianpeng.github.io/2023/06/sbom/)
 - [如果你是项目成员，是 Fork 原始仓库还是直接原始仓库中修改代码？](https://shenxianpeng.github.io/2023/06/fork-or-unfork/)
 - [程序员自我修养之Git提交信息和分支创建规范（工具篇）](https://shenxianpeng.github.io/2023/05/commit-check/)
 - [Jenkins agent service can not start automatically on Windows](https://shenxianpeng.github.io/2023/04/jenkins-troubleshooting/)
