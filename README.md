@@ -30,6 +30,8 @@ If my open-source projects are useful for your **company/product** you can also 
 # Recent blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Upload artifacts failed to Artifactory from AIX](https://shenxianpeng.github.io/2023/08/upload-artifacts-failed-on-aix/)
+- [创建 NuGet Organization 的遇到的坑](https://shenxianpeng.github.io/2023/08/nuget/)
 - [Docker Buildx Bake：加速构建和管理多平台镜像的利器](https://shenxianpeng.github.io/2023/07/buildx-bake/)
 - [详解SBOM：定义、关系、区别、最佳实践和生成工具](https://shenxianpeng.github.io/2023/06/sbom/)
 - [如果你是项目成员，是 Fork 原始仓库还是直接原始仓库中修改代码？](https://shenxianpeng.github.io/2023/06/fork-or-unfork/)
@@ -38,8 +40,6 @@ If my open-source projects are useful for your **company/product** you can also 
 - [SLSA 框架与软件供应链安全防护](https://shenxianpeng.github.io/2023/03/slsa/)
 - [如何在 DevOps 任务中使用 ChatGPT?](https://shenxianpeng.github.io/2023/02/chatgpt-for-devops/)
 - [为什么我的 Jenkins Controller 越来越慢？可能犯了这些错误...](https://shenxianpeng.github.io/2023/02/pipeline-best-practices/)
-- [2022 年终总结](https://shenxianpeng.github.io/2022/12/2022-summary/)
-- [How to implement [skip ci] for Jenkins multi-branch pipeline](https://shenxianpeng.github.io/2022/10/jenkins-skip-ci/)
 <!-- BLOG-POST-LIST:END -->
 
 [blogger]: https://shenxianpeng.github.io/
