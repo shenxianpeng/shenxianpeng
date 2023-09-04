@@ -14,9 +14,9 @@ If my open-source projects are useful for your **company/product** you can also 
 
 ### Connect me
 
+[<img align="left" alt="shenxianpeng | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][gmail]
 [<img align="left" alt="shenxianpeng | Blogger" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/blogger.svg" />][blogger] 
 [<img align="left" alt="shenxianpeng | ZhiHu" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/zhihu.svg" />][zhihu]
-[<img align="left" alt="shenxianpeng | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][gmail]
 
 <!-- [<img align="left" alt="shenxianpeng | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" />][linkedin] 
  -->
