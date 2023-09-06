@@ -6,7 +6,7 @@
 
 * A DevOps/Build/Release/Automation engineer
 * Author of the official account [DevOps-Engineer][wechat] 
-* Creator and contributor of [cpp-linter][cpp-linter] and [commit-check][commit-check]
+* Creator and maintainer of [cpp-linter][cpp-linter] and [commit-check][commit-check]
 * Interested in software supply chain security
 
 If my open-source projects are useful for your **company/product** you can also sponsor my work on them
