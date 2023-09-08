@@ -53,5 +53,5 @@ If my open-source projects are useful for your **company/product** you can also 
 [commit-check]: https://github.com/commit-check
 [ko-fi]: https://ko-fi.com/H2H85WC9L
 
- ![Profile views](https://gpvc.arturio.dev/shenxianpeng)
+ ![Profile views](https://komarev.com/ghpvc/?username=shenxianpeng)
  
