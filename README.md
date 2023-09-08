@@ -30,6 +30,7 @@ If my open-source projects are useful for your **company/product** you can also 
 # Recent blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [解决在 AIX 通过 Jenkins agent git clone 失败的问题](https://shenxianpeng.github.io/2023/09/git-clone-failed-on-aix/)
 - [Upload artifacts failed to Artifactory from AIX](https://shenxianpeng.github.io/2023/08/upload-artifacts-failed-on-aix/)
 - [创建 NuGet Organization 的遇到的坑](https://shenxianpeng.github.io/2023/08/nuget/)
 - [Docker Buildx Bake：加速构建和管理多平台镜像的利器](https://shenxianpeng.github.io/2023/07/buildx-bake/)
@@ -39,7 +40,6 @@ If my open-source projects are useful for your **company/product** you can also 
 - [Jenkins agent service can not start automatically on Windows](https://shenxianpeng.github.io/2023/04/jenkins-troubleshooting/)
 - [SLSA 框架与软件供应链安全防护](https://shenxianpeng.github.io/2023/03/slsa/)
 - [如何在 DevOps 任务中使用 ChatGPT?](https://shenxianpeng.github.io/2023/02/chatgpt-for-devops/)
-- [为什么我的 Jenkins Controller 越来越慢？可能犯了这些错误...](https://shenxianpeng.github.io/2023/02/pipeline-best-practices/)
 <!-- BLOG-POST-LIST:END -->
 
 [blogger]: https://shenxianpeng.github.io/
