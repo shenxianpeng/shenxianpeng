@@ -30,6 +30,7 @@ If my open-source projects are useful for your **company/product** you can also 
 # Recent blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [解决通过 Jenkins Artifactory plugin 上传 artifacts 失败的问题 “unable to find valid certification path to requested target”](https://shenxianpeng.github.io/2023/09/unable-to-find-valid-certification-path/)
 - [解决在 AIX 通过 Jenkins agent git clone 失败的问题](https://shenxianpeng.github.io/2023/09/git-clone-failed-on-aix/)
 - [Upload artifacts failed to Artifactory from AIX](https://shenxianpeng.github.io/2023/08/upload-artifacts-failed-on-aix/)
 - [创建 NuGet Organization 的遇到的坑](https://shenxianpeng.github.io/2023/08/nuget/)
@@ -39,7 +40,6 @@ If my open-source projects are useful for your **company/product** you can also 
 - [程序员自我修养之Git提交信息和分支创建规范（工具篇）](https://shenxianpeng.github.io/2023/05/commit-check/)
 - [Jenkins agent service can not start automatically on Windows](https://shenxianpeng.github.io/2023/04/jenkins-troubleshooting/)
 - [SLSA 框架与软件供应链安全防护](https://shenxianpeng.github.io/2023/03/slsa/)
-- [如何在 DevOps 任务中使用 ChatGPT?](https://shenxianpeng.github.io/2023/02/chatgpt-for-devops/)
 <!-- BLOG-POST-LIST:END -->
 
 [blogger]: https://shenxianpeng.github.io/
