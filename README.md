@@ -30,8 +30,8 @@ If my open-source projects are useful for your **company/product** you can also 
 # Recent blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Python 和 SLSA 💃](https://shenxianpeng.github.io/2023/11/python-and-slsa/)
 - [Witness 和 SLSA 💃](https://shenxianpeng.github.io/2023/11/witness-and-slsa/)
+- [Python 和 SLSA 💃](https://shenxianpeng.github.io/2023/11/python-and-slsa/)
 - [Problems and solutions when upgrading XLC from 10.1 to IBM Open XL C/C++ for AIX 17.1.0](https://shenxianpeng.github.io/2023/10/upgrade-xlc-10-to-xlc-17.1/)
 - [2022-23 世界质量报告（World Quality Report）](https://shenxianpeng.github.io/2023/10/world-quality-report/)
 - [解决通过 Jenkins Artifactory plugin 上传 artifacts 失败的问题 “unable to find valid certification path to requested target”](https://shenxianpeng.github.io/2023/09/unable-to-find-valid-certification-path/)
