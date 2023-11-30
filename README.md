@@ -31,6 +31,7 @@ If my open-source projects are useful for your **company/product** you can also 
 
 <!-- BLOG-POST-LIST:START -->
 - [Python 和 SLSA 💃](https://shenxianpeng.github.io/2023/11/python-and-slsa/)
+- [Witness 和 SLSA 💃](https://shenxianpeng.github.io/2023/11/witness-and-slsa/)
 - [Problems and solutions when upgrading XLC from 10.1 to IBM Open XL C/C++ for AIX 17.1.0](https://shenxianpeng.github.io/2023/10/upgrade-xlc-10-to-xlc-17.1/)
 - [2022-23 世界质量报告（World Quality Report）](https://shenxianpeng.github.io/2023/10/world-quality-report/)
 - [解决通过 Jenkins Artifactory plugin 上传 artifacts 失败的问题 “unable to find valid certification path to requested target”](https://shenxianpeng.github.io/2023/09/unable-to-find-valid-certification-path/)
@@ -39,7 +40,6 @@ If my open-source projects are useful for your **company/product** you can also 
 - [创建 NuGet Organization 的遇到的坑](https://shenxianpeng.github.io/2023/08/nuget/)
 - [Docker Buildx Bake：加速构建和管理多平台镜像的利器](https://shenxianpeng.github.io/2023/07/buildx-bake/)
 - [详解SBOM：定义、关系、区别、最佳实践和生成工具](https://shenxianpeng.github.io/2023/06/sbom/)
-- [如果你是项目成员，是 Fork 原始仓库还是直接原始仓库中修改代码？](https://shenxianpeng.github.io/2023/06/fork-or-unfork/)
 <!-- BLOG-POST-LIST:END -->
 
 [blogger]: https://shenxianpeng.github.io/
