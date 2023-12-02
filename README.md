@@ -30,6 +30,7 @@ If my open-source projects are useful for your **company/product** you can also 
 # Recent blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to adopt Supply Chain Security for GitHub and Non-GitHub projects](https://shenxianpeng.github.io/2023/12/supply-chain-security/)
 - [Witness 和 SLSA 💃](https://shenxianpeng.github.io/2023/11/witness-and-slsa/)
 - [Python 和 SLSA 💃](https://shenxianpeng.github.io/2023/11/python-and-slsa/)
 - [Problems and solutions when upgrading XLC from 10.1 to IBM Open XL C/C++ for AIX 17.1.0](https://shenxianpeng.github.io/2023/10/upgrade-xlc-10-to-xlc-17.1/)
@@ -39,7 +40,6 @@ If my open-source projects are useful for your **company/product** you can also 
 - [Upload artifacts failed to Artifactory from AIX](https://shenxianpeng.github.io/2023/08/upload-artifacts-failed-on-aix/)
 - [创建 NuGet Organization 的遇到的坑](https://shenxianpeng.github.io/2023/08/nuget/)
 - [Docker Buildx Bake：加速构建和管理多平台镜像的利器](https://shenxianpeng.github.io/2023/07/buildx-bake/)
-- [详解SBOM：定义、关系、区别、最佳实践和生成工具](https://shenxianpeng.github.io/2023/06/sbom/)
 <!-- BLOG-POST-LIST:END -->
 
 [blogger]: https://shenxianpeng.github.io/
