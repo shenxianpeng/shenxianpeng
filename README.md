@@ -4,9 +4,9 @@
 
 ## Here's what I'm up to
 
-* A DevOps/Build/Release/Automation engineer
-* Author of the official account [DevOps-Engineer][wechat] 
+* I'm a DevOps/Build/Release engineer looking for my next job. Here is my [LinkedIn][linkedin]
 * Creator and maintainer of [cpp-linter][cpp-linter] and [commit-check][commit-check]
+* Author of the WeChat official account [DevOps-Engineer][wechat] 
 * Interested in software supply chain security
 
 If my open-source projects are useful for your **company/product** you can also sponsor my work on them
