@@ -30,6 +30,7 @@ If my open-source projects are useful for your **company/product** you can also 
 # Recent blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to make Jenkins pipeline not fail if a specific error occurs](https://shenxianpeng.github.io/2023/12/jenkins-catch-error/)
 - [How to adopt Supply Chain Security for GitHub and Non-GitHub projects](https://shenxianpeng.github.io/2023/12/supply-chain-security/)
 - [Witness 和 SLSA 💃](https://shenxianpeng.github.io/2023/11/witness-and-slsa/)
 - [Python 和 SLSA 💃](https://shenxianpeng.github.io/2023/11/python-and-slsa/)
@@ -39,7 +40,6 @@ If my open-source projects are useful for your **company/product** you can also 
 - [解决在 AIX 通过 Jenkins agent git clone 失败的问题](https://shenxianpeng.github.io/2023/09/git-clone-failed-on-aix/)
 - [Upload artifacts failed to Artifactory from AIX](https://shenxianpeng.github.io/2023/08/upload-artifacts-failed-on-aix/)
 - [创建 NuGet Organization 的遇到的坑](https://shenxianpeng.github.io/2023/08/nuget/)
-- [Docker Buildx Bake：加速构建和管理多平台镜像的利器](https://shenxianpeng.github.io/2023/07/buildx-bake/)
 <!-- BLOG-POST-LIST:END -->
 
 [blogger]: https://shenxianpeng.github.io/
