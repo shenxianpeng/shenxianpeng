@@ -30,7 +30,7 @@ If my open-source projects are useful for your **company/product** you can also 
 # Recent blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [如何对 GitHub Release Notes 的内容按照标题进行自动分类](https://shenxianpeng.github.io/2023/12/automatic-categorize-release-notes/)
+- [如何把 GitHub Release Notes 按照 New features、Bug Fixes ... 进行自动分类](https://shenxianpeng.github.io/2023/12/automatic-categorize-release-notes/)
 - [How to make Jenkins pipeline not fail if a specific error occurs](https://shenxianpeng.github.io/2023/12/jenkins-catch-error/)
 - [How to adopt Supply Chain Security for GitHub and Non-GitHub projects](https://shenxianpeng.github.io/2023/12/supply-chain-security/)
 - [Witness 和 SLSA 💃](https://shenxianpeng.github.io/2023/11/witness-and-slsa/)
