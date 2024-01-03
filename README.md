@@ -30,6 +30,7 @@ If my open-source projects are useful for your **company/product** you can also 
 # Recent blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [2023 年终总结](https://shenxianpeng.github.io/2023/12/2023-summary/)
 - [如何把 GitHub Release Notes 按照 New features、Bug Fixes ... 进行自动分类](https://shenxianpeng.github.io/2023/12/automatic-categorize-release-notes/)
 - [How to make Jenkins pipeline not fail if a specific error occurs](https://shenxianpeng.github.io/2023/12/jenkins-catch-error/)
 - [How to adopt Supply Chain Security for GitHub and Non-GitHub projects](https://shenxianpeng.github.io/2023/12/supply-chain-security/)
@@ -39,7 +40,6 @@ If my open-source projects are useful for your **company/product** you can also 
 - [2022-23 世界质量报告（World Quality Report）](https://shenxianpeng.github.io/2023/10/world-quality-report/)
 - [解决通过 Jenkins Artifactory plugin 上传 artifacts 失败的问题 “unable to find valid certification path to requested target”](https://shenxianpeng.github.io/2023/09/unable-to-find-valid-certification-path/)
 - [解决在 AIX 通过 Jenkins agent git clone 失败的问题](https://shenxianpeng.github.io/2023/09/git-clone-failed-on-aix/)
-- [Upload artifacts failed to Artifactory from AIX](https://shenxianpeng.github.io/2023/08/upload-artifacts-failed-on-aix/)
 <!-- BLOG-POST-LIST:END -->
 
 [blogger]: https://shenxianpeng.github.io/
