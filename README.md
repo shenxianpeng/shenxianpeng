@@ -4,7 +4,7 @@
 
 ## Here's what I'm up to
 
-* I'm a DevOps/Build/Release engineer looking for my next job. Checkout my [LinkedIn][linkedin]
+* I'm a DevOps/Build/Release engineer
 * Creators and maintainers of [cpp-linter][cpp-linter] and [commit-check][commit-check]
 * Author of the WeChat official account [DevOps-Engineer][wechat] 
 * Interested in software supply chain security
