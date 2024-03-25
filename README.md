@@ -30,6 +30,7 @@ If my open-source projects are useful for your **company/product** you can also 
 # Recent blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [关于 GitHub Action 可重用工作流（Reusable Workflows）](https://shenxianpeng.github.io/2024/03/reusable-workflows/)
 - [2023 年开源状况和人工智能的崛起（GitHub）](https://shenxianpeng.github.io/2024/02/open-source-state/)
 - [cpp-linter-action 最新版支持 Pull Request Review 功能了 👏](https://shenxianpeng.github.io/2024/02/cpp-linter-action/)
 - [看看顶级的开源组织都在用哪些服务和工具](https://shenxianpeng.github.io/2024/01/apache-services-and-tools/)
@@ -39,7 +40,6 @@ If my open-source projects are useful for your **company/product** you can also 
 - [How to adopt Supply Chain Security for GitHub and Non-GitHub projects](https://shenxianpeng.github.io/2023/12/supply-chain-security/)
 - [Witness 和 SLSA 💃](https://shenxianpeng.github.io/2023/11/witness-and-slsa/)
 - [Python 和 SLSA 💃](https://shenxianpeng.github.io/2023/11/python-and-slsa/)
-- [Problems and solutions when upgrading XLC from 10.1 to IBM Open XL C/C++ for AIX 17.1.0](https://shenxianpeng.github.io/2023/10/upgrade-xlc-10-to-xlc-17.1/)
 <!-- BLOG-POST-LIST:END -->
 
 [blogger]: https://shenxianpeng.github.io/
