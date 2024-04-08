@@ -30,7 +30,7 @@ If my open-source projects are useful for your **company/product** you can also 
 # Recent blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [如何保持竞争力：高级 DevOps 工程师的关键技能（2024）](https://shenxianpeng.github.io/2024/04/devops-skills-2024/)
+- [2024年如何保持竞争力：DevOps工程师的关键技能](https://shenxianpeng.github.io/2024/04/devops-skills-2024/)
 - [你一定要了解的 GitHub Action 特性：可重用工作流（Reusable Workflows）](https://shenxianpeng.github.io/2024/03/reusable-workflows/)
 - [2023 年开源状况和人工智能的崛起（GitHub）](https://shenxianpeng.github.io/2024/02/open-source-state/)
 - [cpp-linter-action 最新版支持 Pull Request Review 功能了 👏](https://shenxianpeng.github.io/2024/02/cpp-linter-action/)
