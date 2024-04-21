@@ -4,7 +4,7 @@
 
 ## Here's what I'm up to
 
-* I'm a DevOps/Build/Release engineer
+* I'm a DevOps engineer with a passion for building beautiful, efficient, and reliable code.
 * Creators and maintainers of [cpp-linter][cpp-linter] and [commit-check][commit-check]
 * Author of the WeChat official account [DevOps-Engineer][wechat] 
 * Interested in software supply chain security
