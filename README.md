@@ -30,7 +30,7 @@ If my open-source projects are useful for your **company/product** you can also 
 # Recent blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [代码签名（Code Signing）](https://shenxianpeng.github.io/2024/04/code-sign/)
+- [代码签名（Code Signing）](https://shenxianpeng.github.io/2024/04/code-signing/)
 - [【分享】通过 Jenkins-X 社区最终进入到 Jenkins 基础设施团队成为 SRE 的经历](https://shenxianpeng.github.io/2024/04/jenkins-contributors/)
 - [2024年如何保持竞争力：DevOps工程师的关键技能](https://shenxianpeng.github.io/2024/04/devops-skills-2024/)
 - [你一定要了解的 GitHub Action 特性：可重用工作流（Reusable Workflows）](https://shenxianpeng.github.io/2024/03/reusable-workflows/)
