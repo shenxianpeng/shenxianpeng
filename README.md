@@ -30,6 +30,7 @@ If my open-source projects are useful for your **company/product** you can also 
 # Recent blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [代码签名（Code Signing）](https://shenxianpeng.github.io/2024/04/code-sign/)
 - [【分享】通过 Jenkins-X 社区最终进入到 Jenkins 基础设施团队成为 SRE 的经历](https://shenxianpeng.github.io/2024/04/jenkins-contributors/)
 - [2024年如何保持竞争力：DevOps工程师的关键技能](https://shenxianpeng.github.io/2024/04/devops-skills-2024/)
 - [你一定要了解的 GitHub Action 特性：可重用工作流（Reusable Workflows）](https://shenxianpeng.github.io/2024/03/reusable-workflows/)
@@ -39,7 +40,6 @@ If my open-source projects are useful for your **company/product** you can also 
 - [2023 年终总结](https://shenxianpeng.github.io/2023/12/2023-summary/)
 - [如何把 GitHub Release Notes 按照 New features、Bug Fixes ... 进行自动分类](https://shenxianpeng.github.io/2023/12/automatic-categorize-release-notes/)
 - [How to make Jenkins pipeline not fail if a specific error occurs](https://shenxianpeng.github.io/2023/12/jenkins-catch-error/)
-- [How to adopt Supply Chain Security for GitHub and Non-GitHub projects](https://shenxianpeng.github.io/2023/12/supply-chain-security/)
 <!-- BLOG-POST-LIST:END -->
 
 [blogger]: https://shenxianpeng.github.io/
