@@ -30,6 +30,8 @@ If my open-source projects are useful for your **company/product** you can also 
 # Recent blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [代码签名（Code Signing） - GaraSign](https://shenxianpeng.github.io/2024/06/garasign/)
+- [你的软件（究竟）从何而来？](https://shenxianpeng.github.io/2024/06/where-does-your-software-come-from/)
 - [Python 软件基金会 &lpar;PFS&rpar; 基础设施概览](https://shenxianpeng.github.io/2024/05/psf-infra/)
 - [代码签名（Code Signing）](https://shenxianpeng.github.io/2024/04/code-signing/)
 - [【分享】通过 Jenkins-X 社区最终进入到 Jenkins 基础设施团队成为 SRE 的经历](https://shenxianpeng.github.io/2024/04/jenkins-contributors/)
@@ -38,8 +40,6 @@ If my open-source projects are useful for your **company/product** you can also 
 - [2023 年开源状况和人工智能的崛起（GitHub）](https://shenxianpeng.github.io/2024/02/open-source-state/)
 - [cpp-linter-action 最新版支持 Pull Request Review 功能了 👏](https://shenxianpeng.github.io/2024/02/cpp-linter-action/)
 - [看看顶级的开源组织都在用哪些服务和工具](https://shenxianpeng.github.io/2024/01/apache-services-and-tools/)
-- [2023 年终总结](https://shenxianpeng.github.io/2023/12/2023-summary/)
-- [如何把 GitHub Release Notes 按照 New features、Bug Fixes ... 进行自动分类](https://shenxianpeng.github.io/2023/12/automatic-categorize-release-notes/)
 <!-- BLOG-POST-LIST:END -->
 
 [blogger]: https://shenxianpeng.github.io/
