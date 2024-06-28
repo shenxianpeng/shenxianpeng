@@ -30,6 +30,7 @@ If my open-source projects are useful for your **company/product** you can also 
 # Recent blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [告别Rocket中国，回连十年再启程](https://shenxianpeng.github.io/2024/06/farewell/)
 - [你的软件究竟从哪里来？](https://shenxianpeng.github.io/2024/06/where-does-your-software-come-from/)
 - [代码签名（Code Signing） - GaraSign](https://shenxianpeng.github.io/2024/06/garasign/)
 - [Python 软件基金会 &lpar;PFS&rpar; 基础设施概览](https://shenxianpeng.github.io/2024/05/psf-infra/)
@@ -39,7 +40,6 @@ If my open-source projects are useful for your **company/product** you can also 
 - [你一定要了解的 GitHub Action 特性：可重用工作流（Reusable Workflows）](https://shenxianpeng.github.io/2024/03/reusable-workflows/)
 - [2023 年开源状况和人工智能的崛起（GitHub）](https://shenxianpeng.github.io/2024/02/open-source-state/)
 - [cpp-linter-action 最新版支持 Pull Request Review 功能了 👏](https://shenxianpeng.github.io/2024/02/cpp-linter-action/)
-- [看看顶级的开源组织都在用哪些服务和工具](https://shenxianpeng.github.io/2024/01/apache-services-and-tools/)
 <!-- BLOG-POST-LIST:END -->
 
 [blogger]: https://shenxianpeng.github.io/
