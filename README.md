@@ -9,8 +9,8 @@
 * Author of the WeChat official account [DevOps-Engineer][wechat] 
 * Interested in software supply chain security and willing to contribute [PyPA][pypa] (merged [pull requests][pull-requests]).
 
-If my open-source projects are useful for your **company/product** you can also sponsor my work on them
- [<img width="110" src="https://storage.ko-fi.com/cdn/kofi2.png" />][ko-fi]
+If my open-source projects are useful for your **company/product** you can also sponsor my work on them ☕️
+<!-- [<img width="110" src="https://storage.ko-fi.com/cdn/kofi2.png" />][ko-fi] -->
 
 ### Connect me
 
