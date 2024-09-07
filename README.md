@@ -31,6 +31,7 @@ If my open-source projects are useful for your **company/product** you can also 
 
 <!-- BLOG-POST-LIST:START -->
 - [初步了解 PyPA（Python Packaging Authority）下的知名项目和关系](https://shenxianpeng.github.io/2024/09/pypa/)
+- [我记得](https://shenxianpeng.github.io/2024/07/remember/)
 - [告别Rocket中国，回连十年再启程](https://shenxianpeng.github.io/2024/06/farewell/)
 - [你的软件究竟从哪里来？](https://shenxianpeng.github.io/2024/06/where-does-your-software-come-from/)
 - [代码签名（Code Signing） - GaraSign](https://shenxianpeng.github.io/2024/06/garasign/)
@@ -39,7 +40,6 @@ If my open-source projects are useful for your **company/product** you can also 
 - [【分享】通过 Jenkins-X 社区最终进入到 Jenkins 基础设施团队成为 SRE 的经历](https://shenxianpeng.github.io/2024/04/jenkins-contributors/)
 - [2024年如何保持竞争力：DevOps工程师的关键技能](https://shenxianpeng.github.io/2024/04/devops-skills-2024/)
 - [你一定要了解的 GitHub Action 特性：可重用工作流（Reusable Workflows）](https://shenxianpeng.github.io/2024/03/reusable-workflows/)
-- [2023 年开源状况和人工智能的崛起（GitHub）](https://shenxianpeng.github.io/2024/02/open-source-state/)
 <!-- BLOG-POST-LIST:END -->
 
 [blogger]: https://shenxianpeng.github.io/
