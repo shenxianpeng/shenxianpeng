@@ -5,8 +5,8 @@
 ## Here's what I'm up to
 
 * I'm a DevOps engineer with a passion for building beautiful, efficient, and reliable code.
-* Creators and maintainers of [cpp-linter][cpp-linter] and [commit-check][commit-check]
-* Author of the WeChat official account [DevOps-Engineer][wechat] 
+* Creators and maintainers of [cpp-linter][cpp-linter], [commit-check][commit-check] and [conventional-branch][conventional-branch].
+* Author of the WeChat official account [DevOps-Engineer][wechat]. 
 * Interested in software supply chain security and willing to contribute [PyPA][pypa] (merged [pull requests][pull-requests]).
 
 If my open-source projects are useful for your **company/product** you can also sponsor my work on them ☕️
@@ -51,6 +51,7 @@ If my open-source projects are useful for your **company/product** you can also 
 [dev.to]: https://dev.to/shenxianpeng
 [cpp-linter]: https://github.com/cpp-linter
 [commit-check]: https://github.com/commit-check
+[conventional-branch]: https://github.com/conventional-branch
 [ko-fi]: https://ko-fi.com/H2H85WC9L
 [pypa]: https://github.com/pypa
 [pull-requests]: https://github.com/pulls?q=is%3Apr+author%3Ashenxianpeng+archived%3Afalse+is%3Amerged+user%3Apypa
