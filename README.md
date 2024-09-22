@@ -30,7 +30,7 @@ If my open-source projects are useful for your **company/product** you can also 
 # Recent blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [约定试分支规范正式发布 Conventional Branch Specification Released!](https://shenxianpeng.github.io/2024/09/conventional-branch/)
+- [约定式分支规范正式发布 Conventional Branch Specification Released!](https://shenxianpeng.github.io/2024/09/conventional-branch/)
 - [初步了解 PyPA（Python Packaging Authority）下的知名项目和关系](https://shenxianpeng.github.io/2024/09/pypa/)
 - [我记得](https://shenxianpeng.github.io/2024/07/remember/)
 - [告别Rocket中国，回连十年再启程](https://shenxianpeng.github.io/2024/06/farewell/)
