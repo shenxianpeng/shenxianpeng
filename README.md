@@ -30,6 +30,7 @@ If my open-source projects are useful for your **company/product** you can also 
 # Recent blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [首席 DevOps 工程师的职责是什么？](https://shenxianpeng.github.io/2024/09/principal-devops-engineer/)
 - [约定式分支规范中文版正式发布！](https://shenxianpeng.github.io/2024/09/conventional-branch-zh/)
 - [Conventional Branch Specification Released!](https://shenxianpeng.github.io/2024/09/conventional-branch/)
 - [初步了解 PyPA（Python Packaging Authority）下的知名项目和关系](https://shenxianpeng.github.io/2024/09/pypa/)
@@ -39,7 +40,6 @@ If my open-source projects are useful for your **company/product** you can also 
 - [代码签名（Code Signing） - GaraSign](https://shenxianpeng.github.io/2024/06/garasign/)
 - [Python 软件基金会 &lpar;PFS&rpar; 基础设施概览](https://shenxianpeng.github.io/2024/05/psf-infra/)
 - [代码签名（Code Signing）](https://shenxianpeng.github.io/2024/04/code-signing/)
-- [【分享】通过 Jenkins-X 社区最终进入到 Jenkins 基础设施团队成为 SRE 的经历](https://shenxianpeng.github.io/2024/04/jenkins-contributors/)
 <!-- BLOG-POST-LIST:END -->
 
 [blogger]: https://shenxianpeng.github.io/
