@@ -31,7 +31,7 @@ If my open-source projects are useful for your **company/product** you can also 
 
 <!-- BLOG-POST-LIST:START -->
 - [选择往往比努力更重要](https://shenxianpeng.github.io/2024/09/power-of-choice/)
-- [首席 DevOps 工程师的职责是什么？](https://shenxianpeng.github.io/2024/09/principal-devops-engineer/)
+- [首席 DevOps 工程师到底干啥？带你看看大佬的日常！](https://shenxianpeng.github.io/2024/09/principal-devops-engineer/)
 - [约定式分支规范中文版正式发布！](https://shenxianpeng.github.io/2024/09/conventional-branch-zh/)
 - [Conventional Branch Specification Released!](https://shenxianpeng.github.io/2024/09/conventional-branch/)
 - [初步了解 PyPA（Python Packaging Authority）下的知名项目和关系](https://shenxianpeng.github.io/2024/09/pypa/)
