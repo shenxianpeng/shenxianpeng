@@ -30,6 +30,7 @@ If my open-source projects are useful for your **company/product** you can also 
 # Recent blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [从 Jenkins 升级，我做了哪些优化](https://shenxianpeng.github.io/2024/10/jenkins-upgrade/)
 - [选择往往比努力更重要](https://shenxianpeng.github.io/2024/09/power-of-choice/)
 - [DevOps进阶：揭秘首席DevOps工程师的职责与技能](https://shenxianpeng.github.io/2024/09/principal-devops-engineer/)
 - [约定式分支规范中文版正式发布！](https://shenxianpeng.github.io/2024/09/conventional-branch-zh/)
@@ -39,7 +40,6 @@ If my open-source projects are useful for your **company/product** you can also 
 - [告别Rocket中国，回连十年再启程](https://shenxianpeng.github.io/2024/06/farewell/)
 - [你的软件究竟从哪里来？](https://shenxianpeng.github.io/2024/06/where-does-your-software-come-from/)
 - [代码签名（Code Signing） - GaraSign](https://shenxianpeng.github.io/2024/06/garasign/)
-- [Python 软件基金会 &lpar;PFS&rpar; 基础设施概览](https://shenxianpeng.github.io/2024/05/psf-infra/)
 <!-- BLOG-POST-LIST:END -->
 
 [blogger]: https://shenxianpeng.github.io/
