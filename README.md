@@ -30,6 +30,7 @@ If my open-source projects are useful for your **company/product** you can also 
 # Recent blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What Optimizations I Made During the Jenkins Upgrade](https://shenxianpeng.github.io/2024/10/jenkins-upgrade-en/)
 - [从 Jenkins 升级，我做了哪些优化](https://shenxianpeng.github.io/2024/10/jenkins-upgrade/)
 - [选择往往比努力更重要](https://shenxianpeng.github.io/2024/09/power-of-choice/)
 - [DevOps进阶：揭秘首席DevOps工程师的职责与技能](https://shenxianpeng.github.io/2024/09/principal-devops-engineer/)
@@ -39,7 +40,6 @@ If my open-source projects are useful for your **company/product** you can also 
 - [我记得](https://shenxianpeng.github.io/2024/07/remember/)
 - [告别Rocket中国，回连十年再启程](https://shenxianpeng.github.io/2024/06/farewell/)
 - [你的软件究竟从哪里来？](https://shenxianpeng.github.io/2024/06/where-does-your-software-come-from/)
-- [代码签名（Code Signing） - GaraSign](https://shenxianpeng.github.io/2024/06/garasign/)
 <!-- BLOG-POST-LIST:END -->
 
 [blogger]: https://shenxianpeng.github.io/
