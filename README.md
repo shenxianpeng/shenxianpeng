@@ -30,6 +30,7 @@ If my open-source projects are useful for your **company/product** you can also 
 # Recent blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [pip vs pipx 的区别](https://shenxianpeng.github.io/2024/11/pip-vs-pipx/)
 - [从早到晚，我的 DevOps 一天](https://shenxianpeng.github.io/2024/10/devops-everyday/)
 - [What Optimizations I Made During the Jenkins Upgrade](https://shenxianpeng.github.io/2024/10/jenkins-upgrade-en/)
 - [从 Jenkins 升级，我做了哪些优化](https://shenxianpeng.github.io/2024/10/jenkins-upgrade/)
@@ -39,7 +40,6 @@ If my open-source projects are useful for your **company/product** you can also 
 - [Conventional Branch Specification Released!](https://shenxianpeng.github.io/2024/09/conventional-branch/)
 - [初步了解 PyPA（Python Packaging Authority）下的知名项目和关系](https://shenxianpeng.github.io/2024/09/pypa/)
 - [我记得](https://shenxianpeng.github.io/2024/07/remember/)
-- [告别Rocket中国，回连十年再启程](https://shenxianpeng.github.io/2024/06/farewell/)
 <!-- BLOG-POST-LIST:END -->
 
 [blogger]: https://shenxianpeng.github.io/
