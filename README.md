@@ -30,7 +30,7 @@ If my open-source projects are useful for your **company/product** you can also 
 # Recent blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [复活了一个年久失修的项目 gitstats](https://shenxianpeng.github.io/2024/11/gitstats/)
+- [GitStats 重生：让 Git 历史分析焕发新活力](https://shenxianpeng.github.io/2024/11/gitstats/)
 - [pip vs pipx 的区别](https://shenxianpeng.github.io/2024/11/pip-vs-pipx/)
 - [从早到晚，我的 DevOps 一天](https://shenxianpeng.github.io/2024/10/devops-everyday/)
 - [What Optimizations I Made During the Jenkins Upgrade](https://shenxianpeng.github.io/2024/10/jenkins-upgrade-en/)
