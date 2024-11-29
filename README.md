@@ -32,6 +32,7 @@ If my open-source projects are useful for your **company/product** you can also 
 <!-- BLOG-POST-LIST:START -->
 - [复活 GitStats：让 Git 历史分析焕发新活力](https://shenxianpeng.github.io/2024/11/gitstats/)
 - [pip vs pipx 的区别](https://shenxianpeng.github.io/2024/11/pip-vs-pipx/)
+- [PowerShell is not recognized as an internal or external command](https://shenxianpeng.github.io/2024/11/ansbile-playbook-issue/)
 - [从早到晚，我的 DevOps 一天](https://shenxianpeng.github.io/2024/10/devops-everyday/)
 - [What Optimizations I Made During the Jenkins Upgrade](https://shenxianpeng.github.io/2024/10/jenkins-upgrade-en/)
 - [从 Jenkins 升级，我做了哪些优化](https://shenxianpeng.github.io/2024/10/jenkins-upgrade/)
@@ -39,7 +40,6 @@ If my open-source projects are useful for your **company/product** you can also 
 - [DevOps进阶：揭秘首席DevOps工程师的职责与技能](https://shenxianpeng.github.io/2024/09/principal-devops-engineer/)
 - [约定式分支规范中文版正式发布！](https://shenxianpeng.github.io/2024/09/conventional-branch-zh/)
 - [Conventional Branch Specification Released!](https://shenxianpeng.github.io/2024/09/conventional-branch/)
-- [初步了解 PyPA（Python Packaging Authority）下的知名项目和关系](https://shenxianpeng.github.io/2024/09/pypa/)
 <!-- BLOG-POST-LIST:END -->
 
 [blogger]: https://shenxianpeng.github.io/
