@@ -30,6 +30,7 @@ If my open-source projects are useful for your **company/product** you can also 
 # Recent blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [2024 年终总结](https://shenxianpeng.github.io/2024/12/2024-summary/)
 - [我的女儿](https://shenxianpeng.github.io/2024/12/my-daughter/)
 - [复活 GitStats：让 Git 历史分析焕发新活力](https://shenxianpeng.github.io/2024/11/gitstats/)
 - [pip vs pipx 的区别](https://shenxianpeng.github.io/2024/11/pip-vs-pipx/)
@@ -39,7 +40,6 @@ If my open-source projects are useful for your **company/product** you can also 
 - [从 Jenkins 升级，我做了哪些优化](https://shenxianpeng.github.io/2024/10/jenkins-upgrade/)
 - [选择往往比努力更重要](https://shenxianpeng.github.io/2024/09/power-of-choice/)
 - [DevOps进阶：揭秘首席DevOps工程师的职责与技能](https://shenxianpeng.github.io/2024/09/principal-devops-engineer/)
-- [约定式分支规范中文版正式发布！](https://shenxianpeng.github.io/2024/09/conventional-branch-zh/)
 <!-- BLOG-POST-LIST:END -->
 
 [blogger]: https://shenxianpeng.github.io/
