@@ -4,12 +4,12 @@
 
 ## Here's what I'm up to
 
-* I'm a DevOps engineer with a passion for building beautiful, efficient, and reliable code.
+* A DevOps engineer passionate about creating efficient, reliable, and elegant solutions.
 * Creators and maintainers of [cpp-linter][cpp-linter], [commit-check][commit-check] and [conventional-branch][conventional-branch].
-* Author of the WeChat official account [DevOps-Engineer][wechat]. 
 * Open-source volunteer, Python enthusiast. e.g. a volunteer for [PyPA][pypa] (merged [pull requests][pull-requests]).
+* Author of the WeChat official account [DevOps-Engineer][wechat], sharing insights and best practices. 
 
-If my open-source projects are useful for your **company/product** you can also sponsor my work on them ☕️
+If my work benefits your company or products, consider sponsoring me to help sustain and enhance these contributions!☕️
 <!-- [<img width="110" src="https://storage.ko-fi.com/cdn/kofi2.png" />][ko-fi] -->
 
 ### Connect me
