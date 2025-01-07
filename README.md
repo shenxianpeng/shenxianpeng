@@ -17,6 +17,8 @@ If my work benefits your company or products, consider sponsoring me to help sus
 [<img align="left" alt="shenxianpeng | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][gmail]
 [<img align="left" alt="shenxianpeng | Blogger" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/blogger.svg" />][blogger] 
 [<img align="left" alt="shenxianpeng | ZhiHu" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/zhihu.svg" />][zhihu]
+[![Wechat: DevOps-Engineer](https://img.shields.io/badge/WeChat-DevOps--Engineer-green?style=flat&logo=wechat&logoColor=green)][wechat]
+
 
 <!-- [<img align="left" alt="shenxianpeng | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" />][linkedin] 
  -->
