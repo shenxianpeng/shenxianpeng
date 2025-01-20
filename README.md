@@ -32,6 +32,7 @@ If my work benefits your company or products, consider sponsoring me to help sus
 # Recent blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [CPython 停止更新 Copyright 了，为什么？](https://shenxianpeng.github.io/2025/copyright/)
 - [2024 年终总结](https://shenxianpeng.github.io/2024/12/2024-summary/)
 - [我的女儿](https://shenxianpeng.github.io/2024/12/my-daughter/)
 - [复活 GitStats：让 Git 历史分析焕发新活力](https://shenxianpeng.github.io/2024/11/gitstats/)
@@ -41,7 +42,6 @@ If my work benefits your company or products, consider sponsoring me to help sus
 - [What Optimizations I Made During the Jenkins Upgrade](https://shenxianpeng.github.io/2024/10/jenkins-upgrade-en/)
 - [从 Jenkins 升级，我做了哪些优化](https://shenxianpeng.github.io/2024/10/jenkins-upgrade/)
 - [选择往往比努力更重要](https://shenxianpeng.github.io/2024/09/power-of-choice/)
-- [DevOps进阶：揭秘首席DevOps工程师的职责与技能](https://shenxianpeng.github.io/2024/09/principal-devops-engineer/)
 <!-- BLOG-POST-LIST:END -->
 
 [blogger]: https://shenxianpeng.github.io/
