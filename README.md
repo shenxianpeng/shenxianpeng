@@ -32,7 +32,7 @@ If my work benefits your company or products, consider sponsoring me to help sus
 # Recent blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Why use Jenkins Docker Cloud](https://shenxianpeng.github.io/2025/jenkins-docker-cloud/)
+- [How to use Jenkins Docker Cloud](https://shenxianpeng.github.io/2025/jenkins-docker-cloud/)
 - [CPython 停止更新 Copyright 了，为什么？](https://shenxianpeng.github.io/2025/copyright/)
 - [2024 年终总结](https://shenxianpeng.github.io/2024/12/2024-summary/)
 - [我的女儿](https://shenxianpeng.github.io/2024/12/my-daughter/)
