@@ -32,8 +32,9 @@ If my work benefits your company or products, consider sponsoring me to help sus
 # Recent blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How to use Jenkins Docker Cloud](https://shenxianpeng.github.io/2025/jenkins-docker-cloud/)
-- [CPython 停止更新 Copyright 了，为什么？](https://shenxianpeng.github.io/2025/copyright/)
+- [🚀 gitstats 升级来袭：支持 JSON 输出、多平台兼容、代码重构！](https://shenxianpeng.github.io/2025/02/gitstats-update/)
+- [How to use Jenkins Docker Cloud](https://shenxianpeng.github.io/2025/01/jenkins-docker-cloud/)
+- [CPython 停止更新 Copyright 了，为什么？](https://shenxianpeng.github.io/2025/01/copyright/)
 - [2024 年终总结](https://shenxianpeng.github.io/2024/12/2024-summary/)
 - [我的女儿](https://shenxianpeng.github.io/2024/12/my-daughter/)
 - [复活 GitStats：让 Git 历史分析焕发新活力](https://shenxianpeng.github.io/2024/11/gitstats/)
@@ -41,7 +42,6 @@ If my work benefits your company or products, consider sponsoring me to help sus
 - [PowerShell is not recognized as an internal or external command](https://shenxianpeng.github.io/2024/11/ansbile-playbook-issue/)
 - [从早到晚，我的 DevOps 一天](https://shenxianpeng.github.io/2024/10/devops-everyday/)
 - [What Optimizations I Made During the Jenkins Upgrade](https://shenxianpeng.github.io/2024/10/jenkins-upgrade-en/)
-- [从 Jenkins 升级，我做了哪些优化](https://shenxianpeng.github.io/2024/10/jenkins-upgrade/)
 <!-- BLOG-POST-LIST:END -->
 
 [blogger]: https://shenxianpeng.github.io/
