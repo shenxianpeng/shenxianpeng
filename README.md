@@ -32,6 +32,7 @@ If my work benefits your company or products, consider sponsoring me to help sus
 # Recent blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [为什么我选择参与 EuroPython 2025 评审？](https://shenxianpeng.github.io/2025/02/euro-python-review/)
 - [🚀 gitstats 升级来袭：支持 JSON 输出、多平台兼容、代码重构！](https://shenxianpeng.github.io/2025/02/gitstats-update/)
 - [How to use Jenkins Docker Cloud](https://shenxianpeng.github.io/2025/01/jenkins-docker-cloud/)
 - [CPython 停止更新 Copyright 了，为什么？](https://shenxianpeng.github.io/2025/01/copyright/)
@@ -41,7 +42,6 @@ If my work benefits your company or products, consider sponsoring me to help sus
 - [pip vs pipx 的区别](https://shenxianpeng.github.io/2024/11/pip-vs-pipx/)
 - [PowerShell is not recognized as an internal or external command](https://shenxianpeng.github.io/2024/11/ansbile-playbook-issue/)
 - [从早到晚，我的 DevOps 一天](https://shenxianpeng.github.io/2024/10/devops-everyday/)
-- [What Optimizations I Made During the Jenkins Upgrade](https://shenxianpeng.github.io/2024/10/jenkins-upgrade-en/)
 <!-- BLOG-POST-LIST:END -->
 
 [blogger]: https://shenxianpeng.github.io/
