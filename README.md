@@ -32,6 +32,7 @@ If my work benefits your company or products, consider sponsoring me to help sus
 # Recent blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [为什么大量的企业用户开始放弃 VMware？](https://shenxianpeng.github.io/2025/03/nutanix/)
 - [一觉醒来，我的 PR 已经被 Merge 到 CPython 主分支了！](https://shenxianpeng.github.io/2025/02/my-first-pr-to-cpython/)
 - [为什么我选择参与 EuroPython 2025 评审？](https://shenxianpeng.github.io/2025/02/euro-python-review/)
 - [🚀 gitstats 升级来袭：支持 JSON 输出、多平台兼容、代码重构！](https://shenxianpeng.github.io/2025/02/gitstats-update/)
@@ -41,7 +42,6 @@ If my work benefits your company or products, consider sponsoring me to help sus
 - [我的女儿](https://shenxianpeng.github.io/2024/12/my-daughter/)
 - [复活 GitStats：让 Git 历史分析焕发新活力](https://shenxianpeng.github.io/2024/11/gitstats/)
 - [pip vs pipx 的区别](https://shenxianpeng.github.io/2024/11/pip-vs-pipx/)
-- [PowerShell is not recognized as an internal or external command](https://shenxianpeng.github.io/2024/11/ansbile-playbook-issue/)
 <!-- BLOG-POST-LIST:END -->
 
 [blogger]: https://shenxianpeng.github.io/
