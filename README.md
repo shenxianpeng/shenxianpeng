@@ -32,7 +32,7 @@ If my work benefits your company or products, consider sponsoring me to help sus
 # Recent blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [为什么大量的企业用户开始放弃 VMware？](https://shenxianpeng.github.io/2025/03/nutanix/)
+- [为什么越来越多的企业用户开始放弃 VMware？](https://shenxianpeng.github.io/2025/03/nutanix/)
 - [一觉醒来，我的 PR 已经被 Merge 到 CPython 主分支了！](https://shenxianpeng.github.io/2025/02/my-first-pr-to-cpython/)
 - [为什么我选择参与 EuroPython 2025 评审？](https://shenxianpeng.github.io/2025/02/euro-python-review/)
 - [🚀 gitstats 升级来袭：支持 JSON 输出、多平台兼容、代码重构！](https://shenxianpeng.github.io/2025/02/gitstats-update/)
