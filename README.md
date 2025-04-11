@@ -32,6 +32,8 @@ If my work benefits your company or products, consider sponsoring me to help sus
 # Recent blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [[No Title] - Post](https://shenxianpeng.github.io/2025/03/ergonor/)
+- [Markdown vs RST：写文档时该怎么选？](https://shenxianpeng.github.io/2025/04/md-vs-rst/)
 - [我记得——回国两月琐忆](https://shenxianpeng.github.io/2025/04/remember/)
 - [为什么越来越多的企业用户开始放弃 VMware？](https://shenxianpeng.github.io/2025/03/nutanix/)
 - [一觉醒来，我的 PR 已经被 Merge 到 CPython 主分支了！](https://shenxianpeng.github.io/2025/02/my-first-pr-to-cpython/)
@@ -40,8 +42,6 @@ If my work benefits your company or products, consider sponsoring me to help sus
 - [How to use Jenkins Docker Cloud](https://shenxianpeng.github.io/2025/01/jenkins-docker-cloud/)
 - [CPython 停止更新 Copyright 了，为什么？](https://shenxianpeng.github.io/2025/01/copyright/)
 - [2024 年终总结](https://shenxianpeng.github.io/2024/12/2024-summary/)
-- [我的女儿](https://shenxianpeng.github.io/2024/12/my-daughter/)
-- [复活 GitStats：让 Git 历史分析焕发新活力](https://shenxianpeng.github.io/2024/11/gitstats/)
 <!-- BLOG-POST-LIST:END -->
 
 [blogger]: https://shenxianpeng.github.io/
