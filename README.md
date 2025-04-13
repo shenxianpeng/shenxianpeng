@@ -32,7 +32,7 @@ If my work benefits your company or products, consider sponsoring me to help sus
 # Recent blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [使用 Sphinx + ReadTheDocs 实现文档自动发布的经验分享](https://shenxianpeng.github.io/2025/04/sphinx-readthedoc/)
+- [从零配置 Sphinx + ReadTheDocs：快速部署自动化文档](https://shenxianpeng.github.io/2025/04/sphinx-readthedoc/)
 - [Markdown 不香了吗？为什么越来越多 Python 项目用 RST？](https://shenxianpeng.github.io/2025/04/md-vs-rst/)
 - [我记得——回国两月琐忆](https://shenxianpeng.github.io/2025/04/remember/)
 - [为什么越来越多的企业用户开始放弃 VMware？](https://shenxianpeng.github.io/2025/03/nutanix/)
