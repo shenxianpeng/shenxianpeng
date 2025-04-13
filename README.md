@@ -32,6 +32,7 @@ If my work benefits your company or products, consider sponsoring me to help sus
 # Recent blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [访问 GitHub 的那点坚持，快磨没了](https://shenxianpeng.github.io/2025/04/visit-github/)
 - [回国休假的一点感慨：北京的夜，好晚](https://shenxianpeng.github.io/2025/04/one-night-in-beijing/)
 - [从零配置 Sphinx + ReadTheDocs：快速部署自动化文档](https://shenxianpeng.github.io/2025/04/sphinx-readthedoc/)
 - [Markdown 不香了吗？为什么越来越多 Python 项目用 RST？](https://shenxianpeng.github.io/2025/04/md-vs-rst/)
@@ -41,7 +42,6 @@ If my work benefits your company or products, consider sponsoring me to help sus
 - [为什么我选择参与 EuroPython 2025 评审？](https://shenxianpeng.github.io/2025/02/euro-python-review/)
 - [🚀 gitstats 升级来袭：支持 JSON 输出、多平台兼容、代码重构！](https://shenxianpeng.github.io/2025/02/gitstats-update/)
 - [How to use Jenkins Docker Cloud](https://shenxianpeng.github.io/2025/01/jenkins-docker-cloud/)
-- [CPython 停止更新 Copyright 了，为什么？](https://shenxianpeng.github.io/2025/01/copyright/)
 <!-- BLOG-POST-LIST:END -->
 
 [blogger]: https://shenxianpeng.github.io/
