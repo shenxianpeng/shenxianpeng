@@ -32,6 +32,7 @@ If my work benefits your company or products, consider sponsoring me to help sus
 # Recent blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [全程记录｜PyCon LT 2025 第二天：被几位女性开发者圈粉了](https://shenxianpeng.github.io/2025/04/pycon-lt-d2/)
 - [全程记录｜PyCon LT 2025 第一天：我在异国 Python 大会上的见闻](https://shenxianpeng.github.io/2025/04/pycon-lt-d1/)
 - [回国休假的一点感慨：北京的夜，好晚](https://shenxianpeng.github.io/2025/04/one-night-in-beijing/)
 - [微软、NASA 都在用？我用业余时间维护了 4 年的项目破百了](https://shenxianpeng.github.io/2025/04/cpp-linter-action-milestone/)
@@ -41,7 +42,6 @@ If my work benefits your company or products, consider sponsoring me to help sus
 - [我记得——回国两月琐忆](https://shenxianpeng.github.io/2025/04/remember/)
 - [为什么越来越多的企业用户开始放弃 VMware？](https://shenxianpeng.github.io/2025/03/nutanix/)
 - [一觉醒来，我的 PR 已经被 Merge 到 CPython 主分支了！](https://shenxianpeng.github.io/2025/02/my-first-pr-to-cpython/)
-- [为什么我选择参与 EuroPython 2025 评审？](https://shenxianpeng.github.io/2025/02/euro-python-review/)
 <!-- BLOG-POST-LIST:END -->
 
 [blogger]: https://shenxianpeng.github.io/
