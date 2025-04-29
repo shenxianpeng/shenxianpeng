@@ -32,7 +32,7 @@ If my work benefits your company or products, consider sponsoring me to help sus
 # Recent blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [全程记录｜PyCon LT 2025 第三天：AI 要来了吗？](https://shenxianpeng.github.io/2025/04/pycon-lt-d3/)
+- [全程记录｜PyCon LT 2025 第三天：AI 能取代你吗？](https://shenxianpeng.github.io/2025/04/pycon-lt-d3/)
 - [全程记录｜PyCon LT 2025 第二天：被几位女性开发者圈粉了](https://shenxianpeng.github.io/2025/04/pycon-lt-d2/)
 - [全程记录｜PyCon LT 2025 第一天：我在异国 Python 大会上的见闻](https://shenxianpeng.github.io/2025/04/pycon-lt-d1/)
 - [回国休假的一点感慨：北京的夜，好晚](https://shenxianpeng.github.io/2025/04/one-night-in-beijing/)
