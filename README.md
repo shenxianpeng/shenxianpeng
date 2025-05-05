@@ -32,6 +32,7 @@ If my work benefits your company or products, consider sponsoring me to help sus
 # Recent blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [还在用 pip 和 venv？赶紧试试 uv，别落伍了！](https://shenxianpeng.github.io/2025/05/uv/)
 - [全程记录｜PyCon LT 2025 第三天：AI 能取代你吗？](https://shenxianpeng.github.io/2025/04/pycon-lt-d3/)
 - [全程记录｜PyCon LT 2025 第二天：被几位女性开发者圈粉了](https://shenxianpeng.github.io/2025/04/pycon-lt-d2/)
 - [全程记录｜PyCon LT 2025 第一天：我在异国 Python 大会上的见闻](https://shenxianpeng.github.io/2025/04/pycon-lt-d1/)
@@ -41,7 +42,6 @@ If my work benefits your company or products, consider sponsoring me to help sus
 - [从零配置 Sphinx + ReadTheDocs：快速部署自动化文档](https://shenxianpeng.github.io/2025/04/sphinx-readthedoc/)
 - [Markdown 不香了吗？为什么越来越多 Python 项目用 RST？](https://shenxianpeng.github.io/2025/04/md-vs-rst/)
 - [我记得——回国两月琐忆](https://shenxianpeng.github.io/2025/04/remember/)
-- [为什么越来越多的企业用户开始放弃 VMware？](https://shenxianpeng.github.io/2025/03/nutanix/)
 <!-- BLOG-POST-LIST:END -->
 
 [blogger]: https://shenxianpeng.github.io/
