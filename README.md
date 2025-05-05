@@ -32,7 +32,7 @@ If my work benefits your company or products, consider sponsoring me to help sus
 # Recent blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [还在用 pip 和 venv？赶紧试试 uv，别落伍了！](https://shenxianpeng.github.io/2025/05/uv/)
+- [不要再拖了！用 uv 替代 pip 和 venv，快人一步！](https://shenxianpeng.github.io/2025/05/uv/)
 - [全程记录｜PyCon LT 2025 第三天：AI 能取代你吗？](https://shenxianpeng.github.io/2025/04/pycon-lt-d3/)
 - [全程记录｜PyCon LT 2025 第二天：被几位女性开发者圈粉了](https://shenxianpeng.github.io/2025/04/pycon-lt-d2/)
 - [全程记录｜PyCon LT 2025 第一天：我在异国 Python 大会上的见闻](https://shenxianpeng.github.io/2025/04/pycon-lt-d1/)
