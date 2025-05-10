@@ -25,8 +25,6 @@ If my work benefits your company or products, consider sponsoring me to help sus
 <!-- [<img alt="shenxianpeng | PayPal" width="20px" src="https://www.svgrepo.com/show/354170/paypal.svg" />][paypal] -->
 <!-- [<img align="left" alt="shenxianpeng | DEV" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/dev-dot-to.svg" />][dev.to] -->
 
-<br />
-
 ---
 
 # Recent blog posts
