@@ -30,7 +30,7 @@ If my work benefits your company or products, consider sponsoring me to help sus
 # Recent blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [还在用 Confluence/Wiki？你可能在生产垃圾](https://shenxianpeng.github.io/2025/05/docs-and-code/)
+- [还在用 Wiki/Confluence？你可能在生产垃圾](https://shenxianpeng.github.io/2025/05/docs-and-code/)
 - [还在用 pip 和 venv？那你可真落伍了，赶紧体验 uv！](https://shenxianpeng.github.io/2025/05/uv/)
 - [全程记录｜PyCon LT 2025 第三天：AI 能取代你吗？](https://shenxianpeng.github.io/2025/04/pycon-lt-d3/)
 - [全程记录｜PyCon LT 2025 第二天：被几位女性开发者圈粉了](https://shenxianpeng.github.io/2025/04/pycon-lt-d2/)
