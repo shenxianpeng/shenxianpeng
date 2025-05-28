@@ -30,6 +30,7 @@ If my work benefits your company or products, consider sponsoring me to help sus
 # Recent blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [来欧洲发展，真的适合你吗？—— 以程序员家庭为例](https://shenxianpeng.github.io/2025/05/run-or-not/)
 - [ChatGPT 一开，谁还去“努力”？](https://shenxianpeng.github.io/2025/05/ai/)
 - [还在用 Wiki/Confluence？你可能在生产垃圾](https://shenxianpeng.github.io/2025/05/docs-and-code/)
 - [还在用 pip 和 venv？那你可真落伍了，赶紧体验 uv！](https://shenxianpeng.github.io/2025/05/uv/)
@@ -39,7 +40,6 @@ If my work benefits your company or products, consider sponsoring me to help sus
 - [回国休假的一点感慨：北京的夜，好晚](https://shenxianpeng.github.io/2025/04/one-night-in-beijing/)
 - [微软、NASA 都在用？我用业余时间维护了 4 年的项目破百了](https://shenxianpeng.github.io/2025/04/cpp-linter-action-milestone/)
 - [访问 GitHub 的那点坚持，快磨没了](https://shenxianpeng.github.io/2025/04/visit-github/)
-- [从零配置 Sphinx + ReadTheDocs：快速部署自动化文档](https://shenxianpeng.github.io/2025/04/sphinx-readthedoc/)
 <!-- BLOG-POST-LIST:END -->
 
 [blogger]: https://shenxianpeng.github.io/
