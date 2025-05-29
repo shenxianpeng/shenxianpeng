@@ -30,6 +30,7 @@ If my work benefits your company or products, consider sponsoring me to help sus
 # Recent blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [asdf-clang-tools：使用 asdf 安装 Clang 工具的新选择](https://shenxianpeng.github.io/2025/05/asdf-clang-tools/)
 - [来欧洲发展，真的适合你吗？—— 以程序员家庭为例](https://shenxianpeng.github.io/2025/05/run-or-not/)
 - [ChatGPT 一开，谁还去“努力”？](https://shenxianpeng.github.io/2025/05/ai/)
 - [还在用 Wiki/Confluence？你可能在生产垃圾](https://shenxianpeng.github.io/2025/05/docs-and-code/)
@@ -39,7 +40,6 @@ If my work benefits your company or products, consider sponsoring me to help sus
 - [全程记录｜PyCon LT 2025 第一天：我在异国 Python 大会上的见闻](https://shenxianpeng.github.io/2025/04/pycon-lt-d1/)
 - [回国休假的一点感慨：北京的夜，好晚](https://shenxianpeng.github.io/2025/04/one-night-in-beijing/)
 - [微软、NASA 都在用？我用业余时间维护了 4 年的项目破百了](https://shenxianpeng.github.io/2025/04/cpp-linter-action-milestone/)
-- [访问 GitHub 的那点坚持，快磨没了](https://shenxianpeng.github.io/2025/04/visit-github/)
 <!-- BLOG-POST-LIST:END -->
 
 [blogger]: https://shenxianpeng.github.io/
