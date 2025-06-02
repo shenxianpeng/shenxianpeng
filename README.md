@@ -30,7 +30,7 @@ If my work benefits your company or products, consider sponsoring me to help sus
 # Recent blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [CI/CD 不是一次性的项目，而是一个不断演进的系统](https://shenxianpeng.github.io/2025/06/keep-updates/)
+- [CI/CD 不是一次性的项目，而是一个不断演进的系统](https://shenxianpeng.github.io/2025/06/code-refactor/)
 - [asdf-clang-tools：使用 asdf 安装 Clang 工具的新选择](https://shenxianpeng.github.io/2025/05/asdf-clang-tools/)
 - [来欧洲发展，真的适合你吗？—— 以程序员家庭为例](https://shenxianpeng.github.io/2025/05/run-or-not/)
 - [ChatGPT 一开，谁还去“努力”？](https://shenxianpeng.github.io/2025/05/ai/)
