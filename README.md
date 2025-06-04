@@ -30,6 +30,7 @@ If my work benefits your company or products, consider sponsoring me to help sus
 # Recent blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to change disableConcurrentBuilds abortPrevious value in Jenkins?](https://shenxianpeng.github.io/2025/06/jenkins-concurrent-build/)
 - [CI/CD 不是一次性的项目，而是一个不断演进的系统](https://shenxianpeng.github.io/2025/06/code-refactor/)
 - [asdf-clang-tools：使用 asdf 安装 Clang 工具的新选择](https://shenxianpeng.github.io/2025/05/asdf-clang-tools/)
 - [来欧洲发展，真的适合你吗？—— 以程序员家庭为例](https://shenxianpeng.github.io/2025/05/run-or-not/)
@@ -39,7 +40,6 @@ If my work benefits your company or products, consider sponsoring me to help sus
 - [全程记录｜PyCon LT 2025 第三天：AI 能取代你吗？](https://shenxianpeng.github.io/2025/04/pycon-lt-d3/)
 - [全程记录｜PyCon LT 2025 第二天：被几位女性开发者圈粉了](https://shenxianpeng.github.io/2025/04/pycon-lt-d2/)
 - [全程记录｜PyCon LT 2025 第一天：我在异国 Python 大会上的见闻](https://shenxianpeng.github.io/2025/04/pycon-lt-d1/)
-- [回国休假的一点感慨：北京的夜，好晚](https://shenxianpeng.github.io/2025/04/one-night-in-beijing/)
 <!-- BLOG-POST-LIST:END -->
 
 [blogger]: https://shenxianpeng.github.io/
