@@ -30,7 +30,7 @@ If my work benefits your company or products, consider sponsoring me to help sus
 # Recent blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Jenkins 构建策略的既要又要还要，一段代码搞定](https://shenxianpeng.github.io/2025/06/jenkins-concurrent-build-cn/)
+- [如何优雅地控制 Jenkins 构建是否中断？只看这篇](https://shenxianpeng.github.io/2025/06/jenkins-concurrent-build-cn/)
 - [How to Change abortPrevious Value in Jenkins?](https://shenxianpeng.github.io/2025/06/jenkins-concurrent-build/)
 - [CI/CD 不是一次性的项目，而是一个不断演进的系统](https://shenxianpeng.github.io/2025/06/code-refactor/)
 - [asdf-clang-tools：使用 asdf 安装 Clang 工具的新选择](https://shenxianpeng.github.io/2025/05/asdf-clang-tools/)
