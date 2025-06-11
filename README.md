@@ -30,6 +30,7 @@ If my work benefits your company or products, consider sponsoring me to help sus
 # Recent blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Bitbucket 提交信息模板实践：让 Git 记录 PR 的全部价值](https://shenxianpeng.github.io/2025/06/commit-message-template/)
 - [如何优雅地控制 Jenkins 构建是否中断？只看这篇](https://shenxianpeng.github.io/2025/06/jenkins-concurrent-build-cn/)
 - [How to Change abortPrevious Value in Jenkins?](https://shenxianpeng.github.io/2025/06/jenkins-concurrent-build/)
 - [CI/CD 不是一次性的项目，而是一个不断演进的系统](https://shenxianpeng.github.io/2025/06/code-refactor/)
@@ -39,7 +40,6 @@ If my work benefits your company or products, consider sponsoring me to help sus
 - [还在用 Wiki/Confluence？你可能在生产垃圾](https://shenxianpeng.github.io/2025/05/docs-and-code/)
 - [还在用 pip 和 venv？那你可真落伍了，赶紧体验 uv！](https://shenxianpeng.github.io/2025/05/uv/)
 - [全程记录｜PyCon LT 2025 第三天：AI 能取代你吗？](https://shenxianpeng.github.io/2025/04/pycon-lt-d3/)
-- [全程记录｜PyCon LT 2025 第二天：被几位女性开发者圈粉了](https://shenxianpeng.github.io/2025/04/pycon-lt-d2/)
 <!-- BLOG-POST-LIST:END -->
 
 [blogger]: https://shenxianpeng.github.io/
