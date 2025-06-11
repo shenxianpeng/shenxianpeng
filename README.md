@@ -30,7 +30,7 @@ If my work benefits your company or products, consider sponsoring me to help sus
 # Recent blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Bitbucket 提交信息模板实践：让 Git 记录 PR 的全部价值](https://shenxianpeng.github.io/2025/06/commit-message-template/)
+- [提升代码可追溯性：一招把 PR 描述写入 Git commit](https://shenxianpeng.github.io/2025/06/commit-message-template/)
 - [如何优雅地控制 Jenkins 构建是否中断？只看这篇](https://shenxianpeng.github.io/2025/06/jenkins-concurrent-build-cn/)
 - [How to Change abortPrevious Value in Jenkins?](https://shenxianpeng.github.io/2025/06/jenkins-concurrent-build/)
 - [CI/CD 不是一次性的项目，而是一个不断演进的系统](https://shenxianpeng.github.io/2025/06/code-refactor/)
