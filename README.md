@@ -30,6 +30,8 @@ If my work benefits your company or products, consider sponsoring me to help sus
 # Recent blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [🧊2025软件供应链现状报告：开源时代，我们究竟在和谁打交道？](https://shenxianpeng.github.io/2025/06/jfrog-report/)
+- [How to Fix Shields.io Badges Not Displaying in Jenkins](https://shenxianpeng.github.io/2025/06/show-badge-on-jenkins/)
 - [提升代码可追溯性：一招把 PR 描述写入 Git commit](https://shenxianpeng.github.io/2025/06/commit-message-template/)
 - [如何优雅地控制 Jenkins 构建是否中断？只看这篇](https://shenxianpeng.github.io/2025/06/jenkins-concurrent-build-cn/)
 - [How to Change abortPrevious Value in Jenkins?](https://shenxianpeng.github.io/2025/06/jenkins-concurrent-build/)
@@ -38,8 +40,6 @@ If my work benefits your company or products, consider sponsoring me to help sus
 - [来欧洲发展，真的适合你吗？—— 以程序员家庭为例](https://shenxianpeng.github.io/2025/05/run-or-not/)
 - [ChatGPT 一开，谁还去“努力”？](https://shenxianpeng.github.io/2025/05/ai/)
 - [还在用 Wiki/Confluence？你可能在生产垃圾](https://shenxianpeng.github.io/2025/05/docs-and-code/)
-- [还在用 pip 和 venv？那你可真落伍了，赶紧体验 uv！](https://shenxianpeng.github.io/2025/05/uv/)
-- [全程记录｜PyCon LT 2025 第三天：AI 能取代你吗？](https://shenxianpeng.github.io/2025/04/pycon-lt-d3/)
 <!-- BLOG-POST-LIST:END -->
 
 [blogger]: https://shenxianpeng.github.io/
