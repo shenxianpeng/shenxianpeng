@@ -6,10 +6,9 @@
         <img src="https://komarev.com/ghpvc/?username=shenxianpeng"/>
     </p>
     <p align="center">
-        <a href="https://shenxianpeng.github.io/about/"><span>Profile</span></a> |
+        <a href="https://shenxianpeng.github.io/about/"><span>About</span></a> |
         <a href="https://shenxianpeng.github.io/archives/"><span>Posts</span></a> |
         <a href="https://github.com/shenxianpeng/blog/blob/master/source/about/index/qrcode.jpg?raw=true"><span>WeChat</span></a> |
-        <a href="https://github.com/cpp-linter/"><span>Cpp Linter</span></a> |
         <a href="https://shenxianpeng.github.io"><span>Blog</span></a> |
         <a href="https://shenxianpeng.github.io/atom.xml"><span>RSS</span></a> |
         <a href="https://www.zhihu.com/people/shenxianpeng"><span>Zhihu</span></a>
@@ -17,6 +16,7 @@
     <p>💻 DevOps Expert | Python Engineer | Open Source Maintainer</p>
     <p>🧹 Author of <a href="https://github.com/cpp-linter/">cpp-linter</a>, linting solutions for C/C++ projects</p>
     <p>✅ Author of <a href="https://github.com/commit-check">commit-check</a>, enforces commit metadata, branch naming, and more</p>
+    <p> 🌿 Creator of <a href="https://github.com/conventional-branch">conventional-branch</a> and <a href="https://github.com/devops-maturity">devops-maturity</a>, specs for branch naming and DevOps best practices
     <p>🌍 Volunteer for open source, including <a href="https://github.com/pypa">PyPA</a> with <a href="https://github.com/pulls?q=is%3Apr+author%3Ashenxianpeng+archived%3Afalse+is%3Amerged+user%3Apypa">merged pull requests</a> </p>
     <p>🀄️ Author of WeChat official account DevOps-Engineer, sharing insights and best practices. </p>
 <!--     <p>
