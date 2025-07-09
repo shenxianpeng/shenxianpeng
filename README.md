@@ -13,12 +13,12 @@
         <a href="https://shenxianpeng.github.io/atom.xml"><span>RSS</span></a> |
         <a href="https://www.zhihu.com/people/shenxianpeng"><span>Zhihu</span></a>
     </p>
-    <p>💻 DevOps Expert | Python Engineer | Open Source Maintainer</p>
+    <p>💻 DevOps Engineer | Python Enthusiast | Open Source Maintainer</p>
     <p>🧹 Author of <a href="https://github.com/cpp-linter/">cpp-linter</a>, linting solutions for C/C++ projects</p>
     <p>✅ Author of <a href="https://github.com/commit-check">commit-check</a>, enforces commit metadata, branch naming, and more</p>
-    <p> 🌿 Creator of <a href="https://github.com/conventional-branch">conventional-branch</a> and <a href="https://github.com/devops-maturity">devops-maturity</a>, specs for branch naming and DevOps best practices
-    <p>🌍 Volunteer for open source, including <a href="https://github.com/pypa">PyPA</a> with <a href="https://github.com/pulls?q=is%3Apr+author%3Ashenxianpeng+archived%3Afalse+is%3Amerged+user%3Apypa">merged pull requests</a> </p>
-    <p>🀄️ Author of WeChat official account DevOps-Engineer, sharing insights and best practices. </p>
+    <p>🌿 Author of <a href="https://github.com/conventional-branch">conventional-branch</a> and <a href="https://github.com/devops-maturity">devops-maturity</a>, branch naming conventions and DevOps practice assessments
+    <p>🌍 Open source contributor, including <a href="https://github.com/pulls?q=is%3Apr+author%3Ashenxianpeng+archived%3Afalse+is%3Amerged+user%3Apypa">merged pull requests</a> to <a href="https://github.com/pypa">PyPA</a></p>
+    <p>🀄️ Author of WeChat official account DevOps-Engineer, sharing insights and best practices </p>
 <!--     <p>
         <img src="https://github-readme-stats.vercel.app/api?username=shenxianpeng&count_private=true&theme=shadow_blue&show_icons=true&rank_icon=github" height="165" />
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shenxianpeng&hide=css,html&theme=shadow_blue" height="165" />
