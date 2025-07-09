@@ -16,7 +16,8 @@
     <p>💻 DevOps Engineer | Python Enthusiast | Open Source Maintainer</p>
     <p>🧹 Author of <a href="https://github.com/cpp-linter/">cpp-linter</a>, linting solutions for C/C++ projects</p>
     <p>✅ Author of <a href="https://github.com/commit-check">commit-check</a>, enforces commit metadata, branch naming, and more</p>
-    <p>🌿 Author of <a href="https://github.com/conventional-branch">conventional-branch</a> and <a href="https://github.com/devops-maturity">devops-maturity</a>, branch naming conventions and DevOps practice assessments
+    <p>🌿 Author of <a href="https://github.com/conventional-branch">conventional-branch</a>, Git branch naming conventions
+    <p>🏅 Author of <a href="https://github.com/devops-maturity">devops-maturity</a>, specs and tools for assessing DevOps practices
     <p>🌍 Open source contributor, including <a href="https://github.com/pulls?q=is%3Apr+author%3Ashenxianpeng+archived%3Afalse+is%3Amerged+user%3Apypa">merged pull requests</a> to <a href="https://github.com/pypa">PyPA</a></p>
     <p>🀄️ Author of WeChat official account DevOps-Engineer, sharing insights and best practices </p>
 <!--     <p>
