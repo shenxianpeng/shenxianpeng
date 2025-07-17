@@ -1,31 +1,32 @@
 <div align="center">
-    <h3>Hi 👋, I'm Xianpeng</h3>
-    <br>
-    <p align="center">
-        <img src="https://img.shields.io/github/stars/shenxianpeng">
-        <img src="https://komarev.com/ghpvc/?username=shenxianpeng"/>
-    </p>
-    <p align="center">
-        <a href="https://shenxianpeng.github.io/about/"><span>About</span></a> |
-        <a href="https://shenxianpeng.github.io/archives/"><span>Posts</span></a> |
-        <a href="https://github.com/shenxianpeng/blog/blob/master/source/about/index/qrcode.jpg?raw=true"><span>WeChat</span></a> |
-        <a href="https://shenxianpeng.github.io"><span>Blog</span></a> |
-        <a href="https://shenxianpeng.github.io/atom.xml"><span>RSS</span></a> |
-        <a href="https://www.zhihu.com/people/shenxianpeng"><span>Zhihu</span></a>
-    </p>
-    <p>💻 DevOps Engineer | Python Enthusiast | Open Source Maintainer</p>
-    <p>🧹 Author of <a href="https://github.com/cpp-linter/">cpp-linter</a>, linting solutions for C/C++ projects</p>
-    <p>✅ Author of <a href="https://github.com/commit-check">commit-check</a>, checks commit mesage, branch, and more</p>
-    <p>🏷️ Author of <a href="https://github.com/conventional-branch">conventional-branch</a>, Git branch naming conventions
-    <p>🏅 Author of <a href="https://github.com/devops-maturity">devops-maturity</a>, specs and tools for assessing DevOps practices
-    <p>🌍 Open source contributor, including <a href="https://github.com/pulls?q=is%3Apr+author%3Ashenxianpeng+archived%3Afalse+is%3Amerged+user%3Apypa">merged pull requests</a> to <a href="https://github.com/pypa">PyPA</a></p>
-    <p>🀄️ Author of WeChat official account DevOps-Engineer, sharing insights and best practices </p>
-<!--     <p>
-        <img src="https://github-readme-stats.vercel.app/api?username=shenxianpeng&count_private=true&theme=shadow_blue&show_icons=true&rank_icon=github" height="165" />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shenxianpeng&hide=css,html&theme=shadow_blue" height="165" />
-    </p> -->
+  <h3>Hi 👋, I'm Xianpeng</h3>
+  <br>
+  <p align="center">
+    <img src="https://img.shields.io/github/stars/shenxianpeng" alt="GitHub Stars" />
+    <img src="https://komarev.com/ghpvc/?username=shenxianpeng" alt="Profile Views" />
+  </p>
+  <p align="center">
+    <a href="https://shenxianpeng.github.io/about/">About</a> |
+    <a href="https://shenxianpeng.github.io/archives/">Posts</a> |
+    <a href="https://github.com/shenxianpeng/blog/blob/master/source/about/index/qrcode.jpg?raw=true">WeChat</a> |
+    <a href="https://shenxianpeng.github.io">Blog</a> |
+    <a href="https://shenxianpeng.github.io/atom.xml">RSS</a> |
+    <a href="https://www.zhihu.com/people/shenxianpeng">Zhihu</a>
+  </p>
 
-</div>
+  <p>💻 <strong>DevOps Engineer</strong> | <strong>Python Enthusiast</strong> | <strong>Open Source Maintainer</strong></p>
+
+  <p>🧹 Author of <a href="https://github.com/cpp-linter/" target="_blank"><strong>cpp-linter</strong></a> – Linting solutions for C/C++ using <code>clang-format</code> and <code>clang-tidy</code></p>
+
+  <p>✅ Author of <a href="https://github.com/commit-check" target="_blank"><strong>commit-check</strong></a> – Ensures consistent commit messages, branch names, and more</p>
+
+  <p>🏷️ Author of <a href="https://github.com/conventional-branch" target="_blank"><strong>conventional-branch</strong></a> – Git branch naming conventions for cleaner workflows</p>
+
+  <p>🏅 Author of <a href="https://github.com/devops-maturity" target="_blank"><strong>devops-maturity</strong></a> – Specs and tools to assess DevOps practices in your team</p>
+
+  <p>🌍 Open source contributor – including <a href="https://github.com/pulls?q=is%3Apr+author%3Ashenxianpeng+archived%3Afalse+is%3Amerged+user%3Apypa" target="_blank">merged PRs</a> to <a href="https://github.com/pypa" target="_blank">PyPA</a></p>
+
+  <p>🀄️ Author of the WeChat public account <strong>DevOps-Engineer</strong> – Sharing insights and best practices</p>
 
 [blogger]: https://shenxianpeng.github.io/
 [zhihu]: https://www.zhihu.com/people/shenxianpeng
