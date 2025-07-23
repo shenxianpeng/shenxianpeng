@@ -6,6 +6,7 @@
     <img src="https://komarev.com/ghpvc/?username=shenxianpeng" alt="Profile Views" />
   </p>
   <p align="center">
+    <a href="https://github.com/sponsors/shenxianpeng">💰</a> |
     <a href="https://shenxianpeng.github.io/about/">About</a> |
     <a href="https://shenxianpeng.github.io/archives/">Posts</a> |
     <a href="https://github.com/shenxianpeng/blog/blob/master/source/about/index/qrcode.jpg?raw=true">WeChat</a> |
@@ -20,13 +21,13 @@
 
   <p>✅ Creator of <a href="https://github.com/commit-check" target="_blank"><strong>commit-check</strong></a> – Ensures consistent commit messages, branch names, and more</p>
 
-  <p>🏷️ Creator of <a href="https://github.com/conventional-branch" target="_blank"><strong>conventional-branch</strong></a> – Git branch naming conventions for cleaner workflows</p>
+  <p>🏷️ Creator of <a href="https://github.com/conventional-branch" target="_blank"><strong>conventional-branch</strong></a> – Git branch naming conventions for clear workflows</p>
 
   <p>🏅 Creator of <a href="https://github.com/devops-maturity" target="_blank"><strong>devops-maturity</strong></a> – Specs and tools to assess DevOps maturity</p>
 
   <p>🌍 Open source contributor – including <a href="https://github.com/pulls?q=is%3Apr+author%3Ashenxianpeng+archived%3Afalse+is%3Amerged+user%3Apypa" target="_blank">merged PRs</a> to <a href="https://github.com/pypa" target="_blank">PyPA</a></p>
 
-  <p>🀄️ WeChat Public Account: <strong>DevOps-Engineer</strong> – Sharing DevOps practices and real-world insights</p>
+  <p>🀄️ WeChat: <a href="https://raw.githubusercontent.com/shenxianpeng/blog/refs/heads/master/source/about/index/qrcode.jpg" target="_blank"><strong>DevOps-Engineer</strong></a> – Sharing DevOps practices and real-world insights</p>
 
 [blogger]: https://shenxianpeng.github.io/
 [zhihu]: https://www.zhihu.com/people/shenxianpeng
