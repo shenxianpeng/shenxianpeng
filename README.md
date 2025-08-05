@@ -8,11 +8,11 @@
   <p align="center">
     <a href="https://github.com/sponsors/shenxianpeng">💰</a> |
     <a href="https://shenxianpeng.github.io/about/">About</a> |
-    <a href="https://shenxianpeng.github.io/archives/">Posts</a> |
-    <a href="https://github.com/shenxianpeng/blog/blob/master/source/about/index/qrcode.jpg?raw=true">WeChat</a> |
     <a href="https://shenxianpeng.github.io">Blog</a> |
     <a href="https://shenxianpeng.github.io/atom.xml">RSS</a> |
+    <a href="https://medium.com/@xianpeng.shen">Medium</a> |
     <a href="https://dev.to/shenxianpeng">Dev.to</a> |
+    <a href="https://github.com/shenxianpeng/blog/blob/master/source/about/index/qrcode.jpg?raw=true">WeChat</a> |
     <a href="https://www.zhihu.com/people/shenxianpeng">Zhihu</a>
   </p>
 
