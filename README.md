@@ -29,7 +29,7 @@
 
   <p>🌍 Open source contributor – including <a href="https://github.com/jenkinsci" target="_blank">Jenkins (member)</a> and <a href="https://github.com/pypa" target="_blank">PyPA</a> (<a href="https://github.com/pulls?q=is%3Apr+author%3Ashenxianpeng+archived%3Afalse+is%3Amerged+user%3Apypa" target="_blank">merged PRs</a>)</p>
 
-  <p>🀄️ WeChat: <a href="https://raw.githubusercontent.com/shenxianpeng/blog/refs/heads/master/source/about/index/qrcode.jpg" target="_blank"><strong>DevOps-Engineer</strong></a> – Sharing DevOps practices and real-world insights</p>
+  <p>🀄️ WeChat: <a href="https://github.com/shenxianpeng/blog/blob/master/assets/img/qrcode.jpg?raw=true" target="_blank"><strong>DevOps-Engineer</strong></a> – Sharing DevOps practices and real-world insights</p>
 
 [blogger]: https://shenxianpeng.github.io/
 [zhihu]: https://www.zhihu.com/people/shenxianpeng
