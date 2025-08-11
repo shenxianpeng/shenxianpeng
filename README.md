@@ -24,9 +24,9 @@
 
   <p>🏷️ Creator of <a href="https://github.com/conventional-branch" target="_blank"><strong>conventional-branch</strong></a> – Git branch naming conventions for clear workflows</p>
 
-  <p>🏅 Creator of <a href="https://github.com/devops-maturity" target="_blank"><strong>devops-maturity</strong></a> – Specs and tools to assess DevOps maturity</p>
+  <p>🏅 Creator of <a href="https://github.com/devops-maturity" target="_blank"><strong>devops-maturity</strong></a> – Specs and tools for assessing DevOps maturity</p>
 
-  <p>💡 Creator of <a href="https://github.com/jenkinsci/explain-error-plugin" target="_blank"><strong>jenkinsci/explain-error-plugin</strong></a> – Explains Jenkins build errors using AI</p>
+  <p>💡 Creator of <a href="https://github.com/jenkinsci/explain-error-plugin" target="_blank"><strong>jenkinsci/explain-error-plugin</strong></a> – Explains Jenkins job failures with AI</p>
 
   <p>🌍 Open source contributor – including <a href="https://github.com/jenkinsci" target="_blank">Jenkins (member)</a> and <a href="https://github.com/pypa" target="_blank">PyPA</a> (<a href="https://github.com/pulls?q=is%3Apr+author%3Ashenxianpeng+archived%3Afalse+is%3Amerged+user%3Apypa" target="_blank">merged PRs</a>)</p>
 
