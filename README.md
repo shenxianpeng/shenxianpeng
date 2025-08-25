@@ -16,7 +16,7 @@
     <a href="https://www.zhihu.com/people/shenxianpeng">Zhihu</a>
   </p>
 
-  <p>💻 <strong>DevOps Engineer</strong> | <strong>Python Enthusiast</strong> | <strong>Open Source Maintainer</strong></p>
+  <p>💻 <strong>DevOps & Build Engineer</strong> | <strong>Python Enthusiast</strong> | <strong>Open Source Maintainer</strong></p>
 
   <p>🧹 Creator of <a href="https://github.com/cpp-linter/" target="_blank"><strong>cpp-linter</strong></a> –  C/C++ linting solutions using <code>clang-format</code> and <code>clang-tidy</code></p>
 
