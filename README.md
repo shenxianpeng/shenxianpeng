@@ -1,43 +1,33 @@
-<div align="left">
-  <h3>Hi 👋, I'm Xianpeng</h3>
-  <br>
-  <p align="left">
-    <img src="https://img.shields.io/github/stars/shenxianpeng" alt="GitHub Stars" />
-    <img src="https://komarev.com/ghpvc/?username=shenxianpeng" alt="Profile Views" />
-  </p>
-  <p align="left">
-    <a href="https://github.com/sponsors/shenxianpeng">💰</a> |
-    <a href="https://shenxianpeng.github.io/en/about/">About</a> |
-    <a href="https://shenxianpeng.github.io/en/posts/">Blog</a> |
-    <a href="https://shenxianpeng.github.io/index.xml">RSS</a> |
-    <a href="https://medium.com/@xianpeng.shen">Medium</a> |
-    <a href="https://dev.to/shenxianpeng">Dev.to</a> |
-    <a href="https://github.com/shenxianpeng/blog/blob/master/assets/img/qrcode.jpg?raw=true">WeChat</a> |
-    <a href="https://www.zhihu.com/people/shenxianpeng">Zhihu</a>
-  </p>
+### Hi 👋, I'm Xianpeng  
 
-  <p>💻 <strong>DevOps & Build Engineer</strong> | <strong>Python Enthusiast</strong> | <strong>Open Source Maintainer</strong></p>
+![GitHub Stars](https://img.shields.io/github/stars/shenxianpeng)
+![Profile Views](https://komarev.com/ghpvc/?username=shenxianpeng)
 
-  <h4>🧩 Creators</h4>
+💰 | [About](https://shenxianpeng.github.io/en/about/) | [Blog](https://shenxianpeng.github.io/en/posts/) | [RSS](https://shenxianpeng.github.io/index.xml) | [Medium](https://medium.com/@xianpeng.shen) | [Dev.to](https://dev.to/shenxianpeng) | [WeChat](https://github.com/shenxianpeng/blog/blob/master/assets/img/qrcode.jpg?raw=true) | [Zhihu](https://www.zhihu.com/people/shenxianpeng)
 
-  <p>
-     • 🧹 <a href="https://github.com/cpp-linter/" target="_blank"><strong>cpp-linter</strong></a> – C/C++ linting solutions using <code>clang-format</code> and <code>clang-tidy</code><br>
-     • ✅ <a href="https://github.com/commit-check" target="_blank"><strong>commit-check</strong></a> – Ensures consistent commit messages, branch names, and more<br>
-     • 🏷️ <a href="https://github.com/conventional-branch" target="_blank"><strong>conventional-branch</strong></a> – Git branch naming conventions for cleaner workflows<br>
-     • 🏅 <a href="https://github.com/devops-maturity" target="_blank"><strong>devops-maturity</strong></a> – Specs and tools for assessing DevOps maturity<br>
-     • 💡 <a href="https://github.com/jenkinsci/explain-error-plugin" target="_blank"><strong>jenkinsci/explain-error-plugin</strong></a> – Explains Jenkins job failures with AI
-  </p>
+💻 **DevOps & Build Engineer** | **Python Enthusiast** | **Open Source Maintainer**
 
-  <h4>🌍 Contributor To</h4>
+---
 
-  <p>
-    • <a href="https://github.com/jenkinsci" target="_blank"><strong>Jenkins</strong></a> (member)<br>
-    • <a href="https://github.com/pypa" target="_blank"><strong>PyPA</strong></a> 
-    (<a href="https://github.com/pulls?q=is%3Apr+author%3Ashenxianpeng+archived%3Afalse+is%3Amerged+user%3Apypa" target="_blank">merged PRs</a>)
-  </p>
+#### 🧩 Creators
 
-  <p>🀄️ WeChat: <a href="https://github.com/shenxianpeng/blog/blob/master/assets/img/qrcode.jpg?raw=true" target="_blank"><strong>DevOps-Engineer</strong></a> – Sharing DevOps practices and real-world insights</p>
-</div>
+- 🧹 [**cpp-linter**](https://github.com/cpp-linter/) – C/C++ linting solutions using clang-format and clang-tidy
+- ✅ [**commit-check**](https://github.com/commit-check) – Ensures consistent commit messages, branch names, and more
+- 🏷️ [**conventional-branch**](https://github.com/conventional-branch) – Git branch naming conventions for cleaner workflows
+- 🏅 [**devops-maturity**](https://github.com/devops-maturity) – Specs and tools for assessing DevOps maturity
+- 💡 [**jenkinsci/explain-error-plugin**](https://github.com/jenkinsci/explain-error-plugin) – Explains Jenkins job failures with AI
+
+---
+
+#### 🌍 Contributor To
+
+- [**Jenkins**](https://github.com/jenkinsci) (member)  
+- [**PyPA**](https://github.com/pypa) ([merged PRs](https://github.com/pulls?q=is%3Apr+author%3Ashenxianpeng+archived%3Afalse+is%3Amerged+user%3Apypa))  
+
+---
+
+🀄️ **WeChat:** [**DevOps-Engineer**](https://github.com/shenxianpeng/blog/blob/master/assets/img/qrcode.jpg?raw=true) – Sharing DevOps practices and real-world insights
+
 
 [blogger]: https://shenxianpeng.github.io/
 [zhihu]: https://www.zhihu.com/people/shenxianpeng
