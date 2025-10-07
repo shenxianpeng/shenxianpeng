@@ -1,48 +1,50 @@
-<div align="center">
-  <h3>Hi 👋, I'm Xianpeng</h3>
-  <br>
-  <p align="center">
-    <img src="https://img.shields.io/github/stars/shenxianpeng" alt="GitHub Stars" />
-    <img src="https://komarev.com/ghpvc/?username=shenxianpeng" alt="Profile Views" />
-  </p>
-  <p align="center">
-    <a href="https://github.com/sponsors/shenxianpeng">💰</a> |
-    <a href="https://shenxianpeng.github.io/en/about/">About</a> |
-    <a href="https://shenxianpeng.github.io/en/posts/">Blog</a> |
-    <a href="https://shenxianpeng.github.io/index.xml">RSS</a> |
-    <a href="https://medium.com/@xianpeng.shen">Medium</a> |
-    <a href="https://dev.to/shenxianpeng">Dev.to</a> |
-    <a href="https://github.com/shenxianpeng/blog/blob/master/assets/img/qrcode.jpg?raw=true">WeChat</a> |
-    <a href="https://www.zhihu.com/people/shenxianpeng">Zhihu</a>
-  </p>
+### Hi 👋, I'm Xianpeng  
 
-  <p>💻 <strong>DevOps & Build Engineer</strong> | <strong>Python Enthusiast</strong> | <strong>Open Source Maintainer</strong></p>
+![GitHub Stars](https://img.shields.io/github/stars/shenxianpeng)
+![Profile Views](https://komarev.com/ghpvc/?username=shenxianpeng)
 
-  <p>🧹 Creator of <a href="https://github.com/cpp-linter/" target="_blank"><strong>cpp-linter</strong></a> –  C/C++ linting solutions using <code>clang-format</code> and <code>clang-tidy</code></p>
+[💰][sponsor] | [About](https://shenxianpeng.github.io/en/about/) | [Blog][blog] | [RSS][rss] | [Medium][medium] | [Dev.to][dev.to] | [WeChat][qrcode] | [Zhihu][zhihu]
 
-  <p>✅ Creator of <a href="https://github.com/commit-check" target="_blank"><strong>commit-check</strong></a> – Ensures consistent commit messages, branch names, and more</p>
+💻 **DevOps & Build Engineer** | **Python Enthusiast** | **Open Source Maintainer**
 
-  <p>🏷️ Creator of <a href="https://github.com/conventional-branch" target="_blank"><strong>conventional-branch</strong></a> – Git branch naming conventions for clear workflows</p>
+---
 
-  <p>🏅 Creator of <a href="https://github.com/devops-maturity" target="_blank"><strong>devops-maturity</strong></a> – Specs and tools for assessing DevOps maturity</p>
+#### 🧩 Creators
 
-  <p>💡 Creator of <a href="https://github.com/jenkinsci/explain-error-plugin" target="_blank"><strong>jenkinsci/explain-error-plugin</strong></a> – Explains Jenkins job failures with AI</p>
+- 🧹 [**cpp-linter**][cpp-linter] – C/C++ linting solutions using clang-format and clang-tidy
+- ✅ [**commit-check**][commit-check] – Ensures consistent commit messages, branch names, and more
+- 🏷️ [**conventional-branch**][conventional-branch] – Git branch naming conventions for cleaner workflows
+- 🏅 [**devops-maturity**][devops-maturity] – Specs and tools for assessing DevOps maturity
+- 💡 [**jenkinsci/explain-error-plugin**][explain-error-plugin] – Explains Jenkins job failures with AI
 
-  <p>🌍 Open source contributor – including <a href="https://github.com/jenkinsci" target="_blank">Jenkins (member)</a> and <a href="https://github.com/pypa" target="_blank">PyPA</a> (<a href="https://github.com/pulls?q=is%3Apr+author%3Ashenxianpeng+archived%3Afalse+is%3Amerged+user%3Apypa" target="_blank">merged PRs</a>)</p>
+---
 
-  <p>🀄️ WeChat: <a href="https://github.com/shenxianpeng/blog/blob/master/assets/img/qrcode.jpg?raw=true" target="_blank"><strong>DevOps-Engineer</strong></a> – Sharing DevOps practices and real-world insights</p>
+#### 🌍 Contributor To
 
-[blogger]: https://shenxianpeng.github.io/
+- [**Jenkins**][jenkinsci] (member)  
+- [**PyPA**][pypa] ([merged PRs][pull-requests])  
+
+---
+
+🀄️ **WeChat:** [**DevOps-Engineer**][qrcode] – Sharing DevOps practices and real-world insights
+
+
+[blog]: https://shenxianpeng.github.io/en/posts/
+[rss]: https://shenxianpeng.github.io/index.xml
+[medium]: https://medium.com/@xianpeng.shen
+[dev.to]: https://dev.to/shenxianpeng
 [zhihu]: https://www.zhihu.com/people/shenxianpeng
-[wechat]: https://github.com/shenxianpeng/blog/blob/master/source/about/index/qrcode.jpg?raw=true
+[qrcode]: https://github.com/shenxianpeng/blog/blob/main/assets/img/qrcode.jpg
 [linkedin]: https://www.linkedin.com/in/xianpeng-shen/
 [gmail]: mailto:xianpeng.shen@gmail.com
 [paypal]: https://www.paypal.me/shenxianpeng
-[dev.to]: https://dev.to/shenxianpeng
+[sponsor]: https://github.com/sponsors/shenxianpeng
+[ko-fi]: https://ko-fi.com/H2H85WC9L
 [cpp-linter]: https://github.com/cpp-linter
 [commit-check]: https://github.com/commit-check
 [conventional-branch]: https://github.com/conventional-branch
 [devops-maturity]: https://github.com/devops-maturity
-[ko-fi]: https://ko-fi.com/H2H85WC9L
+[explain-error-plugin]: https://github.com/jenkinsci/explain-error-plugin
+[jenkinsci]: https://github.com/jenkinsci
 [pypa]: https://github.com/pypa
 [pull-requests]: https://github.com/pulls?q=is%3Apr+author%3Ashenxianpeng+archived%3Afalse+is%3Amerged+user%3Apypa 
