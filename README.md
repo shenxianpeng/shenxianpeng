@@ -1,25 +1,28 @@
 ### Hi 👋, I'm Xianpeng  
 
-![GitHub Stars](https://img.shields.io/github/stars/shenxianpeng)
+<!--![GitHub Stars](https://img.shields.io/github/stars/shenxianpeng)-->
 ![Profile Views](https://komarev.com/ghpvc/?username=shenxianpeng)
+[![My PyPI packages](https://img.shields.io/badge/-PyPI-4B8BBE?style=flat&labelColor=306998&logo=python&logoColor=FFE873 "My PyPI packages")](https://pypi.org/user/xpshen/)
+[![Sponsor me on GitHub](https://img.shields.io/badge/%E2%9D%A4-Sponsor%20me-brightgreen?style=flat&logo=GitHub "Sponsor me on GitHub")][sponsor]
 
-[💰][sponsor] | [About](https://shenxianpeng.github.io/en/about/) | [Blog][blog] | [RSS][rss] | [Medium][medium] | [Dev.to][dev.to] | [WeChat][qrcode] | [Zhihu][zhihu]
+<!--[💰][sponsor]-->
+[About](https://shenxianpeng.github.io/en/about/) | [Blog][blog] | [RSS][rss] | [Medium][medium] | [Dev.to][dev.to] | [WeChat][qrcode] | [Zhihu][zhihu]
 
-💻 **DevOps & Build Engineer** | **Python Enthusiast** | **Open Source Maintainer**
-
----
-
-#### 🧩 Creators
-
-- 🧹 [**cpp-linter**][cpp-linter] – C/C++ linting solutions using clang-format and clang-tidy
-- ✅ [**commit-check**][commit-check] – Ensures consistent commit messages, branch names, and more
-- 🏷️ [**conventional-branch**][conventional-branch] – Git branch naming conventions for cleaner workflows
-- 🏅 [**devops-maturity**][devops-maturity] – Specs and tools for assessing DevOps maturity
-- 💡 [**jenkinsci/explain-error-plugin**][explain-error-plugin] – Explains Jenkins job failures with AI
+**DevOps & Build Engineer** | **Python Enthusiast** | **Open Source Maintainer**
 
 ---
 
-#### 🌍 Contributor To
+#### 🧩 Creator of
+
+- [**cpp-linter**][cpp-linter] – C/C++ linting solutions using clang-format and clang-tidy
+- [**commit-check**][commit-check] – Ensures consistent commit messages, branch names, and more
+- [**conventional-branch**][conventional-branch] – Git branch naming conventions for cleaner workflows
+- [**devops-maturity**][devops-maturity] – Specs and tools for assessing DevOps maturity
+- [**jenkinsci/explain-error-plugin**][explain-error-plugin] – Explains Jenkins job failures with AI
+
+---
+
+#### 🌍 Contributor to
 
 - [**Jenkins**][jenkinsci] (member)  
 - [**PyPA**][pypa] ([merged PRs][pull-requests])  
