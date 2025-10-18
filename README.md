@@ -31,6 +31,13 @@
 
 🀄️ **WeChat:** [**DevOps-Engineer**][qrcode] – Sharing DevOps practices and real-world insights
 
+---
+
+#### ✍️ Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 
 [blog]: https://shenxianpeng.github.io/en/posts/
 [rss]: https://shenxianpeng.github.io/index.xml
