@@ -36,16 +36,16 @@
 #### ✍️ Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Commit Check v2.0.0 Released—TOML Config Support, Simplified CLI &amp; Hooks, Rebuilt Validation Engine!](https://shenxianpeng.github.io/en/posts/commit-check-v2/)
-- [Jenkins Explain Error Plugin Now Supports Ollama! 🤖](https://shenxianpeng.github.io/en/posts/explain-error-plugin-support-ollama/)
-- [The Cpp Linter Used by Microsoft and NASA Finally Has an Official Website!](https://shenxianpeng.github.io/en/posts/cpp-linter-website/)
-- [Conventional Branch Specification One-Year Anniversary — From Zero to Global Developer Adoption](https://shenxianpeng.github.io/en/posts/conventional-branch-one-year-anniversary/)
-- [Blog Bilingual Publishing Made Easy — GitHub Actions + Gemini API in Practice](https://shenxianpeng.github.io/en/posts/auto-translate-post/)
-- [Four Years of Open Source —— Three Unexpected Rewards](https://shenxianpeng.github.io/en/posts/why-open-source/)
-- [DevOps Maturity — From Reflection to Open Source Practice](https://shenxianpeng.github.io/en/posts/devops-maturity/)
-- [Eight Years Later, I Finally Revamped My Blog](https://shenxianpeng.github.io/en/posts/upgrade-blog-using-hugo/)
-- [Jenkins Explain Error Plugin Now Supports Google Gemini! 🤖](https://shenxianpeng.github.io/en/posts/explain-error-plugin-support-gemini/)
-- [Jenkins Plugin Center Didn&#39;t Have an AI Plugin Yet? I Wrote One! 🤖](https://shenxianpeng.github.io/en/posts/explain-error-plugin/)
+- [Commit Check v2.0.0 Released—TOML Config Support, Simplified CLI &amp; Hooks, Rebuilt Validation Engine!](https://shenxianpeng.github.io/en/posts/2025/commit-check-v2/)
+- [Jenkins Explain Error Plugin Now Supports Ollama! 🤖](https://shenxianpeng.github.io/en/posts/2025/explain-error-plugin-support-ollama/)
+- [The Cpp Linter Used by Microsoft and NASA Finally Has an Official Website!](https://shenxianpeng.github.io/en/posts/2025/cpp-linter-website/)
+- [Conventional Branch Specification One-Year Anniversary — From Zero to Global Developer Adoption](https://shenxianpeng.github.io/en/posts/2025/conventional-branch-one-year-anniversary/)
+- [Blog Bilingual Publishing Made Easy — GitHub Actions + Gemini API in Practice](https://shenxianpeng.github.io/en/posts/2025/auto-translate-post/)
+- [Four Years of Open Source —— Three Unexpected Rewards](https://shenxianpeng.github.io/en/posts/2025/why-open-source/)
+- [DevOps Maturity — From Reflection to Open Source Practice](https://shenxianpeng.github.io/en/posts/2025/devops-maturity/)
+- [Eight Years Later, I Finally Revamped My Blog](https://shenxianpeng.github.io/en/posts/2025/upgrade-blog-using-hugo/)
+- [Jenkins Explain Error Plugin Now Supports Google Gemini! 🤖](https://shenxianpeng.github.io/en/posts/2025/explain-error-plugin-support-gemini/)
+- [Jenkins Plugin Center Didn&#39;t Have an AI Plugin Yet? I Wrote One! 🤖](https://shenxianpeng.github.io/en/posts/2025/explain-error-plugin/)
 <!-- BLOG-POST-LIST:END -->
 
 
