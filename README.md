@@ -2,8 +2,9 @@
 
 <!--![GitHub Stars](https://img.shields.io/github/stars/shenxianpeng)-->
 ![Profile Views](https://komarev.com/ghpvc/?username=shenxianpeng)
-[![My PyPI packages](https://img.shields.io/badge/-PyPI-4B8BBE?style=flat&labelColor=306998&logo=python&logoColor=FFE873 "My PyPI packages")](https://pypi.org/user/xpshen/)
-[![Sponsor me on GitHub](https://img.shields.io/badge/%E2%9D%A4-Sponsor%20me-brightgreen?style=flat&logo=GitHub "Sponsor me on GitHub")][sponsor]
+[![My PyPI packages](https://img.shields.io/badge/-PyPI-4B8BBE?style=flat&labelColor=306998&logo=pypi&logoColor=FFE873 "My PyPI packages")](https://pypi.org/user/xpshen/)
+[![My PyPI packages stats](https://img.shields.io/badge/-PyPI_Stats-4B8BBE?style=flat&labelColor=306998&logo=pypi&logoColor=FFE873 "My PyPI packages stats")][pypistats]
+[![Sponsor me on GitHub](https://img.shields.io/badge/%E2%9D%A4-Sponsor%20me-brightgreen?style=flat&logo=githubsponsors "Sponsor me on GitHub")][sponsor]
 
 <!--[💰][sponsor]-->
 [About](https://shenxianpeng.github.io/en/about/) | [Blog][blog] | [RSS][rss] | [Medium][medium] | [Dev.to][dev.to] | [WeChat][qrcode] | [Zhihu][zhihu]
@@ -18,7 +19,7 @@
 - [**commit-check**][commit-check] – Ensures consistent commit messages, branch names, and more
 - [**conventional-branch**][conventional-branch] – Git branch naming conventions for cleaner workflows
 - [**devops-maturity**][devops-maturity] – Specs and tools for assessing DevOps maturity
-- [**jenkinsci/explain-error-plugin**][explain-error-plugin] – Explains Jenkins job failures with AI
+- [**jenkinsci/explain-error-plugin**][explain-error-plugin] – Explains Jenkins job failures with AIA
 
 ---
 
@@ -67,4 +68,5 @@
 [explain-error-plugin]: https://github.com/jenkinsci/explain-error-plugin
 [jenkinsci]: https://github.com/jenkinsci
 [pypa]: https://github.com/pypa
-[pull-requests]: https://github.com/pulls?q=is%3Apr+author%3Ashenxianpeng+archived%3Afalse+is%3Amerged+user%3Apypa 
+[pull-requests]: https://github.com/pulls?q=is%3Apr+author%3Ashenxianpeng+archived%3Afalse+is%3Amerged+user%3Apypa
+[pypistats]: https://shenxianpeng.github.io/en/portfolio/pypistats/
