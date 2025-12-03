@@ -4,7 +4,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=shenxianpeng)
 [![My PyPI packages](https://img.shields.io/badge/-PyPI-4B8BBE?style=flat&labelColor=306998&logo=pypi&logoColor=FFE873 "My PyPI packages")](https://pypi.org/user/xpshen/)
 [![My PyPI packages stats](https://img.shields.io/badge/-PyPI_Stats-4B8BBE?style=flat&labelColor=306998&logo=pypi&logoColor=FFE873 "My PyPI packages stats")][pypistats]
-[![Sponsor me on GitHub](https://img.shields.io/badge/%E2%9D%A4-Sponsor%20me-brightgreen?style=flat&logo=githubsponsors "Sponsor me on GitHub")][sponsor]
+[![Sponsor me on GitHub](https://img.shields.io/badge/Sponsor-Me-brightgreen?style=flat&logo=githubsponsors "Sponsor me on GitHub")][sponsor]
 
 <!--[💰][sponsor]-->
 [About](https://shenxianpeng.github.io/en/about/) | [Blog][blog] | [RSS][rss] | [Medium][medium] | [Dev.to][dev.to] | [WeChat][qrcode] | [Zhihu][zhihu]
