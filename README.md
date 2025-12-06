@@ -39,6 +39,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [py-eol — You Might Be Using &#39;Expired Python&#39; Without Realizing It](https://shenxianpeng.github.io/en/posts/2025/py-eol/)
 - [The Truth About Software Development—Adding Two People Won&#39;t Make a Project Three Times Faster](https://shenxianpeng.github.io/en/posts/2025/the-mythical-man-month/)
+- [Tired of Jenkinsfile Errors Only After Committing—Try This Pre-check Tool!](https://shenxianpeng.github.io/en/posts/2025/jenkinsfilelint/)
 - [Commit Check v2.0.0 Released—TOML Config Support, Simplified CLI &amp; Hooks, Rebuilt Validation Engine!](https://shenxianpeng.github.io/en/posts/2025/commit-check-v2/)
 - [Jenkins Explain Error Plugin Now Supports Ollama! 🤖](https://shenxianpeng.github.io/en/posts/2025/explain-error-plugin-support-ollama/)
 - [The Cpp Linter Used by Microsoft and NASA Finally Has an Official Website!](https://shenxianpeng.github.io/en/posts/2025/cpp-linter-website/)
@@ -46,7 +47,6 @@
 - [Blog Bilingual Publishing Made Easy — GitHub Actions + Gemini API in Practice](https://shenxianpeng.github.io/en/posts/2025/auto-translate-post/)
 - [Four Years of Open Source —— Three Unexpected Rewards](https://shenxianpeng.github.io/en/posts/2025/why-open-source/)
 - [DevOps Maturity — From Reflection to Open Source Practice](https://shenxianpeng.github.io/en/posts/2025/devops-maturity/)
-- [Eight Years Later, I Finally Revamped My Blog](https://shenxianpeng.github.io/en/posts/2025/upgrade-blog-using-hugo/)
 <!-- BLOG-POST-LIST:END -->
 
 
