@@ -37,6 +37,7 @@
 #### ✍️ Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [py-eol — You Might Be Using &#39;Expired Python&#39; Without Realizing It](https://shenxianpeng.github.io/en/posts/2025/py-eol/)
 - [Commit Check v2.0.0 Released—TOML Config Support, Simplified CLI &amp; Hooks, Rebuilt Validation Engine!](https://shenxianpeng.github.io/en/posts/2025/commit-check-v2/)
 - [Jenkins Explain Error Plugin Now Supports Ollama! 🤖](https://shenxianpeng.github.io/en/posts/2025/explain-error-plugin-support-ollama/)
 - [The Cpp Linter Used by Microsoft and NASA Finally Has an Official Website!](https://shenxianpeng.github.io/en/posts/2025/cpp-linter-website/)
@@ -46,7 +47,6 @@
 - [DevOps Maturity — From Reflection to Open Source Practice](https://shenxianpeng.github.io/en/posts/2025/devops-maturity/)
 - [Eight Years Later, I Finally Revamped My Blog](https://shenxianpeng.github.io/en/posts/2025/upgrade-blog-using-hugo/)
 - [Jenkins Explain Error Plugin Now Supports Google Gemini! 🤖](https://shenxianpeng.github.io/en/posts/2025/explain-error-plugin-support-gemini/)
-- [Jenkins Plugin Center Didn&#39;t Have an AI Plugin Yet? I Wrote One! 🤖](https://shenxianpeng.github.io/en/posts/2025/explain-error-plugin/)
 <!-- BLOG-POST-LIST:END -->
 
 
