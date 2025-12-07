@@ -38,6 +38,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [py-eol — You Might Be Using &#39;Expired Python&#39; Without Realizing It](https://shenxianpeng.github.io/en/posts/2025/py-eol/)
+- [To Save Everyone Two Lines of Commands—I Packaged Gnuplot into an Out-of-the-Box Python Package](https://shenxianpeng.github.io/en/posts/2025/gnuplot-wheel/)
 - [The Truth About Software Development—Adding Two People Won&#39;t Make a Project Three Times Faster](https://shenxianpeng.github.io/en/posts/2025/the-mythical-man-month/)
 - [Tired of Jenkinsfile Errors Only After Committing—Try This Pre-check Tool!](https://shenxianpeng.github.io/en/posts/2025/jenkinsfilelint/)
 - [Commit Check v2.0.0 Released—TOML Config Support, Simplified CLI &amp; Hooks, Rebuilt Validation Engine!](https://shenxianpeng.github.io/en/posts/2025/commit-check-v2/)
@@ -46,7 +47,6 @@
 - [Conventional Branch Specification One-Year Anniversary — From Zero to Global Developer Adoption](https://shenxianpeng.github.io/en/posts/2025/conventional-branch-one-year-anniversary/)
 - [Blog Bilingual Publishing Made Easy — GitHub Actions + Gemini API in Practice](https://shenxianpeng.github.io/en/posts/2025/auto-translate-post/)
 - [Four Years of Open Source —— Three Unexpected Rewards](https://shenxianpeng.github.io/en/posts/2025/why-open-source/)
-- [DevOps Maturity — From Reflection to Open Source Practice](https://shenxianpeng.github.io/en/posts/2025/devops-maturity/)
 <!-- BLOG-POST-LIST:END -->
 
 
