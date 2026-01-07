@@ -38,6 +38,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [GitHub AI Terminology Explained—Copilot, Agents, Models to MCP, Who is Who?](https://shenxianpeng.github.io/en/posts/2025/github-ai/)
+- [Backstage &lpar;Developer Portal&rpar;—What It Is, What It Solves, and What It Doesn&#39;t Solve](https://shenxianpeng.github.io/en/posts/2025/backstage/)
 - [py-eol — You Might Be Using &#39;Expired Python&#39; Without Realizing It](https://shenxianpeng.github.io/en/posts/2025/py-eol/)
 - [To Save Everyone Two Lines of Commands—I Packaged Gnuplot into an Out-of-the-Box Python Package](https://shenxianpeng.github.io/en/posts/2025/gnuplot-wheel/)
 - [The Truth About Software Development—Adding Two People Won&#39;t Make a Project Three Times Faster](https://shenxianpeng.github.io/en/posts/2025/the-mythical-man-month/)
@@ -46,7 +47,6 @@
 - [Jenkins Explain Error Plugin Now Supports Ollama! 🤖](https://shenxianpeng.github.io/en/posts/2025/explain-error-plugin-support-ollama/)
 - [The Cpp Linter Used by Microsoft and NASA Finally Has an Official Website!](https://shenxianpeng.github.io/en/posts/2025/cpp-linter-website/)
 - [Conventional Branch Specification One-Year Anniversary — From Zero to Global Developer Adoption](https://shenxianpeng.github.io/en/posts/2025/conventional-branch-one-year-anniversary/)
-- [Blog Bilingual Publishing Made Easy — GitHub Actions + Gemini API in Practice](https://shenxianpeng.github.io/en/posts/2025/auto-translate-post/)
 <!-- BLOG-POST-LIST:END -->
 
 
