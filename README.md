@@ -19,7 +19,7 @@
 - [**commit-check**][commit-check] – Ensures consistent commit messages, branch names, and more
 - [**conventional-branch**][conventional-branch] – Git branch naming conventions for cleaner workflows
 - [**devops-maturity**][devops-maturity] – Specs and tools for assessing DevOps maturity
-- [**jenkinsci/explain-error-plugin**][explain-error-plugin] – Explains Jenkins job failures with AIA
+- [**jenkinsci/explain-error-plugin**][explain-error-plugin] – Explains Jenkins job failures with AI
 
 ---
 
