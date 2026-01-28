@@ -37,6 +37,7 @@
 #### ✍️ Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What is AIOps—A Systematic Introduction to Intelligent Operations](https://shenxianpeng.github.io/en/posts/2026/aiops/)
 - [GitHub AI Terminology Explained—Copilot, Agents, Models to MCP, Who is Who?](https://shenxianpeng.github.io/en/posts/2025/github-ai/)
 - [Backstage &lpar;Developer Portal&rpar;—What It Is, What It Solves, and What It Doesn&#39;t Solve](https://shenxianpeng.github.io/en/posts/2025/backstage/)
 - [py-eol — You Might Be Using &#39;Expired Python&#39; Without Realizing It](https://shenxianpeng.github.io/en/posts/2025/py-eol/)
@@ -46,7 +47,6 @@
 - [Commit Check v2.0.0 Released—TOML Config Support, Simplified CLI &amp; Hooks, Rebuilt Validation Engine!](https://shenxianpeng.github.io/en/posts/2025/commit-check-v2/)
 - [Jenkins Explain Error Plugin Now Supports Ollama! 🤖](https://shenxianpeng.github.io/en/posts/2025/explain-error-plugin-support-ollama/)
 - [The Cpp Linter Used by Microsoft and NASA Finally Has an Official Website!](https://shenxianpeng.github.io/en/posts/2025/cpp-linter-website/)
-- [Conventional Branch Specification One-Year Anniversary — From Zero to Global Developer Adoption](https://shenxianpeng.github.io/en/posts/2025/conventional-branch-one-year-anniversary/)
 <!-- BLOG-POST-LIST:END -->
 
 
