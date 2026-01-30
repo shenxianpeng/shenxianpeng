@@ -37,6 +37,7 @@
 #### ✍️ Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Explain Error Plugin Updated Again—Two Practical New Features from User Feedback](https://shenxianpeng.github.io/en/posts/2026/explain-error-plugin/)
 - [What is AIOps—A Systematic Introduction to Intelligent Operations](https://shenxianpeng.github.io/en/posts/2026/aiops/)
 - [GitHub AI Terminology Explained—Copilot, Agents, Models to MCP, Who is Who?](https://shenxianpeng.github.io/en/posts/2025/github-ai/)
 - [Backstage &lpar;Developer Portal&rpar;—What It Is, What It Solves, and What It Doesn&#39;t Solve](https://shenxianpeng.github.io/en/posts/2025/backstage/)
@@ -46,7 +47,6 @@
 - [Tired of Jenkinsfile Errors Only After Committing—Try This Pre-check Tool!](https://shenxianpeng.github.io/en/posts/2025/jenkinsfilelint/)
 - [Commit Check v2.0.0 Released—TOML Config Support, Simplified CLI &amp; Hooks, Rebuilt Validation Engine!](https://shenxianpeng.github.io/en/posts/2025/commit-check-v2/)
 - [Jenkins Explain Error Plugin Now Supports Ollama! 🤖](https://shenxianpeng.github.io/en/posts/2025/explain-error-plugin-support-ollama/)
-- [The Cpp Linter Used by Microsoft and NASA Finally Has an Official Website!](https://shenxianpeng.github.io/en/posts/2025/cpp-linter-website/)
 <!-- BLOG-POST-LIST:END -->
 
 
