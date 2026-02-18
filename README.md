@@ -41,12 +41,12 @@
 - [Explain Error Plugin Adds Two Major Enterprise Features—Custom Context and Folder-Level Configuration](https://shenxianpeng.github.io/en/posts/2026/explain-error-plugin-2/)
 - [Explain Error Plugin Updated Again—Two Practical New Features from User Feedback](https://shenxianpeng.github.io/en/posts/2026/explain-error-plugin/)
 - [What is AIOps—A Systematic Introduction to Intelligent Operations](https://shenxianpeng.github.io/en/posts/2026/aiops/)
+- [One Month Back Home—I Didn&#39;t Do Anything &#39;Big&#39;](https://shenxianpeng.github.io/en/misc/2026-vacation-notes/)
 - [GitHub AI Terminology Explained—Copilot, Agents, Models to MCP, Who is Who?](https://shenxianpeng.github.io/en/posts/2025/github-ai/)
 - [Backstage &lpar;Developer Portal&rpar;—What It Is, What It Solves, and What It Doesn&#39;t Solve](https://shenxianpeng.github.io/en/posts/2025/backstage/)
 - [py-eol — You Might Be Using &#39;Expired Python&#39; Without Realizing It](https://shenxianpeng.github.io/en/posts/2025/py-eol/)
 - [To Save Everyone Two Lines of Commands—I Packaged Gnuplot into an Out-of-the-Box Python Package](https://shenxianpeng.github.io/en/posts/2025/gnuplot-wheel/)
 - [The Truth About Software Development—Adding Two People Won&#39;t Make a Project Three Times Faster](https://shenxianpeng.github.io/en/posts/2025/the-mythical-man-month/)
-- [Tired of Jenkinsfile Errors Only After Committing—Try This Pre-check Tool!](https://shenxianpeng.github.io/en/posts/2025/jenkinsfilelint/)
 <!-- BLOG-POST-LIST:END -->
 
 
