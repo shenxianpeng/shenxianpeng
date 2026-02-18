@@ -37,6 +37,7 @@
 #### ✍️ Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Exploring Agentic DevOps—GitHub Agentic Workflow and Practical Observations of Continuous AI](https://shenxianpeng.github.io/en/posts/2026/agentic-devops/)
 - [Explain Error Plugin Adds Two Major Enterprise Features—Custom Context and Folder-Level Configuration](https://shenxianpeng.github.io/en/posts/2026/explain-error-plugin-2/)
 - [Explain Error Plugin Updated Again—Two Practical New Features from User Feedback](https://shenxianpeng.github.io/en/posts/2026/explain-error-plugin/)
 - [What is AIOps—A Systematic Introduction to Intelligent Operations](https://shenxianpeng.github.io/en/posts/2026/aiops/)
@@ -46,7 +47,6 @@
 - [To Save Everyone Two Lines of Commands—I Packaged Gnuplot into an Out-of-the-Box Python Package](https://shenxianpeng.github.io/en/posts/2025/gnuplot-wheel/)
 - [The Truth About Software Development—Adding Two People Won&#39;t Make a Project Three Times Faster](https://shenxianpeng.github.io/en/posts/2025/the-mythical-man-month/)
 - [Tired of Jenkinsfile Errors Only After Committing—Try This Pre-check Tool!](https://shenxianpeng.github.io/en/posts/2025/jenkinsfilelint/)
-- [Commit Check v2.0.0 Released—TOML Config Support, Simplified CLI &amp; Hooks, Rebuilt Validation Engine!](https://shenxianpeng.github.io/en/posts/2025/commit-check-v2/)
 <!-- BLOG-POST-LIST:END -->
 
 
