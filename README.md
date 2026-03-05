@@ -37,6 +37,7 @@
 #### ✍️ Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [GitStats 2.0—New UI and Chart Engine, Revitalizing Your Git Repository History Data](https://shenxianpeng.github.io/en/posts/2026/gitstats-2.0/)
 - [Don&#39;t Learn OpenClaw—It Won&#39;t Last the Year](https://shenxianpeng.github.io/en/posts/2026/openclaw/)
 - [2025 DevOps State of the Report—Skills are No Longer a Bonus, but a &#39;Must-Have&#39;!](https://shenxianpeng.github.io/en/posts/2026/state-of-devops/)
 - [Exploring Agentic DevOps—GitHub Agentic Workflow and Practical Observations of Continuous AI](https://shenxianpeng.github.io/en/posts/2026/agentic-devops/)
@@ -46,7 +47,6 @@
 - [One Month Back Home—I Didn&#39;t Do Anything &#39;Big&#39;](https://shenxianpeng.github.io/en/misc/2026-vacation-notes/)
 - [GitHub AI Terminology Explained—Copilot, Agents, Models to MCP, Who is Who?](https://shenxianpeng.github.io/en/posts/2025/github-ai/)
 - [Backstage &lpar;Developer Portal&rpar;—What It Is, What It Solves, and What It Doesn&#39;t Solve](https://shenxianpeng.github.io/en/posts/2025/backstage/)
-- [py-eol — You Might Be Using &#39;Expired Python&#39; Without Realizing It](https://shenxianpeng.github.io/en/posts/2025/py-eol/)
 <!-- BLOG-POST-LIST:END -->
 
 
