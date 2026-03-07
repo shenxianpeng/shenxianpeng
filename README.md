@@ -21,6 +21,10 @@
 - [**devops-maturity**][devops-maturity] – Specs and tools for assessing DevOps maturity
 - [**jenkinsci/explain-error-plugin**][explain-error-plugin] – Explains Jenkins job failures with AI
 
+#### 🛠 Maintainer of
+
+- [**gitstats**][gitstats] - Generate insightful visual reports from Git
+
 ---
 
 #### 🌍 Contributor to
@@ -66,6 +70,7 @@
 [conventional-branch]: https://github.com/conventional-branch
 [devops-maturity]: https://github.com/devops-maturity
 [explain-error-plugin]: https://github.com/jenkinsci/explain-error-plugin
+[gitstats]: https://github.com/shenxianpeng/gitstats
 [jenkinsci]: https://github.com/jenkinsci
 [pypa]: https://github.com/pypa
 [pull-requests]: https://github.com/pulls?q=is%3Apr+author%3Ashenxianpeng+archived%3Afalse+is%3Amerged+user%3Apypa
