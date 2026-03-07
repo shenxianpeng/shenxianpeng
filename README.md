@@ -23,7 +23,7 @@
 
 #### 🛠 Maintainer of
 
-- [**gitstats**][gitstats] - Modernized Git repository analytics and visualization
+- [**gitstats**][gitstats] - Generate insightful visual reports from Git
 
 ---
 
