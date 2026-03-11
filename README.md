@@ -24,6 +24,7 @@
 #### 🛠 Maintainer of
 
 - [**gitstats**][gitstats] - Generate insightful visual reports from Git
+- [**badgepy**][badgepy] - A Python library for creating GitHub-style badges
 
 ---
 
@@ -71,6 +72,7 @@
 [devops-maturity]: https://github.com/devops-maturity
 [explain-error-plugin]: https://github.com/jenkinsci/explain-error-plugin
 [gitstats]: https://github.com/shenxianpeng/gitstats
+[badgepy]: https://github.com/shenxianpeng/badgepy
 [jenkinsci]: https://github.com/jenkinsci
 [pypa]: https://github.com/pypa
 [pull-requests]: https://github.com/pulls?q=is%3Apr+author%3Ashenxianpeng+archived%3Afalse+is%3Amerged+user%3Apypa
