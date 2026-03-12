@@ -9,8 +9,6 @@
 <!--[💰][sponsor]-->
 [About](https://shenxianpeng.github.io/en/about/) | [Blog][blog] | [RSS][rss] | [Medium][medium] | [Dev.to][dev.to] | [WeChat][qrcode] | [Zhihu][zhihu]
 
-**DevOps & Build Engineer** | **Python Enthusiast** | **Open Source Maintainer**
-
 ---
 
 #### 🧩 Creator of
