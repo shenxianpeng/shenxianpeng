@@ -41,6 +41,7 @@
 #### ✍️ Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Claim the &#39;Lottery Ticket&#39; of Open Source—Starting from thanks.dev&#39;s Operational Mechanism](https://shenxianpeng.github.io/en/posts/2026/thanks-dev/)
 - [Thanks to Canonical’s Generous Donation—badgepy Continues as Free and Open Source](https://shenxianpeng.github.io/en/posts/2026/thanks-canonical/)
 - [GitStats 2.0—New UI and Chart Engine, Revitalizing Your Git Repository History Data](https://shenxianpeng.github.io/en/posts/2026/gitstats-2.0/)
 - [Don&#39;t Learn OpenClaw—It Won&#39;t Last the Year](https://shenxianpeng.github.io/en/posts/2026/openclaw/)
@@ -50,7 +51,6 @@
 - [Explain Error Plugin Updated Again—Two Practical New Features from User Feedback](https://shenxianpeng.github.io/en/posts/2026/explain-error-plugin/)
 - [What is AIOps—A Systematic Introduction to Intelligent Operations](https://shenxianpeng.github.io/en/posts/2026/aiops/)
 - [One Month Back Home—I Didn&#39;t Do Anything &#39;Big&#39;](https://shenxianpeng.github.io/en/misc/2026-vacation-notes/)
-- [GitHub AI Terminology Explained—Copilot, Agents, Models to MCP, Who is Who?](https://shenxianpeng.github.io/en/posts/2025/github-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 
