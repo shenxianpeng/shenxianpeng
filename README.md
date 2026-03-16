@@ -29,8 +29,8 @@
 
 #### 🌍 Contributor to
 
-- [**Jenkins**][jenkinsci] (member)  
-- [**PyPA**][pypa] ([merged PRs][pull-requests])  
+- [**Jenkins**][jenkinsci] (member)
+- [**PyPA**][pypa] & [Python][python] ([merged PRs][python-prs])  
 
 ---
 
@@ -74,5 +74,7 @@
 [badgepy]: https://github.com/shenxianpeng/badgepy
 [jenkinsci]: https://github.com/jenkinsci
 [pypa]: https://github.com/pypa
-[pull-requests]: https://github.com/pulls?q=is%3Apr+author%3Ashenxianpeng+archived%3Afalse+is%3Amerged+user%3Apypa
+[python]: https://github.com/python
+[python-prs]: https://github.com/pulls?q=is%3Apr+author%3Ashenxianpeng+archived%3Afalse+is%3Amerged+user%3Apypa+user%3Apython
 [pypistats]: https://shenxianpeng.github.io/en/portfolio/pypistats/
+[jenkins-pr]: https://github.com/pulls?q=is%3Apr+author%3Ashenxianpeng+archived%3Afalse+is%3Amerged+user%3Ajenkinsci+user%3Ajenkins-infra
