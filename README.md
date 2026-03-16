@@ -75,6 +75,6 @@
 [jenkinsci]: https://github.com/jenkinsci
 [pypa]: https://github.com/pypa
 [python]: https://github.com/python
-[python-prs]: https://github.com/pulls?q=is%3Apr+author%3Ashenxianpeng+archived%3Afalse+is%3Amerged+user%3Apypa+is%3Amerged+user%3Apython
+[python-prs]: https://github.com/pulls?q=is%3Apr+author%3Ashenxianpeng+archived%3Afalse+is%3Amerged+user%3Apypa+user%3Apython
 [pypistats]: https://shenxianpeng.github.io/en/portfolio/pypistats/
-[jenkins-pr]: https://github.com/pulls?q=is%3Apr+author%3Ashenxianpeng+archived%3Afalse+is%3Amerged+user%3Ajenkinsci+is%3Amerged+user%3Ajenkins-infra
+[jenkins-pr]: https://github.com/pulls?q=is%3Apr+author%3Ashenxianpeng+archived%3Afalse+is%3Amerged+user%3Ajenkinsci+user%3Ajenkins-infra
