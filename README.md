@@ -41,6 +41,7 @@
 #### ✍️ Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A Three-Year Community Pain Point—I Put Hadolint on PyPI, Ending Manual Installation](https://shenxianpeng.github.io/en/posts/2026/hadolint-pre-commit/)
 - [How to Claim the &#39;Lottery Ticket&#39; of Open Source—Starting from thanks.dev&#39;s Operational Mechanism](https://shenxianpeng.github.io/en/posts/2026/thanks-dev/)
 - [Thanks to Canonical’s Generous Donation—badgepy Continues as Free and Open Source](https://shenxianpeng.github.io/en/posts/2026/thanks-canonical/)
 - [Job Search—Why the &quot;Nuclear Weapon&quot; Strategy Might Be the Winning Formula for 2026](https://shenxianpeng.github.io/en/posts/2026/find-job/)
@@ -50,7 +51,6 @@
 - [Exploring Agentic DevOps—GitHub Agentic Workflow and Practical Observations of Continuous AI](https://shenxianpeng.github.io/en/posts/2026/agentic-devops/)
 - [Explain Error Plugin Adds Two Major Enterprise Features—Custom Context and Folder-Level Configuration](https://shenxianpeng.github.io/en/posts/2026/explain-error-plugin-2/)
 - [Explain Error Plugin Updated Again—Two Practical New Features from User Feedback](https://shenxianpeng.github.io/en/posts/2026/explain-error-plugin/)
-- [What is AIOps—A Systematic Introduction to Intelligent Operations](https://shenxianpeng.github.io/en/posts/2026/aiops/)
 <!-- BLOG-POST-LIST:END -->
 
 
