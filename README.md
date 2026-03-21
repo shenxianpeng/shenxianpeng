@@ -1,14 +1,13 @@
-### Hi 👋, I'm Xianpeng  
+### Hi 👋, I'm Xianpeng
 
-<!--![GitHub Stars](https://img.shields.io/github/stars/shenxianpeng)-->
+> **Open-source DevOps toolchain creator. Making CI/CD less painful, one tool at a time.**
+
 ![Profile Views](https://komarev.com/ghpvc/?username=shenxianpeng)
+[![GitHub followers](https://img.shields.io/github/followers/shenxianpeng?label=Follow&style=social)](https://github.com/shenxianpeng)
 [![My PyPI packages](https://img.shields.io/badge/-PyPI-4B8BBE?style=flat&labelColor=306998&logo=pypi&logoColor=FFE873 "My PyPI packages")](https://pypi.org/user/xpshen/)
-[![My PyPI packages stats](https://img.shields.io/badge/-PyPI_Stats-4B8BBE?style=flat&labelColor=306998&logo=pypi&logoColor=FFE873 "My PyPI packages stats")][pypistats]
 [![Sponsor me on GitHub](https://img.shields.io/badge/GitHub-Sponsors-EA4AAA?style=flat&logo=githubsponsors "Sponsor me on GitHub")][sponsor]
-[![committers.top badge](https://user-badge.committers.top/lithuania_public/shenxianpeng.svg)](https://user-badge.committers.top/lithuania_public/shenxianpeng)
 
-<!--[💰][sponsor]-->
-[About](https://shenxianpeng.github.io/en/about/) | [Blog][blog] | [RSS][rss] | [Medium][medium] | [Dev.to][dev.to] | [WeChat][qrcode] | [Zhihu][zhihu]
+[📖 Blog][blog] · [🛠 Projects](#-creator-of) · [📬 Contact](#-lets-connect)
 
 ---
 
@@ -22,19 +21,15 @@
 
 #### 🛠 Maintainer of
 
-- [**gitstats**][gitstats] - Generate insightful visual reports from Git
-- [**badgepy**][badgepy] - A Python library for creating GitHub-style badges
+- [**gitstats**][gitstats] – Generate insightful visual reports from Git
+- [**badgepy**][badgepy] – A Python library for creating GitHub-style badges
 
 ---
 
 #### 🌍 Contributor to
 
 - [**Jenkins**][jenkinsci] (member)
-- [**PyPA**][pypa] & [Python][python] ([merged PRs][python-prs])  
-
----
-
-🀄️ **WeChat:** [**DevOps-Engineer**][qrcode] – Sharing DevOps practices and real-world insights
+- [**PyPA**][pypa] & [Python][python] ([merged PRs][python-prs])
 
 ---
 
@@ -53,6 +48,15 @@
 - [Explain Error Plugin Updated Again—Two Practical New Features from User Feedback](https://shenxianpeng.github.io/en/posts/2026/explain-error-plugin/)
 <!-- BLOG-POST-LIST:END -->
 
+---
+
+#### 🚀 Let's Connect
+
+- 📖 **Read my blog** → [shenxianpeng.github.io][blog] · [RSS][rss]
+- 🛠 **Use my tools** → [cpp-linter][cpp-linter] · [commit-check][commit-check]
+- 💬 **WeChat** → 搜索公众号 **DevOps-Engineer** 或[扫码关注][qrcode]
+- 💼 **Hire me** → [LinkedIn](https://www.linkedin.com/in/xianpeng-shen/) · [Email](mailto:xianpeng.shen@gmail.com)
+- ⭐ **Support open source** → [GitHub Sponsors][sponsor]
 
 [blog]: https://shenxianpeng.github.io/en/posts/
 [rss]: https://shenxianpeng.github.io/index.xml
@@ -60,11 +64,7 @@
 [dev.to]: https://dev.to/shenxianpeng
 [zhihu]: https://www.zhihu.com/people/shenxianpeng
 [qrcode]: https://github.com/shenxianpeng/blog/blob/main/assets/img/qrcode.jpg
-[linkedin]: https://www.linkedin.com/in/xianpeng-shen/
-[gmail]: mailto:xianpeng.shen@gmail.com
-[paypal]: https://www.paypal.me/shenxianpeng
 [sponsor]: https://github.com/sponsors/shenxianpeng
-[ko-fi]: https://ko-fi.com/H2H85WC9L
 [cpp-linter]: https://github.com/cpp-linter
 [commit-check]: https://github.com/commit-check
 [conventional-branch]: https://github.com/conventional-branch
@@ -77,4 +77,3 @@
 [python]: https://github.com/python
 [python-prs]: https://github.com/pulls?q=is%3Apr+author%3Ashenxianpeng+archived%3Afalse+is%3Amerged+user%3Apypa+user%3Apython
 [pypistats]: https://shenxianpeng.github.io/en/portfolio/pypistats/
-[jenkins-pr]: https://github.com/pulls?q=is%3Apr+author%3Ashenxianpeng+archived%3Afalse+is%3Amerged+user%3Ajenkinsci+user%3Ajenkins-infra
