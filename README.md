@@ -19,6 +19,12 @@
 - [**conventional-branch**][conventional-branch] – Git branch naming conventions for cleaner workflows
 - [**devops-maturity**][devops-maturity] – Specs and tools for assessing DevOps maturity
 - [**jenkinsci/explain-error-plugin**][explain-error-plugin] – Explains Jenkins job failures with AI
+- [**castops**][castops] – DevOps tools and automation for cast workflows
+- [**atlassian-api-py**][atlassian-api-py] – Python library for Atlassian REST APIs
+- [**hadolint-pre-commit**][hadolint-pre-commit] – Hadolint Dockerfile linter as a pre-commit hook and PyPI package
+- [**py-eol**][py-eol] – Python end-of-life checker
+- [**gnuplot-wheel**][gnuplot-wheel] – gnuplot Python wheel for easy installation
+- [**jenkinsfilelint**][jenkinsfilelint] – Lint Jenkinsfiles to catch syntax errors early
 
 #### 🛠 Maintainer of
 
@@ -72,6 +78,12 @@
 [explain-error-plugin]: https://github.com/jenkinsci/explain-error-plugin
 [gitstats]: https://github.com/shenxianpeng/gitstats
 [badgepy]: https://github.com/shenxianpeng/badgepy
+[castops]: https://github.com/castops
+[atlassian-api-py]: https://github.com/shenxianpeng/atlassian-api-py
+[hadolint-pre-commit]: https://github.com/shenxianpeng/hadolint-pre-commit
+[py-eol]: https://github.com/shenxianpeng/py-eol
+[gnuplot-wheel]: https://github.com/shenxianpeng/gnuplot-wheel
+[jenkinsfilelint]: https://github.com/shenxianpeng/jenkinsfilelint
 [jenkinsci]: https://github.com/jenkinsci
 [pypa]: https://github.com/pypa
 [python]: https://github.com/python
