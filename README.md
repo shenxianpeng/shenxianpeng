@@ -20,11 +20,11 @@
 - [**devops-maturity**][devops-maturity] – Specs and tools for assessing DevOps maturity
 - [**jenkinsci/explain-error-plugin**][explain-error-plugin] – Explains Jenkins job failures with AI
 - [**castops**][castops] – DevOps tools and automation for cast workflows
-- [**atlassian-api-py**][atlassian-api-py] – Python library for Atlassian REST APIs
-- [**hadolint-pre-commit**][hadolint-pre-commit] – Hadolint Dockerfile linter as a pre-commit hook and PyPI package
 - [**py-eol**][py-eol] – Python end-of-life checker
+- [**atlassian-api-py**][atlassian-api-py] – Python library for Atlassian REST APIs
 - [**gnuplot-wheel**][gnuplot-wheel] – gnuplot Python wheel for easy installation
 - [**jenkinsfilelint**][jenkinsfilelint] – Lint Jenkinsfiles to catch syntax errors early
+- [**hadolint-pre-commit**][hadolint-pre-commit] – Hadolint Dockerfile linter as a pre-commit hook and PyPI package
 
 #### 🛠 Maintainer of
 
