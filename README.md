@@ -25,6 +25,7 @@
 - [**gnuplot-wheel**][gnuplot-wheel] – gnuplot Python wheel for easy installation
 - [**jenkinsfilelint**][jenkinsfilelint] – Lint Jenkinsfiles to catch syntax errors early
 - [**hadolint-pre-commit**][hadolint-pre-commit] – Hadolint Dockerfile linter as a pre-commit hook and PyPI package
+- [**pipguard**][pipguard] – Python supply chain security tool. Scan packages before installing them
 
 #### 🛠 Maintainer of
 
@@ -84,6 +85,7 @@
 [py-eol]: https://github.com/shenxianpeng/py-eol
 [gnuplot-wheel]: https://github.com/shenxianpeng/gnuplot-wheel
 [jenkinsfilelint]: https://github.com/shenxianpeng/jenkinsfilelint
+[pipguard]: https://github.com/shenxianpeng/pipguard
 [jenkinsci]: https://github.com/jenkinsci
 [pypa]: https://github.com/pypa
 [python]: https://github.com/python
