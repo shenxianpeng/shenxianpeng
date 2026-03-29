@@ -41,7 +41,7 @@
 
 ---
 
-🀄️ **WeChat:** [**DevOps-Engineer**][qrcode] – Sharing DevOps practices and real-world insights
+🀄️ **WeChat:** [**shenxianpeng**][qrcode] – Sharing AI + DevOps practices and real-world insights
 
 ---
 
