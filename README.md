@@ -20,7 +20,7 @@
 - [**devops-maturity**][devops-maturity] – Specs and tools for assessing DevOps maturity
 - [**jenkinsci/explain-error-plugin**][explain-error-plugin] – Explains Jenkins job failures with AI
 - [**castops**][castops] – DevOps tools and automation for cast workflows
-- [**py-eol**][py-eol] – Python end-of-life checker
+- [**py-eol**][py-eol] – Track Python release & EOL timelines
 - [**atlassian-api-py**][atlassian-api-py] – Python library for Atlassian REST APIs
 - [**gnuplot-wheel**][gnuplot-wheel] – gnuplot Python wheel for easy installation
 - [**jenkinsfilelint**][jenkinsfilelint] – Lint Jenkinsfiles to catch syntax errors early
