@@ -14,7 +14,13 @@
 
 #### 🧩 Creator of
 
-- [**cpp-linter**][cpp-linter] – C/C++ linting solutions using clang-format and clang-tidy
+- [**cpp-linter/cpp-linter-action**][cpp-linter-action] – GitHub Action for C/C++ linting with clang-format and clang-tidy
+- [**cpp-linter/cpp-linter-hooks**][cpp-linter-hooks] – Pre-commit hooks for C/C++ linting using clang-format and clang-tidy
+- [**cpp-linter/clang-tools-docker**][clang-tools-docker] – Docker images pre-installed with clang-format and clang-tidy
+- [**cpp-linter/clang-tools-wheel**][clang-tools-wheel] – Python wheel packages for clang-format and clang-tidy
+- [**cpp-linter/clang-tools-static-binaries**][clang-tools-static-binaries] – Cross-platform static binaries for clang tools
+- [**cpp-linter/clang-tools-pip**][clang-tools-pip] – PyPI packages for installing clang-format and clang-tidy
+- [**cpp-linter/asdf-clang-tools**][asdf-clang-tools] – asdf plugin for installing and managing clang tools
 - [**commit-check**][commit-check] – Ensures consistent commit messages, branch names, and more
 - [**conventional-branch**][conventional-branch] – Git branch naming conventions for cleaner workflows
 - [**devops-maturity**][devops-maturity] – Specs and tools for assessing DevOps maturity
@@ -72,7 +78,13 @@
 [paypal]: https://www.paypal.me/shenxianpeng
 [sponsor]: https://github.com/sponsors/shenxianpeng
 [ko-fi]: https://ko-fi.com/H2H85WC9L
-[cpp-linter]: https://github.com/cpp-linter
+[cpp-linter-action]: https://github.com/cpp-linter/cpp-linter-action
+[cpp-linter-hooks]: https://github.com/cpp-linter/cpp-linter-hooks
+[clang-tools-docker]: https://github.com/cpp-linter/clang-tools-docker
+[clang-tools-wheel]: https://github.com/cpp-linter/clang-tools-wheel
+[clang-tools-static-binaries]: https://github.com/cpp-linter/clang-tools-static-binaries
+[clang-tools-pip]: https://github.com/cpp-linter/clang-tools-pip
+[asdf-clang-tools]: https://github.com/cpp-linter/asdf-clang-tools
 [commit-check]: https://github.com/commit-check
 [conventional-branch]: https://github.com/conventional-branch
 [devops-maturity]: https://github.com/devops-maturity
