@@ -26,7 +26,8 @@
 - [**conventional-branch**][conventional-branch] – Git branch naming conventions for cleaner workflows
 - [**devops-maturity**][devops-maturity] – Specs and tools for assessing DevOps maturity
 - [**jenkinsci/explain-error-plugin**][explain-error-plugin] – Explains Jenkins job failures with AI
-- [**castops**][castops] – DevOps tools and automation for cast workflows
+- [**castops/cast-cli**][cast-cli] – CLI tool for cast workflows
+- [**castops/cast-slice**][cast-slice] – Slice tool for cast workflows
 - [**py-eol**][py-eol] – Track Python release & EOL timelines
 - [**atlassian-api-py**][atlassian-api-py] – Python library for Atlassian REST APIs
 - [**gnuplot-wheel**][gnuplot-wheel] – gnuplot Python wheel for easy installation
@@ -88,12 +89,13 @@
 [asdf-clang-tools]: https://github.com/cpp-linter/asdf-clang-tools
 [commit-check]: https://github.com/commit-check/commit-check
 [commit-check-action]: https://github.com/commit-check/commit-check-action
-[conventional-branch]: https://github.com/conventional-branch
-[devops-maturity]: https://github.com/devops-maturity
+[conventional-branch]: https://github.com/conventional-branch/conventional-branch
+[devops-maturity]: https://github.com/devops-maturity/devops-maturity
 [explain-error-plugin]: https://github.com/jenkinsci/explain-error-plugin
 [gitstats]: https://github.com/shenxianpeng/gitstats
 [badgepy]: https://github.com/shenxianpeng/badgepy
-[castops]: https://github.com/castops
+[cast-cli]: https://github.com/castops/cast-cli
+[cast-slice]: https://github.com/castops/cast-slice
 [atlassian-api-py]: https://github.com/shenxianpeng/atlassian-api-py
 [hadolint-pre-commit]: https://github.com/shenxianpeng/hadolint-pre-commit
 [py-eol]: https://github.com/shenxianpeng/py-eol
