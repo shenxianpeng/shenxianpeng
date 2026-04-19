@@ -21,7 +21,8 @@
 - [**cpp-linter/clang-tools-static-binaries**][clang-tools-static-binaries] – Cross-platform static binaries for clang tools
 - [**cpp-linter/clang-tools-pip**][clang-tools-pip] – PyPI packages for installing clang-format and clang-tidy
 - [**cpp-linter/asdf-clang-tools**][asdf-clang-tools] – asdf plugin for installing and managing clang tools
-- [**commit-check**][commit-check] – Ensures consistent commit messages, branch names, and more
+- [**commit-check/commit-check**][commit-check] – Ensures consistent commit messages, branch names, and more
+- [**commit-check/commit-check-action**][commit-check-action] – GitHub Action for commit-check
 - [**conventional-branch**][conventional-branch] – Git branch naming conventions for cleaner workflows
 - [**devops-maturity**][devops-maturity] – Specs and tools for assessing DevOps maturity
 - [**jenkinsci/explain-error-plugin**][explain-error-plugin] – Explains Jenkins job failures with AI
@@ -85,7 +86,8 @@
 [clang-tools-static-binaries]: https://github.com/cpp-linter/clang-tools-static-binaries
 [clang-tools-pip]: https://github.com/cpp-linter/clang-tools-pip
 [asdf-clang-tools]: https://github.com/cpp-linter/asdf-clang-tools
-[commit-check]: https://github.com/commit-check
+[commit-check]: https://github.com/commit-check/commit-check
+[commit-check-action]: https://github.com/commit-check/commit-check-action
 [conventional-branch]: https://github.com/conventional-branch
 [devops-maturity]: https://github.com/devops-maturity
 [explain-error-plugin]: https://github.com/jenkinsci/explain-error-plugin
