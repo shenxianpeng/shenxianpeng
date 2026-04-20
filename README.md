@@ -48,6 +48,7 @@
 #### ✍️ Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [AI Agent, or Automation?](https://shenxianpeng.github.io/en/posts/2026/ai-agents-vs-automations/)
 - [Python Supply Chain &#39;Nuclear Bomb&#39; Attack Just Happened—A `pip install` Steals All Your Credentials!](https://shenxianpeng.github.io/en/posts/2026/pipguard/)
 - [A Three-Year Community Pain Point—I Put Hadolint on PyPI, Ending Manual Installation](https://shenxianpeng.github.io/en/posts/2026/hadolint-pre-commit/)
 - [How to Claim the &#39;Lottery Ticket&#39; of Open Source—Starting from thanks.dev&#39;s Operational Mechanism](https://shenxianpeng.github.io/en/posts/2026/thanks-dev/)
@@ -57,7 +58,6 @@
 - [Don&#39;t Learn OpenClaw—It Won&#39;t Last the Year](https://shenxianpeng.github.io/en/posts/2026/openclaw/)
 - [2025 DevOps State of the Report—Skills are No Longer a Bonus, but a &#39;Must-Have&#39;!](https://shenxianpeng.github.io/en/posts/2026/state-of-devops/)
 - [Exploring Agentic DevOps—GitHub Agentic Workflow and Practical Observations of Continuous AI](https://shenxianpeng.github.io/en/posts/2026/agentic-devops/)
-- [Explain Error Plugin Adds Two Major Enterprise Features—Custom Context and Folder-Level Configuration](https://shenxianpeng.github.io/en/posts/2026/explain-error-plugin-2/)
 <!-- BLOG-POST-LIST:END -->
 
 
