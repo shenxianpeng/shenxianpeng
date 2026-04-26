@@ -50,7 +50,6 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Explain Error Plugin Major Update — AI Auto-Fix, Usage Management, and More AI Providers](https://shenxianpeng.github.io/en/posts/2026/explain-error-plugin-3/)
-- [Twenty-Four Cents to Write an Article—My Experience Replacing Codex with Pi + DeepSeek](https://shenxianpeng.github.io/en/posts/2026/pi-deepseek/)
 - [AI Agent, or Automation?](https://shenxianpeng.github.io/en/posts/2026/ai-agents-vs-automations/)
 - [Python Supply Chain &#39;Nuclear Bomb&#39; Attack Just Happened—A `pip install` Steals All Your Credentials!](https://shenxianpeng.github.io/en/posts/2026/pipguard/)
 - [A Three-Year Community Pain Point—I Put Hadolint on PyPI, Ending Manual Installation](https://shenxianpeng.github.io/en/posts/2026/hadolint-pre-commit/)
@@ -59,6 +58,7 @@
 - [Job Search—Why the &quot;Nuclear Weapon&quot; Strategy Might Be the Winning Formula for 2026](https://shenxianpeng.github.io/en/posts/2026/find-job/)
 - [GitStats 2.0—New UI and Chart Engine, Revitalizing Your Git Repository History Data](https://shenxianpeng.github.io/en/posts/2026/gitstats-2.0/)
 - [Don&#39;t Learn OpenClaw—It Won&#39;t Last the Year](https://shenxianpeng.github.io/en/posts/2026/openclaw/)
+- [2025 DevOps State of the Report—Skills are No Longer a Bonus, but a &#39;Must-Have&#39;!](https://shenxianpeng.github.io/en/posts/2026/state-of-devops/)
 <!-- BLOG-POST-LIST:END -->
 
 
