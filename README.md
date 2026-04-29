@@ -32,6 +32,7 @@
 - [**gitstats**][gitstats] - Generate insightful visual reports from Git
 - [**badgepy**][badgepy] - A Python library for creating GitHub-style badges
 - [**mkdocs**][mkdocs] - Project documentation with Markdown
+- [**mkdocs-material**][mkdocs-material] - Documentation that simply works
 
 ---
 
@@ -81,6 +82,7 @@
 [gitstats]: https://github.com/shenxianpeng/gitstats
 [badgepy]: https://github.com/shenxianpeng/badgepy
 [mkdocs]: https://github.com/mkdocs-ng/mkdocs
+[mkdocs-material]: https://github.com/mkdocs-ng/mkdocs-material
 [castops]: https://github.com/castops
 [atlassian-api-py]: https://github.com/shenxianpeng/atlassian-api-py
 [hadolint-pre-commit]: https://github.com/shenxianpeng/hadolint-pre-commit
