@@ -26,6 +26,7 @@
 - [**jenkinsfilelint**][jenkinsfilelint] – Lint Jenkinsfiles to catch syntax errors early
 - [**hadolint-pre-commit**][hadolint-pre-commit] – Hadolint Dockerfile linter as a pre-commit hook and PyPI package
 - [**pipguard**][pipguard] – Python supply chain security tool. Scan packages before installing them
+- [**repokeeper**][repokeeper] – AI-powered open source maintainer agent. Reads issues, writes code, opens PRs — 24/7
 
 #### 🛠 Maintainer of
 
@@ -90,6 +91,7 @@
 [gnuplot-wheel]: https://github.com/shenxianpeng/gnuplot-wheel
 [jenkinsfilelint]: https://github.com/shenxianpeng/jenkinsfilelint
 [pipguard]: https://github.com/shenxianpeng/pipguard
+[repokeeper]: https://github.com/shenxianpeng/repokeeper
 [jenkinsci]: https://github.com/jenkinsci
 [pypa]: https://github.com/pypa
 [python]: https://github.com/python
