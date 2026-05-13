@@ -51,6 +51,7 @@
 #### ✍️ Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Building an AI Agent Inside Jira: A Jira Copilot Implementation Guide](https://shenxianpeng.github.io/en/posts/2026/jira-ai-agent/)
 - [Counter-intuitive Designs in the pi project — From AGENTS.md to &quot;Just Close Your PR First&quot;](https://shenxianpeng.github.io/en/posts/2026/pi-contributing-philosophy/)
 - [Explain Error Plugin Major Update — AI Auto-Fix, Usage Management, and More AI Providers](https://shenxianpeng.github.io/en/posts/2026/explain-error-plugin-3/)
 - [Writing an Article for Twenty-Four Cents—My Experience Using Pi + DeepSeek as a Codex Backup Solution](https://shenxianpeng.github.io/en/posts/2026/pi-deepseek/)
@@ -60,7 +61,6 @@
 - [How to Claim the &#39;Lottery Ticket&#39; of Open Source—Starting from thanks.dev&#39;s Operational Mechanism](https://shenxianpeng.github.io/en/posts/2026/thanks-dev/)
 - [Thanks to Canonical’s Generous Donation—badgepy Continues as Free and Open Source](https://shenxianpeng.github.io/en/posts/2026/thanks-canonical/)
 - [Job Search—Why the &quot;Nuclear Weapon&quot; Strategy Might Be the Winning Formula for 2026](https://shenxianpeng.github.io/en/posts/2026/find-job/)
-- [GitStats 2.0—New UI and Chart Engine, Revitalizing Your Git Repository History Data](https://shenxianpeng.github.io/en/posts/2026/gitstats-2.0/)
 <!-- BLOG-POST-LIST:END -->
 
 
