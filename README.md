@@ -51,6 +51,7 @@
 #### ✍️ Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [cpp-linter-hooks: The Most Complete pre-commit Solution for C/C++ Projects](https://shenxianpeng.github.io/en/posts/2026/cpp-linter-hooks/)
 - [Conventional Branch Official Skill Is Here—Install with One Command](https://shenxianpeng.github.io/en/posts/2026/conventional-branch-skill/)
 - [mkdocs-ng Maintenance Progress — v1.7.x Fix Summary and Next Steps](https://shenxianpeng.github.io/en/posts/2026/mkdocs-ng-update/)
 - [Building an AI Agent Inside Jira —— A Jira Copilot Implementation Guide](https://shenxianpeng.github.io/en/posts/2026/jira-ai-agent/)
@@ -60,7 +61,6 @@
 - [AI Agent, or Automation?](https://shenxianpeng.github.io/en/posts/2026/ai-agents-vs-automations/)
 - [Python Supply Chain &#39;Nuclear Bomb&#39; Attack Just Happened—A `pip install` Steals All Your Credentials!](https://shenxianpeng.github.io/en/posts/2026/pipguard/)
 - [A Three-Year Community Pain Point—I Put Hadolint on PyPI, Ending Manual Installation](https://shenxianpeng.github.io/en/posts/2026/hadolint-pre-commit/)
-- [How to Claim the &#39;Lottery Ticket&#39; of Open Source—Starting from thanks.dev&#39;s Operational Mechanism](https://shenxianpeng.github.io/en/posts/2026/thanks-dev/)
 <!-- BLOG-POST-LIST:END -->
 
 
