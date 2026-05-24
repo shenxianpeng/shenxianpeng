@@ -46,7 +46,7 @@ Most of my projects are connected by one idea: help teams move from "AI generate
 #### Community and Stewardship
 
 - Member and contributor in the [**Jenkins**][jenkinsci] ecosystem, including [AI-powered Jenkins failure diagnosis][explain-error-plugin].
-- Contributor to [**PyPA**][pypa] and [**Python**][python] with [merged PRs][python-prs].
+- Contributor to [**PyPA**][pypa] ([merged PRs][pypa-prs]) and [**Python**][python] ([merged PRs][python-prs]).
 - Maintainer of [**mkdocs-ng/mkdocs**][mkdocs] and [**mkdocs-ng/mkdocs-material**][mkdocs-material].
 - Maintainer of developer productivity projects such as [**gitstats**][gitstats] and [**badgepy**][badgepy].
 
@@ -104,5 +104,6 @@ Most of my projects are connected by one idea: help teams move from "AI generate
 [jenkinsci]: https://github.com/jenkinsci
 [pypa]: https://github.com/pypa
 [python]: https://github.com/python
-[python-prs]: https://github.com/pulls/search?q=is%3Apr+author%3Ashenxianpeng+archived%3Afalse+is%3Amerged+user%3Apypa+OR+user%3Apython
+[pypa-prs]: https://github.com/pulls/search?q=is%3Apr+author%3Ashenxianpeng+archived%3Afalse+is%3Amerged+user%3Apypa
+[python-prs]: https://github.com/pulls/search?q=is%3Apr+author%3Ashenxianpeng+archived%3Afalse+is%3Amerged+user%3Apython
 [pypistats]: https://shenxianpeng.github.io/en/portfolio/pypistats/
