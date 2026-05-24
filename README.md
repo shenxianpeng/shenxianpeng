@@ -1,4 +1,4 @@
-### Hi, I'm Xianpeng
+### Hi, I'm Xianpeng 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=shenxianpeng)
 [![My PyPI packages](https://img.shields.io/badge/-PyPI-4B8BBE?style=flat&labelColor=306998&logo=pypi&logoColor=FFE873 "My PyPI packages")](https://pypi.org/user/xpshen/)
@@ -10,15 +10,9 @@
 
 ---
 
-I build open-source tools for **DevOps, CI/CD, developer workflows, and software delivery**.
+I build open-source tools for **DevOps, CI/CD, and software delivery** — collected as the **Open Delivery Stack**: standards, quality gates, CI feedback, dependency safety, and maintainer automation. AI is increasingly part of this: explaining failures, reviewing changes, and helping teams ship with evidence.
 
-My projects focus on a practical question: how can teams make software delivery more consistent, explainable, and maintainable?
-
-That work comes together as **Open Delivery Stack**: a pragmatic toolkit for standards, quality gates, CI feedback, dependency safety, engineering signals, failure diagnosis, and maintainer automation.
-
-AI is becoming part of that story, especially for explaining failures, assisting maintainers, reviewing changes, and improving how teams release software with evidence.
-
-#### What I Build
+#### 📦 What I Build
 
 | Area | Problem | Projects |
 | --- | --- | --- |
@@ -30,31 +24,18 @@ AI is becoming part of that story, especially for explaining failures, assisting
 | Automate OSS maintenance | Maintainers need agents that can triage, reason, patch, and keep repositories moving. | [repokeeper][repokeeper], [aion][aion] |
 | Standardize team workflows | Platform work should turn one engineer's operational standards into repeatable team pipelines. | [castops/cast-cli][cast-cli], [atlassian-api-py][atlassian-api-py] |
 
-#### Featured Projects
+#### 🤖 AI & Current Focus
 
-- [**commit-check**][commit-check] and [**conventional-branch**][conventional-branch] make repository metadata enforceable, from local conventions to CI policy and contribution workflows.
-- The [**cpp-linter**][cpp-linter-org] ecosystem brings C/C++ quality checks into GitHub Actions and pre-commit workflows, backed by maintained clang tools packaging across [static binaries][clang-tools-static-binaries], [Docker images][clang-tools-docker], and [Python wheels][clang-tools-wheel].
-- [**pipguard**][pipguard] blocks risky Python package installation paths before supply-chain attacks land.
-- [**gitstats**][gitstats], [**badgepy**][badgepy], and [**devops-maturity**][devops-maturity] convert engineering activity into reports, badges, and maturity signals that teams can act on.
+- [**Explain Error Plugin**][explain-error-plugin] — AI-powered Jenkins failure diagnosis: causes, explanations, and suggested fixes instead of raw logs.
+- [**repokeeper**][repokeeper] / [**aion**][aion] — agent-based maintainer tooling for triaging issues, reasoning about code, and keeping repositories healthy.
+- **Release readiness & delivery evidence** — signals beyond test pass/fail: is this change ready to ship?
+- **AI change governance** — guardrails for AI-authored code so teams can review, trust, and maintain it over time.
 
-#### AI Experiments and Direction
+#### 👥 Community
 
-- [**Explain Error Plugin**][explain-error-plugin] applies AI to a concrete CI/CD pain point: turning Jenkins logs into causes, explanations, and suggested fixes.
-- [**repokeeper**][repokeeper] and [**aion**][aion] explore how agents can help maintainers triage work, reason about code, and keep repositories healthy.
-- My AI work is grounded in delivery workflows, not standalone demos: failure explanation, maintainer assistance, change review, and release evidence.
-
-#### Current Focus
-
-- **Release readiness** - making it easier to know whether a change is ready to ship, not just whether tests passed.
-- **Delivery evidence** - turning repository, CI, dependency, and review signals into evidence teams can use for audits, releases, and retrospectives.
-- **AI-generated change governance** - building guardrails for AI-authored code so teams can review, trust, and maintain it over time.
-
-#### Community and Stewardship
-
-- Member and contributor in the [**Jenkins**][jenkinsci] ecosystem, including [AI-powered Jenkins failure diagnosis][explain-error-plugin].
+- Maintainer and contributor in the [**Jenkins**][jenkinsci] ecosystem, including [AI-powered failure diagnosis][explain-error-plugin].
 - Contributor to [**PyPA**][pypa] ([merged PRs][pypa-prs]) and [**Python**][python] ([merged PRs][python-prs]).
-- Maintainer of [**mkdocs-ng/mkdocs**][mkdocs] and [**mkdocs-ng/mkdocs-material**][mkdocs-material].
-- Maintainer of developer productivity projects such as [**gitstats**][gitstats] and [**badgepy**][badgepy].
+- Maintainer of [**mkdocs-ng/mkdocs**][mkdocs], [**mkdocs-ng/mkdocs-material**][mkdocs-material], [**gitstats**][gitstats], and [**badgepy**][badgepy].
 
 ---
 
@@ -62,7 +43,7 @@ AI is becoming part of that story, especially for explaining failures, assisting
 
 ---
 
-#### Writing
+#### ✍️ Writing
 
 <!-- BLOG-POST-LIST:START -->
 - [cpp-linter-hooks: The Most Complete pre-commit Solution for C/C++ Projects](https://shenxianpeng.github.io/en/posts/2026/cpp-linter-hooks/)
