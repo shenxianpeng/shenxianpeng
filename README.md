@@ -1,54 +1,54 @@
-### Hi 👋, I'm Xianpeng  
+### Hi, I'm Xianpeng
 
-<!--![GitHub Stars](https://img.shields.io/github/stars/shenxianpeng)-->
 ![Profile Views](https://komarev.com/ghpvc/?username=shenxianpeng)
 [![My PyPI packages](https://img.shields.io/badge/-PyPI-4B8BBE?style=flat&labelColor=306998&logo=pypi&logoColor=FFE873 "My PyPI packages")](https://pypi.org/user/xpshen/)
 [![My PyPI packages stats](https://img.shields.io/badge/-PyPI_Stats-4B8BBE?style=flat&labelColor=306998&logo=pypi&logoColor=FFE873 "My PyPI packages stats")][pypistats]
 [![Sponsor me on GitHub](https://img.shields.io/badge/GitHub-Sponsors-EA4AAA?style=flat&logo=githubsponsors "Sponsor me on GitHub")][sponsor]
 [![committers.top badge](https://user-badge.committers.top/lithuania_public/shenxianpeng.svg)](https://user-badge.committers.top/lithuania_public/shenxianpeng)
 
-<!--[💰][sponsor]-->
 [About](https://shenxianpeng.github.io/en/about/) | [Blog][blog] | [RSS][rss] | [Medium][medium] | [Dev.to][dev.to] | [WeChat][qrcode] | [Zhihu][zhihu]
 
 ---
 
-#### 🧩 Creator of
+I build open-source tools for **AI-assisted software delivery**: standards, code quality, CI feedback, supply-chain safety, failure diagnosis, and maintainer automation.
 
-- [**cpp-linter**][cpp-linter] – C/C++ linting solutions using clang-format and clang-tidy
-- [**commit-check**][commit-check] – Ensures consistent commit messages, branch names, and more
-- [**conventional-branch**][conventional-branch] – Git branch naming conventions for cleaner workflows
-- [**devops-maturity**][devops-maturity] – Specs and tools for assessing DevOps maturity
-- [**jenkinsci/explain-error-plugin**][explain-error-plugin] – Explains Jenkins job failures with AI
-- [**castops**][castops] – DevOps tools and automation for cast workflows
-- [**py-eol**][py-eol] – Track Python release & EOL timelines
-- [**atlassian-api-py**][atlassian-api-py] – Python library for Atlassian REST APIs
-- [**gnuplot-wheel**][gnuplot-wheel] – gnuplot Python wheel for easy installation
-- [**jenkinsfilelint**][jenkinsfilelint] – Lint Jenkinsfiles to catch syntax errors early
-- [**hadolint-pre-commit**][hadolint-pre-commit] – Hadolint Dockerfile linter as a pre-commit hook and PyPI package
-- [**pipguard**][pipguard] – Python supply chain security tool. Scan packages before installing them
-- [**repokeeper**][repokeeper] – AI-powered open source maintainer agent. Reads issues, writes code, opens PRs — 24/7
+Most of my projects are connected by one idea: help teams move from "we have many tools" to "we have an engineering system that guides, checks, explains, and improves itself."
 
-#### 🛠 Maintainer of
+#### The Solution Map
 
-- [**gitstats**][gitstats] - Generate insightful visual reports from Git
-- [**badgepy**][badgepy] - A Python library for creating GitHub-style badges
-- [**mkdocs**][mkdocs] - Project documentation with Markdown
-- [**mkdocs-material**][mkdocs-material] - Documentation that simply works
+| Stage | Problem | Projects |
+| --- | --- | --- |
+| Define engineering standards | Teams need consistent branch names, commit metadata, and contribution signals before work enters CI. | [conventional-branch][conventional-branch], [commit-check][commit-check], [commit-check-action][commit-check-action], [commit-check-app][commit-check-app], [commit-check-mcp][commit-check-mcp] |
+| Shift quality left | Developers should catch formatting, static analysis, Dockerfile, and Jenkinsfile issues before review. | [cpp-linter][cpp-linter], [cpp-linter-hooks][cpp-linter-hooks], [cpp-linter-action][cpp-linter-action], [jenkinsfilelint][jenkinsfilelint], [hadolint-pre-commit][hadolint-pre-commit] |
+| Secure and sustain dependencies | Supply-chain and runtime-version risks should be visible before they become production problems. | [pipguard][pipguard], [py-eol][py-eol], [gnuplot-wheel][gnuplot-wheel] |
+| Understand engineering systems | Teams need readable signals about repository health, delivery maturity, and generated quality reports. | [gitstats][gitstats], [badgepy][badgepy], [devops-maturity][devops-maturity] |
+| Diagnose CI/CD failures with AI | Build failures should come with context, likely causes, and next actions instead of raw logs only. | [jenkinsci/explain-error-plugin][explain-error-plugin] |
+| Automate OSS maintenance | Maintainers need agents that can triage, reason, patch, and keep repositories moving. | [repokeeper][repokeeper], [aion][aion], [atop][atop] |
+| Standardize team workflows | Platform work should turn one engineer's operational standards into repeatable team pipelines. | [castops/cast-cli][cast-cli], [castops/cast-slice][cast-slice], [atlassian-api-py][atlassian-api-py] |
 
----
+#### Featured Systems
 
-#### 🌍 Contributor to
+- [**cpp-linter**][cpp-linter] turns clang-format and clang-tidy into reusable developer workflows across CLI, GitHub Actions, pre-commit hooks, containers, and installable clang tools.
+- [**commit-check**][commit-check] and [**conventional-branch**][conventional-branch] make repository metadata enforceable, from local conventions to GitHub Actions, Apps, and MCP integrations.
+- [**Explain Error Plugin**][explain-error-plugin] brings AI failure explanation and auto-fix workflows into Jenkins, with support for multiple AI providers.
+- [**pipguard**][pipguard] blocks risky Python package installation paths before supply-chain attacks land.
+- [**repokeeper**][repokeeper] explores an AI-powered maintainer loop: read issues, reason about code, open pull requests, and keep OSS projects alive.
+- [**gitstats**][gitstats], [**badgepy**][badgepy], and [**devops-maturity**][devops-maturity] convert engineering activity into reports, badges, and maturity signals that teams can act on.
 
-- [**Jenkins**][jenkinsci] (member)
-- [**PyPA**][pypa] & [Python][python] ([merged PRs][python-prs])  
+#### Community and Stewardship
 
----
-
-🀄️ **WeChat:** [**shenxianpeng**][qrcode] – Sharing AI + DevOps practices and real-world insights
+- Member and contributor in the [**Jenkins**][jenkinsci] ecosystem, including [AI-powered Jenkins failure diagnosis][explain-error-plugin].
+- Contributor to [**PyPA**][pypa] and [**Python**][python] with [merged PRs][python-prs].
+- Maintainer of [**mkdocs-ng/mkdocs**][mkdocs] and [**mkdocs-ng/mkdocs-material**][mkdocs-material].
+- Maintainer of developer productivity projects such as [**gitstats**][gitstats] and [**badgepy**][badgepy].
 
 ---
 
-#### ✍️ Blog Posts
+**WeChat:** [**shenxianpeng**][qrcode] - sharing AI + DevOps practices and real-world engineering notes.
+
+---
+
+#### Writing
 
 <!-- BLOG-POST-LIST:START -->
 - [cpp-linter-hooks: The Most Complete pre-commit Solution for C/C++ Projects](https://shenxianpeng.github.io/en/posts/2026/cpp-linter-hooks/)
@@ -70,21 +70,23 @@
 [dev.to]: https://dev.to/shenxianpeng
 [zhihu]: https://www.zhihu.com/people/shenxianpeng
 [qrcode]: https://github.com/shenxianpeng/blog/blob/main/assets/img/qrcode.jpg
-[linkedin]: https://www.linkedin.com/in/xianpeng-shen/
-[gmail]: mailto:xianpeng.shen@gmail.com
-[paypal]: https://www.paypal.me/shenxianpeng
 [sponsor]: https://github.com/sponsors/shenxianpeng
-[ko-fi]: https://ko-fi.com/H2H85WC9L
-[cpp-linter]: https://github.com/cpp-linter
-[commit-check]: https://github.com/commit-check
-[conventional-branch]: https://github.com/conventional-branch
-[devops-maturity]: https://github.com/devops-maturity
+[cpp-linter]: https://github.com/cpp-linter/cpp-linter
+[cpp-linter-action]: https://github.com/cpp-linter/cpp-linter-action
+[cpp-linter-hooks]: https://github.com/cpp-linter/cpp-linter-hooks
+[commit-check]: https://github.com/commit-check/commit-check
+[commit-check-action]: https://github.com/commit-check/commit-check-action
+[commit-check-app]: https://github.com/commit-check/commit-check-app
+[commit-check-mcp]: https://github.com/commit-check/commit-check-mcp
+[conventional-branch]: https://github.com/conventional-branch/conventional-branch
+[devops-maturity]: https://github.com/devops-maturity/devops-maturity
 [explain-error-plugin]: https://github.com/jenkinsci/explain-error-plugin
 [gitstats]: https://github.com/shenxianpeng/gitstats
 [badgepy]: https://github.com/shenxianpeng/badgepy
 [mkdocs]: https://github.com/mkdocs-ng/mkdocs
 [mkdocs-material]: https://github.com/mkdocs-ng/mkdocs-material
-[castops]: https://github.com/castops
+[cast-cli]: https://github.com/castops/cast-cli
+[cast-slice]: https://github.com/castops/cast-slice
 [atlassian-api-py]: https://github.com/shenxianpeng/atlassian-api-py
 [hadolint-pre-commit]: https://github.com/shenxianpeng/hadolint-pre-commit
 [py-eol]: https://github.com/shenxianpeng/py-eol
@@ -92,9 +94,10 @@
 [jenkinsfilelint]: https://github.com/shenxianpeng/jenkinsfilelint
 [pipguard]: https://github.com/shenxianpeng/pipguard
 [repokeeper]: https://github.com/shenxianpeng/repokeeper
+[aion]: https://github.com/shenxianpeng/aion
+[atop]: https://github.com/shenxianpeng/atop
 [jenkinsci]: https://github.com/jenkinsci
 [pypa]: https://github.com/pypa
 [python]: https://github.com/python
 [python-prs]: https://github.com/pulls?q=is%3Apr+author%3Ashenxianpeng+archived%3Afalse+is%3Amerged+user%3Apypa+user%3Apython
 [pypistats]: https://shenxianpeng.github.io/en/portfolio/pypistats/
-[jenkins-pr]: https://github.com/pulls?q=is%3Apr+author%3Ashenxianpeng+archived%3Afalse+is%3Amerged+user%3Ajenkinsci+user%3Ajenkins-infra
