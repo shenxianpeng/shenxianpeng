@@ -10,9 +10,7 @@
 
 ---
 
-AI makes coding faster, but delivery still needs governance.
-
-I build open-source tools for **DevOps, CI/CD, developer workflows, and AI-era software delivery**.
+I build open-source tools for **DevOps, CI/CD, developer workflows, and software delivery**.
 
 My projects focus on a practical question: how can teams make software delivery more consistent, explainable, and maintainable?
 
@@ -20,7 +18,7 @@ That work comes together as **Open Delivery Stack**: a pragmatic toolkit for sta
 
 AI is becoming part of that story, especially for explaining failures, assisting maintainers, reviewing changes, and improving how teams release software with evidence.
 
-#### Software Delivery Toolkit
+#### What I Build
 
 | Area | Problem | Projects |
 | --- | --- | --- |
@@ -32,7 +30,7 @@ AI is becoming part of that story, especially for explaining failures, assisting
 | Automate OSS maintenance | Maintainers need agents that can triage, reason, patch, and keep repositories moving. | [repokeeper][repokeeper], [aion][aion] |
 | Standardize team workflows | Platform work should turn one engineer's operational standards into repeatable team pipelines. | [castops/cast-cli][cast-cli], [atlassian-api-py][atlassian-api-py] |
 
-#### Featured Tooling
+#### Featured Projects
 
 - [**commit-check**][commit-check] and [**conventional-branch**][conventional-branch] make repository metadata enforceable, from local conventions to CI policy and contribution workflows.
 - The [**cpp-linter**][cpp-linter-org] ecosystem brings C/C++ quality checks into GitHub Actions and pre-commit workflows, backed by maintained clang tools packaging across [static binaries][clang-tools-static-binaries], [Docker images][clang-tools-docker], and [Python wheels][clang-tools-wheel].
