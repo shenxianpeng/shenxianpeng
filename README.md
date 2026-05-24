@@ -1,54 +1,49 @@
-### Hi 👋, I'm Xianpeng  
+### Hi, I'm Xianpeng 👋
 
-<!--![GitHub Stars](https://img.shields.io/github/stars/shenxianpeng)-->
 ![Profile Views](https://komarev.com/ghpvc/?username=shenxianpeng)
 [![My PyPI packages](https://img.shields.io/badge/-PyPI-4B8BBE?style=flat&labelColor=306998&logo=pypi&logoColor=FFE873 "My PyPI packages")](https://pypi.org/user/xpshen/)
 [![My PyPI packages stats](https://img.shields.io/badge/-PyPI_Stats-4B8BBE?style=flat&labelColor=306998&logo=pypi&logoColor=FFE873 "My PyPI packages stats")][pypistats]
 [![Sponsor me on GitHub](https://img.shields.io/badge/GitHub-Sponsors-EA4AAA?style=flat&logo=githubsponsors "Sponsor me on GitHub")][sponsor]
 [![committers.top badge](https://user-badge.committers.top/lithuania_public/shenxianpeng.svg)](https://user-badge.committers.top/lithuania_public/shenxianpeng)
 
-<!--[💰][sponsor]-->
 [About](https://shenxianpeng.github.io/en/about/) | [Blog][blog] | [RSS][rss] | [Medium][medium] | [Dev.to][dev.to] | [WeChat][qrcode] | [Zhihu][zhihu]
 
 ---
 
-#### 🧩 Creator of
+I build open-source tools for **DevOps, CI/CD, and software delivery** — collected as the **Open Delivery Stack**: standards, quality gates, CI feedback, dependency safety, and maintainer automation. AI is increasingly part of this: explaining failures, reviewing changes, and helping teams ship with evidence.
 
-- [**cpp-linter**][cpp-linter] – C/C++ linting solutions using clang-format and clang-tidy
-- [**commit-check**][commit-check] – Ensures consistent commit messages, branch names, and more
-- [**conventional-branch**][conventional-branch] – Git branch naming conventions for cleaner workflows
-- [**devops-maturity**][devops-maturity] – Specs and tools for assessing DevOps maturity
-- [**jenkinsci/explain-error-plugin**][explain-error-plugin] – Explains Jenkins job failures with AI
-- [**castops**][castops] – DevOps tools and automation for cast workflows
-- [**py-eol**][py-eol] – Track Python release & EOL timelines
-- [**atlassian-api-py**][atlassian-api-py] – Python library for Atlassian REST APIs
-- [**gnuplot-wheel**][gnuplot-wheel] – gnuplot Python wheel for easy installation
-- [**jenkinsfilelint**][jenkinsfilelint] – Lint Jenkinsfiles to catch syntax errors early
-- [**hadolint-pre-commit**][hadolint-pre-commit] – Hadolint Dockerfile linter as a pre-commit hook and PyPI package
-- [**pipguard**][pipguard] – Python supply chain security tool. Scan packages before installing them
-- [**repokeeper**][repokeeper] – AI-powered open source maintainer agent. Reads issues, writes code, opens PRs — 24/7
+#### 📦 What I Build
 
-#### 🛠 Maintainer of
+| Area | Problem | Projects |
+| --- | --- | --- |
+| Define engineering standards | Teams need consistent branch names, commit metadata, and contribution signals before work enters CI. | [conventional-branch][conventional-branch], [commit-check][commit-check] |
+| Shift quality left | Developers should catch C/C++, Jenkinsfile, and Dockerfile issues before review. | [cpp-linter-action][cpp-linter-action], [cpp-linter-hooks][cpp-linter-hooks], [jenkinsfilelint][jenkinsfilelint], [hadolint-pre-commit][hadolint-pre-commit] |
+| Secure and sustain dependencies | Supply-chain and runtime-version risks should be visible before they become production problems. | [pipguard][pipguard], [py-eol][py-eol] |
+| Understand engineering systems | Teams need readable signals about repository health, delivery maturity, and generated quality reports. | [gitstats][gitstats], [devops-maturity][devops-maturity] |
+| Diagnose CI/CD failures with AI | Build failures should come with context, likely causes, and next actions instead of raw logs only. | [jenkinsci/explain-error-plugin][explain-error-plugin] |
+| Automate OSS maintenance | Maintainers need agents that can triage, reason, patch, and keep repositories moving. | [repokeeper][repokeeper], [aion][aion] |
+| Standardize team workflows | Platform work should turn one engineer's operational standards into repeatable team pipelines. | [castops/cast-cli][cast-cli], [atlassian-api-py][atlassian-api-py] |
 
-- [**gitstats**][gitstats] - Generate insightful visual reports from Git
-- [**badgepy**][badgepy] - A Python library for creating GitHub-style badges
-- [**mkdocs**][mkdocs] - Project documentation with Markdown
-- [**mkdocs-material**][mkdocs-material] - Documentation that simply works
+#### 🤖 AI & Current Focus
 
----
+- [**Explain Error Plugin**][explain-error-plugin] — AI-powered Jenkins failure diagnosis: causes, explanations, and suggested fixes instead of raw logs.
+- [**repokeeper**][repokeeper] / [**aion**][aion] — agent-based maintainer tooling for triaging issues, reasoning about code, and keeping repositories healthy.
+- **Release readiness & delivery evidence** — signals beyond test pass/fail: is this change ready to ship?
+- **AI change governance** — guardrails for AI-authored code so teams can review, trust, and maintain it over time.
 
-#### 🌍 Contributor to
+#### 👥 Community
 
-- [**Jenkins**][jenkinsci] (member)
-- [**PyPA**][pypa] & [Python][python] ([merged PRs][python-prs])  
+- Maintainer and contributor in the [**Jenkins**][jenkinsci] ecosystem, including [AI-powered failure diagnosis][explain-error-plugin].
+- Contributor to [**PyPA**][pypa] ([merged PRs][pypa-prs]) and [**Python**][python] ([merged PRs][python-prs]).
+- Maintainer of [**mkdocs-ng/mkdocs**][mkdocs], [**mkdocs-ng/mkdocs-material**][mkdocs-material], [**gitstats**][gitstats], and [**badgepy**][badgepy].
 
 ---
 
-🀄️ **WeChat:** [**shenxianpeng**][qrcode] – Sharing AI + DevOps practices and real-world insights
+**WeChat:** [**shenxianpeng**][qrcode] - sharing AI + DevOps practices and real-world engineering notes.
 
 ---
 
-#### ✍️ Blog Posts
+#### ✍️ Writing
 
 <!-- BLOG-POST-LIST:START -->
 - [cpp-linter-hooks: The Most Complete pre-commit Solution for C/C++ Projects](https://shenxianpeng.github.io/en/posts/2026/cpp-linter-hooks/)
@@ -70,31 +65,32 @@
 [dev.to]: https://dev.to/shenxianpeng
 [zhihu]: https://www.zhihu.com/people/shenxianpeng
 [qrcode]: https://github.com/shenxianpeng/blog/blob/main/assets/img/qrcode.jpg
-[linkedin]: https://www.linkedin.com/in/xianpeng-shen/
-[gmail]: mailto:xianpeng.shen@gmail.com
-[paypal]: https://www.paypal.me/shenxianpeng
 [sponsor]: https://github.com/sponsors/shenxianpeng
-[ko-fi]: https://ko-fi.com/H2H85WC9L
-[cpp-linter]: https://github.com/cpp-linter
-[commit-check]: https://github.com/commit-check
-[conventional-branch]: https://github.com/conventional-branch
-[devops-maturity]: https://github.com/devops-maturity
+[cpp-linter-org]: https://github.com/cpp-linter
+[cpp-linter-action]: https://github.com/cpp-linter/cpp-linter-action
+[cpp-linter-hooks]: https://github.com/cpp-linter/cpp-linter-hooks
+[clang-tools-static-binaries]: https://github.com/cpp-linter/clang-tools-static-binaries
+[clang-tools-docker]: https://github.com/cpp-linter/clang-tools-docker
+[clang-tools-wheel]: https://github.com/cpp-linter/clang-tools-wheel
+[commit-check]: https://github.com/commit-check/commit-check
+[conventional-branch]: https://github.com/conventional-branch/conventional-branch
+[devops-maturity]: https://github.com/devops-maturity/devops-maturity
 [explain-error-plugin]: https://github.com/jenkinsci/explain-error-plugin
 [gitstats]: https://github.com/shenxianpeng/gitstats
 [badgepy]: https://github.com/shenxianpeng/badgepy
 [mkdocs]: https://github.com/mkdocs-ng/mkdocs
 [mkdocs-material]: https://github.com/mkdocs-ng/mkdocs-material
-[castops]: https://github.com/castops
+[cast-cli]: https://github.com/castops/cast-cli
 [atlassian-api-py]: https://github.com/shenxianpeng/atlassian-api-py
 [hadolint-pre-commit]: https://github.com/shenxianpeng/hadolint-pre-commit
 [py-eol]: https://github.com/shenxianpeng/py-eol
-[gnuplot-wheel]: https://github.com/shenxianpeng/gnuplot-wheel
 [jenkinsfilelint]: https://github.com/shenxianpeng/jenkinsfilelint
 [pipguard]: https://github.com/shenxianpeng/pipguard
 [repokeeper]: https://github.com/shenxianpeng/repokeeper
+[aion]: https://github.com/shenxianpeng/aion
 [jenkinsci]: https://github.com/jenkinsci
 [pypa]: https://github.com/pypa
 [python]: https://github.com/python
-[python-prs]: https://github.com/pulls?q=is%3Apr+author%3Ashenxianpeng+archived%3Afalse+is%3Amerged+user%3Apypa+user%3Apython
+[pypa-prs]: https://github.com/pulls/search?q=is%3Apr+author%3Ashenxianpeng+archived%3Afalse+is%3Amerged+user%3Apypa
+[python-prs]: https://github.com/pulls/search?q=is%3Apr+author%3Ashenxianpeng+archived%3Afalse+is%3Amerged+user%3Apython
 [pypistats]: https://shenxianpeng.github.io/en/portfolio/pypistats/
-[jenkins-pr]: https://github.com/pulls?q=is%3Apr+author%3Ashenxianpeng+archived%3Afalse+is%3Amerged+user%3Ajenkinsci+user%3Ajenkins-infra
