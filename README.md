@@ -16,10 +16,10 @@ I build open-source tools for **DevOps, CI/CD, and software delivery** — colle
 
 | Area | Problem | Projects |
 | --- | --- | --- |
-| Define engineering standards | Teams need consistent branch names, commit metadata, and contribution signals before work enters CI. | [conventional-branch][conventional-branch], [commit-check][commit-check] |
-| Shift quality left | Developers should catch C/C++, Jenkinsfile, and Dockerfile issues before review. | [cpp-linter-action][cpp-linter-action], [cpp-linter-hooks][cpp-linter-hooks], [jenkinsfilelint][jenkinsfilelint], [hadolint-pre-commit][hadolint-pre-commit] |
+| Define engineering standards | Teams need consistent branch names, commit metadata, and contribution signals before work enters CI. | [conventional-branch/conventional-branch][conventional-branch], [commit-check/commit-check][commit-check] |
+| Shift quality left | Developers should catch C/C++, Jenkinsfile, and Dockerfile issues before review. | [cpp-linter/cpp-linter-action][cpp-linter-action], [cpp-linter/cpp-linter-hooks][cpp-linter-hooks], [jenkinsfilelint][jenkinsfilelint], [hadolint-pre-commit][hadolint-pre-commit] |
 | Secure and sustain dependencies | Supply-chain and runtime-version risks should be visible before they become production problems. | [pipguard][pipguard], [py-eol][py-eol] |
-| Understand engineering systems | Teams need readable signals about repository health, delivery maturity, and generated quality reports. | [gitstats][gitstats], [devops-maturity][devops-maturity] |
+| Understand engineering systems | Teams need readable signals about repository health, delivery maturity, and generated quality reports. | [gitstats][gitstats], [devops-maturity/devops-maturity][devops-maturity] |
 | Diagnose CI/CD failures with AI | Build failures should come with context, likely causes, and next actions instead of raw logs only. | [jenkinsci/explain-error-plugin][explain-error-plugin] |
 | Automate OSS maintenance | Maintainers need agents that can triage, reason, patch, and keep repositories moving. | [repokeeper][repokeeper], [aion][aion] |
 | Standardize team workflows | Platform work should turn one engineer's operational standards into repeatable team pipelines. | [castops/cast-cli][cast-cli], [atlassian-api-py][atlassian-api-py] |
