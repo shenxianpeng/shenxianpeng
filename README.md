@@ -21,7 +21,7 @@ Most of my projects are connected by one idea: help teams move from "AI generate
 | Stage | Problem | Projects |
 | --- | --- | --- |
 | Define engineering standards | Teams need consistent branch names, commit metadata, and contribution signals before work enters CI. | [conventional-branch][conventional-branch], [commit-check][commit-check] |
-| Shift quality left | Developers should catch Jenkinsfile and Dockerfile issues before review. | [jenkinsfilelint][jenkinsfilelint], [hadolint-pre-commit][hadolint-pre-commit] |
+| Shift quality left | Developers should catch C/C++, Jenkinsfile, and Dockerfile issues before review. | [cpp-linter-action][cpp-linter-action], [cpp-linter-hooks][cpp-linter-hooks], [jenkinsfilelint][jenkinsfilelint], [hadolint-pre-commit][hadolint-pre-commit] |
 | Secure and sustain dependencies | Supply-chain and runtime-version risks should be visible before they become production problems. | [pipguard][pipguard], [py-eol][py-eol] |
 | Understand engineering systems | Teams need readable signals about repository health, delivery maturity, and generated quality reports. | [gitstats][gitstats], [devops-maturity][devops-maturity] |
 | Diagnose CI/CD failures with AI | Build failures should come with context, likely causes, and next actions instead of raw logs only. | [jenkinsci/explain-error-plugin][explain-error-plugin] |
@@ -31,6 +31,7 @@ Most of my projects are connected by one idea: help teams move from "AI generate
 #### Featured Systems
 
 - [**commit-check**][commit-check] and [**conventional-branch**][conventional-branch] make repository metadata enforceable, from local conventions to CI policy and AI-aware contribution workflows.
+- The [**cpp-linter**][cpp-linter-org] ecosystem brings C/C++ quality checks into GitHub Actions and pre-commit workflows, backed by maintained clang tools packaging across [static binaries][clang-tools-static-binaries], [Docker images][clang-tools-docker], and [Python wheels][clang-tools-wheel].
 - [**Explain Error Plugin**][explain-error-plugin] brings AI failure explanation and auto-fix workflows into Jenkins, with support for multiple AI providers.
 - [**pipguard**][pipguard] blocks risky Python package installation paths before supply-chain attacks land.
 - [**repokeeper**][repokeeper] explores an AI-powered maintainer loop: read issues, reason about code, open pull requests, and keep OSS projects alive.
@@ -58,6 +59,7 @@ Most of my projects are connected by one idea: help teams move from "AI generate
 #### Writing
 
 <!-- BLOG-POST-LIST:START -->
+- [cpp-linter-hooks: The Most Complete pre-commit Solution for C/C++ Projects](https://shenxianpeng.github.io/en/posts/2026/cpp-linter-hooks/)
 - [Conventional Branch Official Skill Is Here—Install with One Command](https://shenxianpeng.github.io/en/posts/2026/conventional-branch-skill/)
 - [mkdocs-ng Maintenance Progress — v1.7.x Fix Summary and Next Steps](https://shenxianpeng.github.io/en/posts/2026/mkdocs-ng-update/)
 - [Building an AI Agent Inside Jira —— A Jira Copilot Implementation Guide](https://shenxianpeng.github.io/en/posts/2026/jira-ai-agent/)
@@ -77,6 +79,12 @@ Most of my projects are connected by one idea: help teams move from "AI generate
 [zhihu]: https://www.zhihu.com/people/shenxianpeng
 [qrcode]: https://github.com/shenxianpeng/blog/blob/main/assets/img/qrcode.jpg
 [sponsor]: https://github.com/sponsors/shenxianpeng
+[cpp-linter-org]: https://github.com/cpp-linter
+[cpp-linter-action]: https://github.com/cpp-linter/cpp-linter-action
+[cpp-linter-hooks]: https://github.com/cpp-linter/cpp-linter-hooks
+[clang-tools-static-binaries]: https://github.com/cpp-linter/clang-tools-static-binaries
+[clang-tools-docker]: https://github.com/cpp-linter/clang-tools-docker
+[clang-tools-wheel]: https://github.com/cpp-linter/clang-tools-wheel
 [commit-check]: https://github.com/commit-check/commit-check
 [conventional-branch]: https://github.com/conventional-branch/conventional-branch
 [devops-maturity]: https://github.com/devops-maturity/devops-maturity
