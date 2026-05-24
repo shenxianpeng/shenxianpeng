@@ -96,5 +96,5 @@ Most of my projects are connected by one idea: help teams move from "AI generate
 [jenkinsci]: https://github.com/jenkinsci
 [pypa]: https://github.com/pypa
 [python]: https://github.com/python
-[python-prs]: https://github.com/pulls?q=is%3Apr+author%3Ashenxianpeng+archived%3Afalse+is%3Amerged+user%3Apypa+user%3Apython
+[python-prs]: https://github.com/pulls/search?q=is%3Apr+author%3Ashenxianpeng+archived%3Afalse+is%3Amerged+user%3Apypa+OR+user%3Apython
 [pypistats]: https://shenxianpeng.github.io/en/portfolio/pypistats/
