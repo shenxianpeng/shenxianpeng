@@ -12,13 +12,17 @@
 
 AI makes coding faster, but delivery still needs governance.
 
-I build **Open Delivery Stack**, an open-source toolkit for **AI-era software delivery**: standards, release readiness, delivery evidence, CI feedback, supply-chain safety, failure diagnosis, and maintainer automation.
+I build open-source tools for **DevOps, CI/CD, developer workflows, and AI-era software delivery**.
 
-Most of my projects are connected by one idea: help teams move from "AI generated code" to "software that is reviewed, governed, released, and improved with evidence."
+My projects focus on a practical question: how can teams make software delivery more consistent, explainable, and maintainable?
 
-#### The Solution Map
+That work comes together as **Open Delivery Stack**: a pragmatic toolkit for standards, quality gates, CI feedback, dependency safety, engineering signals, failure diagnosis, and maintainer automation.
 
-| Stage | Problem | Projects |
+AI is becoming part of that story, especially for explaining failures, assisting maintainers, reviewing changes, and improving how teams release software with evidence.
+
+#### Software Delivery Toolkit
+
+| Area | Problem | Projects |
 | --- | --- | --- |
 | Define engineering standards | Teams need consistent branch names, commit metadata, and contribution signals before work enters CI. | [conventional-branch][conventional-branch], [commit-check][commit-check] |
 | Shift quality left | Developers should catch C/C++, Jenkinsfile, and Dockerfile issues before review. | [cpp-linter-action][cpp-linter-action], [cpp-linter-hooks][cpp-linter-hooks], [jenkinsfilelint][jenkinsfilelint], [hadolint-pre-commit][hadolint-pre-commit] |
@@ -28,14 +32,18 @@ Most of my projects are connected by one idea: help teams move from "AI generate
 | Automate OSS maintenance | Maintainers need agents that can triage, reason, patch, and keep repositories moving. | [repokeeper][repokeeper], [aion][aion] |
 | Standardize team workflows | Platform work should turn one engineer's operational standards into repeatable team pipelines. | [castops/cast-cli][cast-cli], [atlassian-api-py][atlassian-api-py] |
 
-#### Featured Systems
+#### Featured Tooling
 
-- [**commit-check**][commit-check] and [**conventional-branch**][conventional-branch] make repository metadata enforceable, from local conventions to CI policy and AI-aware contribution workflows.
+- [**commit-check**][commit-check] and [**conventional-branch**][conventional-branch] make repository metadata enforceable, from local conventions to CI policy and contribution workflows.
 - The [**cpp-linter**][cpp-linter-org] ecosystem brings C/C++ quality checks into GitHub Actions and pre-commit workflows, backed by maintained clang tools packaging across [static binaries][clang-tools-static-binaries], [Docker images][clang-tools-docker], and [Python wheels][clang-tools-wheel].
-- [**Explain Error Plugin**][explain-error-plugin] brings AI failure explanation and auto-fix workflows into Jenkins, with support for multiple AI providers.
 - [**pipguard**][pipguard] blocks risky Python package installation paths before supply-chain attacks land.
-- [**repokeeper**][repokeeper] explores an AI-powered maintainer loop: read issues, reason about code, open pull requests, and keep OSS projects alive.
 - [**gitstats**][gitstats], [**badgepy**][badgepy], and [**devops-maturity**][devops-maturity] convert engineering activity into reports, badges, and maturity signals that teams can act on.
+
+#### AI Experiments and Direction
+
+- [**Explain Error Plugin**][explain-error-plugin] applies AI to a concrete CI/CD pain point: turning Jenkins logs into causes, explanations, and suggested fixes.
+- [**repokeeper**][repokeeper] and [**aion**][aion] explore how agents can help maintainers triage work, reason about code, and keep repositories healthy.
+- My AI work is grounded in delivery workflows, not standalone demos: failure explanation, maintainer assistance, change review, and release evidence.
 
 #### Current Focus
 
