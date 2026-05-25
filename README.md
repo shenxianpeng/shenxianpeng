@@ -22,14 +22,14 @@ I build open-source tools for **DevOps, CI/CD, and software delivery** — colle
 | Understand engineering systems | Teams need readable signals about repository health, delivery maturity, and generated quality reports. | [gitstats][gitstats], [devops-maturity/devops-maturity][devops-maturity] |
 | Diagnose CI/CD failures with AI | Build failures should come with context, likely causes, and next actions instead of raw logs only. | [jenkinsci/explain-error-plugin][explain-error-plugin] |
 | Automate OSS maintenance | Maintainers need agents that can triage, reason, patch, and keep repositories moving. | [repokeeper][repokeeper], [aion][aion] |
-| Standardize team workflows | Platform work should turn one engineer's operational standards into repeatable team pipelines. | [castops/cast-cli][cast-cli], [atlassian-api-py][atlassian-api-py] |
+| Standardize team workflows (maintenance) | Platform work should turn one engineer's operational standards into repeatable team pipelines; now in maintenance mode as focus shifts to ODS. | [castops/cast-cli][cast-cli], [atlassian-api-py][atlassian-api-py] |
+| Govern delivery with machine evidence | AI writes code faster than governance can track; teams need machine-readable evidence at every stage. | [open-delivery-spec/spec][ods-spec], [open-delivery-spec/cli][ods-cli], [open-delivery-spec/validate-action][ods-validate-action] |
 
 #### 🤖 AI & Current Focus
 
+- [**Open Delivery Spec (ODS)**][ods] — machine-readable delivery governance: spec, CLI, and CI validation so every commit-to-deploy stage leaves auditable evidence.
 - [**Explain Error Plugin**][explain-error-plugin] — AI-powered Jenkins failure diagnosis: causes, explanations, and suggested fixes instead of raw logs.
 - [**repokeeper**][repokeeper] / [**aion**][aion] — agent-based maintainer tooling for triaging issues, reasoning about code, and keeping repositories healthy.
-- **Release readiness & delivery evidence** — signals beyond test pass/fail: is this change ready to ship?
-- **AI change governance** — guardrails for AI-authored code so teams can review, trust, and maintain it over time.
 
 #### 👥 Community
 
@@ -94,3 +94,7 @@ I build open-source tools for **DevOps, CI/CD, and software delivery** — colle
 [pypa-prs]: https://github.com/pulls/search?q=is%3Apr+author%3Ashenxianpeng+archived%3Afalse+is%3Amerged+user%3Apypa
 [python-prs]: https://github.com/pulls/search?q=is%3Apr+author%3Ashenxianpeng+archived%3Afalse+is%3Amerged+user%3Apython
 [pypistats]: https://shenxianpeng.github.io/en/portfolio/pypistats/
+[ods]: https://github.com/open-delivery-spec
+[ods-spec]: https://github.com/open-delivery-spec/spec
+[ods-cli]: https://github.com/open-delivery-spec/cli
+[ods-validate-action]: https://github.com/open-delivery-spec/validate-action
