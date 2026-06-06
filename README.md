@@ -17,7 +17,7 @@ I build open-source tools for **DevOps, CI/CD, and software delivery** — colle
 | Area | Problem | Projects |
 | --- | --- | --- |
 | Define engineering standards | Teams need consistent branch names, commit metadata, and contribution signals before work enters CI. | [conventional-branch/conventional-branch][conventional-branch], [commit-check/commit-check][commit-check] |
-| Shift quality left | Developers should catch C/C++, Jenkinsfile, and Dockerfile issues before review. | [cpp-linter/cpp-linter-action][cpp-linter-action], [cpp-linter/cpp-linter-hooks][cpp-linter-hooks], [jenkinsfilelint][jenkinsfilelint], [hadolint-pre-commit][hadolint-pre-commit] |
+| Shift quality left | Developers should catch C/C++, Jenkinsfile, and Dockerfile issues before review. | [cpp-linter/cpp-linter-action][cpp-linter-action], [cpp-linter/cpp-linter-hooks][cpp-linter-hooks], [jenkinsci/jenkinsfilelint][jenkinsci/jenkinsfilelint], [hadolint-pre-commit][hadolint-pre-commit] |
 | Secure and sustain dependencies | Supply-chain and runtime-version risks should be visible before they become production problems. | [pipguard][pipguard], [py-eol][py-eol] |
 | Understand engineering systems | Teams need readable signals about repository health, delivery maturity, and generated quality reports. | [gitstats][gitstats], [devops-maturity/devops-maturity][devops-maturity] |
 | Diagnose CI/CD failures with AI | Build failures should come with context, likely causes, and next actions instead of raw logs only. | [jenkinsci/explain-error-plugin][explain-error-plugin] |
@@ -86,7 +86,7 @@ I build open-source tools for **DevOps, CI/CD, and software delivery** — colle
 [atlassian-api-py]: https://github.com/shenxianpeng/atlassian-api-py
 [hadolint-pre-commit]: https://github.com/shenxianpeng/hadolint-pre-commit
 [py-eol]: https://github.com/shenxianpeng/py-eol
-[jenkinsfilelint]: https://github.com/shenxianpeng/jenkinsfilelint
+[jenkinsci/jenkinsfilelint]: https://github.com/jenkinsci/jenkinsfilelint
 [pipguard]: https://github.com/shenxianpeng/pipguard
 [repokeeper]: https://github.com/shenxianpeng/repokeeper
 [aion]: https://github.com/shenxianpeng/aion
