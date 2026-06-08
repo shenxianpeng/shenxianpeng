@@ -48,6 +48,7 @@ I build open-source tools for **DevOps, CI/CD, and software delivery** — colle
 #### ✍️ Writing
 
 <!-- BLOG-POST-LIST:START -->
+- [From Demo to Production—8-Layer Architecture for Agentic Applications](https://shenxianpeng.github.io/en/posts/2026/agentic-application-8-layers/)
 - [Conventional Branch Now Has Its Own Domain—conventionalbranch.org](https://shenxianpeng.github.io/en/posts/2026/conventional-branch-domain/)
 - [cpp-linter-hooks: The Most Complete pre-commit Solution for C/C++ Projects](https://shenxianpeng.github.io/en/posts/2026/cpp-linter-hooks/)
 - [Conventional Branch Official Skill Is Here—Install with One Command](https://shenxianpeng.github.io/en/posts/2026/conventional-branch-skill/)
@@ -57,7 +58,6 @@ I build open-source tools for **DevOps, CI/CD, and software delivery** — colle
 - [Explain Error Plugin Major Update — AI Auto-Fix, Usage Management, and More AI Providers](https://shenxianpeng.github.io/en/posts/2026/explain-error-plugin-3/)
 - [Writing an Article for Twenty-Four Cents—My Experience Using Pi + DeepSeek as a Codex Backup Solution](https://shenxianpeng.github.io/en/posts/2026/pi-deepseek/)
 - [AI Agent, or Automation?](https://shenxianpeng.github.io/en/posts/2026/ai-agents-vs-automations/)
-- [Python Supply Chain &#39;Nuclear Bomb&#39; Attack Just Happened—A `pip install` Steals All Your Credentials!](https://shenxianpeng.github.io/en/posts/2026/pipguard/)
 <!-- BLOG-POST-LIST:END -->
 
 
