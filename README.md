@@ -35,7 +35,7 @@ I build open-source tools for **DevOps, CI/CD, and software delivery** — colle
 
 #### 👥 Community
 
-- Maintainer and contributor in the [**Jenkins**][jenkinsci] ecosystem, including [AI-powered failure diagnosis][explain-error-plugin].
+- Maintainer and contributor in the [**Jenkins**][jenkinsci] ecosystem, including [jenkinsci/explain-error-plugin][explain-error-plugin] and [jenkinsci/jenkinsfilelint][jenkinsfilelint].
 - Contributor to [**PyPA**][pypa] ([merged PRs][pypa-prs]) and [**Python**][python] ([merged PRs][python-prs]).
 - Maintainer of [**mkdocs-ng/mkdocs**][mkdocs], [**mkdocs-ng/mkdocs-material**][mkdocs-material], [**gitstats**][gitstats], and [**badgepy**][badgepy].
 
@@ -78,6 +78,7 @@ I build open-source tools for **DevOps, CI/CD, and software delivery** — colle
 [conventional-branch]: https://github.com/conventional-branch/conventional-branch
 [devops-maturity]: https://github.com/devops-maturity/devops-maturity
 [explain-error-plugin]: https://github.com/jenkinsci/explain-error-plugin
+[jenkinsfilelint]: https://github.com/jenkinsci/jenkinsfilelint
 [gitstats]: https://github.com/shenxianpeng/gitstats
 [badgepy]: https://github.com/shenxianpeng/badgepy
 [mkdocs]: https://github.com/mkdocs-ng/mkdocs
