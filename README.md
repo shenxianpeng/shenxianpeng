@@ -21,17 +21,15 @@ I build open-source tools for **DevOps, CI/CD, and software delivery** — colle
 | Secure and sustain dependencies | Supply-chain and runtime-version risks should be visible before they become production problems. | [pipguard][pipguard], [py-eol][py-eol] |
 | Understand engineering systems | Teams need readable signals about repository health, delivery maturity, and generated quality reports. | [gitstats][gitstats], [devops-maturity/devops-maturity][devops-maturity] |
 | Diagnose CI/CD failures with AI | Build failures should come with context, likely causes, and next actions instead of raw logs only. | [jenkinsci/explain-error-plugin][explain-error-plugin] |
-| Automate OSS maintenance | Maintainers need agents that can triage, reason, patch, and keep repositories moving. | [repokeeper][repokeeper], [aion][aion] |
 | Standardize team workflows | Platform work should turn one engineer's operational standards into repeatable team pipelines; cast-cli is now in maintenance mode as focus shifts to ODS. | [castops/cast-cli][cast-cli], [atlassian-api-py][atlassian-api-py] |
-| Govern delivery with machine evidence | AI writes code faster than governance can track; teams need machine-readable evidence at every stage. | [open-delivery-spec/spec][ods-spec], [open-delivery-spec/cli][ods-cli], [open-delivery-spec/validate-action][ods-validate-action] |
+| Govern delivery with machine evidence 🚧 | AI writes code faster than governance can track; teams need machine-readable evidence at every stage. | [open-delivery-spec/spec][ods-spec], [open-delivery-spec/cli][ods-cli], [open-delivery-spec/validate-action][ods-validate-action] |
 
 #### 🤖 AI & Current Focus
 
-- [**Open Delivery Spec (ODS)**][ods] — machine-readable delivery governance: spec, CLI, and CI validation so every commit-to-deploy stage leaves auditable evidence.
+- 🚧 [**Open Delivery Spec (ODS)**][ods] — machine-readable delivery governance: spec, CLI, and CI validation — every commit-to-deploy stage leaves auditable evidence. (actively building)
 - [**commit-check**][commit-check] — configurable Git commit and branch name validation for teams and CI pipelines.
 - [**cpp-linter**][cpp-linter-action] — C/C++ linting, formatting, and static analysis feedback directly in PRs and pre-commit.
 - [**Explain Error Plugin**][explain-error-plugin] — AI-powered Jenkins failure diagnosis: causes, explanations, and suggested fixes instead of raw logs.
-- [**repokeeper**][repokeeper] — agent-based maintainer tooling for triaging issues, reasoning about code, and keeping repositories healthy.
 
 #### 👥 Community
 
