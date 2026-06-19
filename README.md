@@ -10,19 +10,16 @@
 
 ---
 
-I build open-source tools for **DevOps, CI/CD, and software delivery** — collected as the **Open Delivery Stack**: standards, quality gates, CI feedback, dependency safety, and maintainer automation. AI is increasingly part of this: explaining failures, reviewing changes, and helping teams ship with evidence.
+I build open-source tools for **DevOps, CI/CD, and software delivery** — collected under the **Open Delivery Stack (ODS)** vision: machine-readable governance standards, quality gates, CI intelligence, dependency safety, and engineering insights. AI is increasingly part of this — explaining failures, reviewing changes, and helping teams ship with evidence.
 
 #### 📦 What I Build
 
 | Area | Problem | Projects |
 | --- | --- | --- |
-| Define engineering standards | Teams need consistent branch names, commit metadata, and contribution signals before work enters CI. | [conventional-branch/conventional-branch][conventional-branch], [commit-check/commit-check][commit-check] |
-| Shift quality left | Developers should catch C/C++, Jenkinsfile, and Dockerfile issues before review. | [cpp-linter/cpp-linter-action][cpp-linter-action], [cpp-linter/cpp-linter-hooks][cpp-linter-hooks], [jenkinsci/jenkinsfilelint][jenkinsci/jenkinsfilelint], [hadolint-pre-commit][hadolint-pre-commit] |
-| Secure and sustain dependencies | Supply-chain and runtime-version risks should be visible before they become production problems. | [pipguard][pipguard], [py-eol][py-eol] |
-| Understand engineering systems | Teams need readable signals about repository health, delivery maturity, and generated quality reports. | [gitstats][gitstats], [devops-maturity/devops-maturity][devops-maturity] |
-| Diagnose CI/CD failures with AI | Build failures should come with context, likely causes, and next actions instead of raw logs only. | [jenkinsci/explain-error-plugin][explain-error-plugin] |
-| Standardize team workflows | Platform work should turn one engineer's operational standards into repeatable team pipelines; cast-cli is now in maintenance mode as focus shifts to ODS. | [castops/cast-cli][cast-cli], [atlassian-api-py][atlassian-api-py] |
-| Govern delivery with machine evidence 🚧 | AI writes code faster than governance can track; teams need machine-readable evidence at every stage. | [open-delivery-spec/spec][ods-spec], [open-delivery-spec/cli][ods-cli], [open-delivery-spec/validate-action][ods-validate-action] |
+| Govern delivery with evidence 🚧 | AI writes code faster than governance can track; teams need machine-readable evidence at every stage. | [open-delivery-spec/spec][ods-spec], [open-delivery-spec/cli][ods-cli], [open-delivery-spec/validate-action][ods-validate-action] |
+| Code quality & standards | Catch C/C++, Jenkinsfile, and Dockerfile issues early; enforce naming and commit conventions. | [cpp-linter/cpp-linter-action][cpp-linter-action], [cpp-linter/cpp-linter-hooks][cpp-linter-hooks], [conventional-branch/conventional-branch][conventional-branch], [commit-check/commit-check][commit-check], [jenkinsci/jenkinsfilelint][jenkinsci/jenkinsfilelint], [hadolint-pre-commit][hadolint-pre-commit] |
+| CI/CD intelligence | AI-powered failure diagnosis, dependency security, and Python version lifecycle awareness. | [jenkinsci/explain-error-plugin][explain-error-plugin], [pipguard][pipguard], [py-eol][py-eol] |
+| Workflows & insights | Platform tooling, API integrations, and maturity metrics for engineering teams. | [castops/cast-cli][cast-cli], [atlassian-api-py][atlassian-api-py], [gitstats][gitstats], [devops-maturity/devops-maturity][devops-maturity] |
 
 #### 🤖 AI & Current Focus
 
@@ -87,7 +84,6 @@ I build open-source tools for **DevOps, CI/CD, and software delivery** — colle
 [jenkinsci/jenkinsfilelint]: https://github.com/jenkinsci/jenkinsfilelint
 [pipguard]: https://github.com/shenxianpeng/pipguard
 [repokeeper]: https://github.com/shenxianpeng/repokeeper
-[aion]: https://github.com/shenxianpeng/aion
 [jenkinsci]: https://github.com/jenkinsci
 [pypa]: https://github.com/pypa
 [python]: https://github.com/python
