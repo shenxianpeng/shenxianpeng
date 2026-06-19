@@ -16,10 +16,10 @@ I build open-source tools for **DevOps, CI/CD, and software delivery** — colle
 
 | Area | Problem | Projects |
 | --- | --- | --- |
-| Govern delivery with evidence 🚧 | AI writes code faster than governance can track; teams need machine-readable evidence at every stage. | [open-delivery-spec/spec][ods-spec], [open-delivery-spec/cli][ods-cli], [open-delivery-spec/validate-action][ods-validate-action] |
-| Code quality & standards | Catch C/C++, Jenkinsfile, and Dockerfile issues early; enforce naming and commit conventions. | [cpp-linter/cpp-linter-action][cpp-linter-action], [cpp-linter/cpp-linter-hooks][cpp-linter-hooks], [conventional-branch/conventional-branch][conventional-branch], [commit-check/commit-check][commit-check], [jenkinsci/jenkinsfilelint][jenkinsci/jenkinsfilelint], [hadolint-pre-commit][hadolint-pre-commit] |
-| CI/CD intelligence | AI-powered failure diagnosis, dependency security, and Python version lifecycle awareness. | [jenkinsci/explain-error-plugin][explain-error-plugin], [pipguard][pipguard], [py-eol][py-eol] |
-| Workflows & insights | Platform tooling, API integrations, and maturity metrics for engineering teams. | [castops/cast-cli][cast-cli], [atlassian-api-py][atlassian-api-py], [gitstats][gitstats], [devops-maturity/devops-maturity][devops-maturity] |
+| Govern delivery with evidence 🚧 | AI writes code faster than governance can track; teams need machine-readable evidence at every stage. | 📜 [spec][ods-spec] · 🔧 [cli][ods-cli] · ✅ [validate-action][ods-validate-action] |
+| Code quality & standards | Catch C/C++, Jenkinsfile, and Dockerfile issues early; enforce naming and commit conventions. | 🔍 [cpp-linter-action][cpp-linter-action] · 🪝 [cpp-linter-hooks][cpp-linter-hooks] · 🌿 [conventional-branch][conventional-branch] · ✅ [commit-check][commit-check] · 🏗️ [jenkinsfilelint][jenkinsci/jenkinsfilelint] · 🐳 [hadolint-pre-commit][hadolint-pre-commit] |
+| CI/CD intelligence | AI-powered failure diagnosis, dependency security, and Python version lifecycle awareness. | 🤖 [explain-error-plugin][explain-error-plugin] · 🛡️ [pipguard][pipguard] · ⏰ [py-eol][py-eol] |
+| Workflows & insights | Platform tooling, API integrations, and maturity metrics for engineering teams. | ⚙️ [cast-cli][cast-cli] · 🔗 [atlassian-api-py][atlassian-api-py] · 📊 [gitstats][gitstats] · 📈 [devops-maturity][devops-maturity] |
 
 #### 🤖 AI & Current Focus
 
