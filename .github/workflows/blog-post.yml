@@ -21,4 +21,4 @@ jobs:
           feed_list: "https://shenxianpeng.github.io/en/index.xml"
           max_post_count: 10
           date_format: mmm d, yyyy
-          template: "- [$title]($url) - $date$newline"
+          template: "$newline- [$title]($url) - $date$newline"
