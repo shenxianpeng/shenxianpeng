@@ -43,6 +43,7 @@ I build open-source tools for **DevOps, CI/CD, and software delivery** — colle
 #### ✍️ Writing
 
 <!-- BLOG-POST-LIST:START -->
+- [Originally Just Wanted to Propose a Doc PR, Ended Up Moving the Project to the Official Jenkins Organization](https://shenxianpeng.github.io/en/posts/2026/jenkinsfilelint/) - Jun 9, 2026
 - [From Demo to Production—8-Layer Architecture for Agentic Applications](https://shenxianpeng.github.io/en/posts/2026/agentic-application-8-layers/) - Jun 8, 2026
 - [Conventional Branch Now Has Its Own Domain—conventionalbranch.org](https://shenxianpeng.github.io/en/posts/2026/conventional-branch-domain/) - May 31, 2026
 - [cpp-linter-hooks: The Most Complete pre-commit Solution for C/C++ Projects](https://shenxianpeng.github.io/en/posts/2026/cpp-linter-hooks/) - May 20, 2026
@@ -51,8 +52,7 @@ I build open-source tools for **DevOps, CI/CD, and software delivery** — colle
 - [Building an AI Agent Inside Jira —— A Jira Copilot Implementation Guide](https://shenxianpeng.github.io/en/posts/2026/jira-ai-agent/) - May 12, 2026
 - [Counter-intuitive Designs in the pi project — From AGENTS.md to &quot;Just Close Your PR First&quot;](https://shenxianpeng.github.io/en/posts/2026/pi-contributing-philosophy/) - Apr 26, 2026
 - [Explain Error Plugin Major Update — AI Auto-Fix, Usage Management, and More AI Providers](https://shenxianpeng.github.io/en/posts/2026/explain-error-plugin-3/) - Apr 25, 2026
-- [Writing an Article for Twenty-Four Cents—My Experience Using Pi + DeepSeek as a Codex Backup Solution](https://shenxianpeng.github.io/en/posts/2026/pi-deepseek/) - Apr 25, 2026
-- [AI Agent, or Automation?](https://shenxianpeng.github.io/en/posts/2026/ai-agents-vs-automations/) - Apr 20, 2026<!-- BLOG-POST-LIST:END -->
+- [Writing an Article for Twenty-Four Cents—My Experience Using Pi + DeepSeek as a Codex Backup Solution](https://shenxianpeng.github.io/en/posts/2026/pi-deepseek/) - Apr 25, 2026<!-- BLOG-POST-LIST:END -->
 
 
 [blog]: https://shenxianpeng.github.io/en/posts/
