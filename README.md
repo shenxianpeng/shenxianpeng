@@ -1,5 +1,7 @@
 ### Hi, I'm Xianpeng 👋
 
+**I build open-source tools for DevOps & CI/CD, unified under the [Open Delivery Stack (ODS)][ods] — governance, quality gates & CI intelligence for modern software delivery.**
+
 ![Profile Views](https://komarev.com/ghpvc/?username=shenxianpeng)
 [![My PyPI packages](https://img.shields.io/badge/-PyPI-4B8BBE?style=flat&labelColor=306998&logo=pypi&logoColor=FFE873 "My PyPI packages")](https://pypi.org/user/xpshen/)
 [![My PyPI packages stats](https://img.shields.io/badge/-PyPI_Stats-4B8BBE?style=flat&labelColor=306998&logo=pypi&logoColor=FFE873 "My PyPI packages stats")][pypistats]
@@ -10,23 +12,22 @@
 
 ---
 
-I build open-source tools for **DevOps, CI/CD, and software delivery** — collected under the **Open Delivery Stack (ODS)** vision: machine-readable governance standards, quality gates, CI intelligence, dependency safety, and engineering insights. AI is increasingly part of this — explaining failures, reviewing changes, and helping teams ship with evidence.
+These tools form the **Open Delivery Stack** — a machine-readable layer for how software gets governed, tested, and shipped: governance standards, quality gates, dependency safety, and engineering insights. AI runs through all of it — explaining failures, reviewing changes, and helping teams ship with evidence instead of hope.
 
 #### 📦 What I Build
 
-| Area | Problem | Projects |
+| Focus | What it does | Projects |
 | --- | --- | --- |
-| Govern delivery with evidence 🚧 | AI writes code faster than governance can track; teams need machine-readable evidence at every stage. | 📜 [spec][ods-spec] · 🔧 [cli][ods-cli] · ✅ [validate-action][ods-validate-action] |
-| Code quality & standards | Catch C/C++, Jenkinsfile, and Dockerfile issues early; enforce naming and commit conventions. | 🔍 [cpp-linter-action][cpp-linter-action] · 🪝 [cpp-linter-hooks][cpp-linter-hooks] · 🌿 [conventional-branch][conventional-branch] · ✅ [commit-check][commit-check] · 🏗️ [jenkinsfilelint][jenkinsci/jenkinsfilelint] · 🐳 [hadolint-pre-commit][hadolint-pre-commit] |
-| CI/CD intelligence | AI-powered failure diagnosis, dependency security, and Python version lifecycle awareness. | 🤖 [explain-error-plugin][explain-error-plugin] · 🛡️ [pipguard][pipguard] · ⏰ [py-eol][py-eol] |
-| Workflows & insights | Platform tooling, API integrations, and maturity metrics for engineering teams. | ⚙️ [cast-cli][cast-cli] · 🔗 [atlassian-api-py][atlassian-api-py] · 📊 [gitstats][gitstats] · 📈 [devops-maturity][devops-maturity] |
+| 📜 **Delivery Governance** `building` | Machine-readable evidence at every commit-to-deploy stage | [spec][ods-spec] · [cli][ods-cli] · [validate-action][ods-validate-action] |
+| 🔍 **Code Quality & Standards** | Catch C/C++, Dockerfile & Jenkinsfile issues early; enforce commit & branch conventions | [cpp-linter][cpp-linter-action] · [cpp-linter-hooks][cpp-linter-hooks] · [commit-check][commit-check] · [conventional-branch][conventional-branch] · [jenkinsfilelint][jenkinsci/jenkinsfilelint] · [hadolint][hadolint-pre-commit] |
+| 🤖 **CI/CD Intelligence** | AI failure diagnosis, dependency safety & Python EOL awareness | [explain-error-plugin][explain-error-plugin] · [pipguard][pipguard] · [py-eol][py-eol] |
+| 📊 **Workflows & Insights** | Platform tooling, API integrations & engineering maturity metrics | [cast-cli][cast-cli] · [atlassian-api-py][atlassian-api-py] · [gitstats][gitstats] · [devops-maturity][devops-maturity] |
 
-#### 🤖 AI & Current Focus
+#### ⭐ Current Focus
 
-- 🚧 [**Open Delivery Spec (ODS)**][ods] — machine-readable delivery governance: spec, CLI, and CI validation — every commit-to-deploy stage leaves auditable evidence. (actively building)
-- [**commit-check**][commit-check] — configurable Git commit and branch name validation for teams and CI pipelines.
-- [**cpp-linter**][cpp-linter-action] — C/C++ linting, formatting, and static analysis feedback directly in PRs and pre-commit.
-- [**Explain Error Plugin**][explain-error-plugin] — AI-powered Jenkins failure diagnosis: causes, explanations, and suggested fixes instead of raw logs.
+- 🚧 [**Open Delivery Spec (ODS)**][ods] — building the spec, CLI, and CI validation so every commit-to-deploy stage leaves auditable evidence. *(early, actively building)* [![stars](https://img.shields.io/github/stars/open-delivery-spec/spec?style=flat-square&label=%E2%98%85&color=444)][ods-spec]
+- 🤖 [**Explain Error Plugin**][explain-error-plugin] — AI diagnoses Jenkins failures with causes, explanations, and fixes instead of raw logs; now in the official Jenkins org. [![stars](https://img.shields.io/github/stars/jenkinsci/explain-error-plugin?style=flat-square&label=%E2%98%85&color=444)][explain-error-plugin]
+- ✅ [**commit-check**][commit-check] — Git commit & branch validation for teams and CI; recently added AI-attribution checks. [![stars](https://img.shields.io/github/stars/commit-check/commit-check?style=flat-square&label=%E2%98%85&color=444)][commit-check]
 
 #### 👥 Community
 
