@@ -10,29 +10,22 @@
 
 ---
 
-I build open-source tools for **DevOps, CI/CD, and software delivery** — collected under the **Open Delivery Stack (ODS)** vision: machine-readable governance standards, quality gates, CI intelligence, dependency safety, and engineering insights. AI is increasingly part of this — explaining failures, reviewing changes, and helping teams ship with evidence.
+I build open-source tools for **DevOps, CI/CD, and software delivery**, collected under the **Open Delivery Stack (ODS)** vision — a machine-readable layer for how software gets governed, tested, and shipped. AI is increasingly part of this: explaining failures, reviewing changes, and helping teams ship with evidence.
 
 #### 📦 What I Build
 
-| Area | Problem | Projects |
+| Focus | What it does | Projects |
 | --- | --- | --- |
-| Govern delivery with evidence 🚧 | AI writes code faster than governance can track; teams need machine-readable evidence at every stage. | 📜 [spec][ods-spec] · 🔧 [cli][ods-cli] · ✅ [validate-action][ods-validate-action] |
-| Code quality & standards | Catch C/C++, Jenkinsfile, and Dockerfile issues early; enforce naming and commit conventions. | 🔍 [cpp-linter-action][cpp-linter-action] · 🪝 [cpp-linter-hooks][cpp-linter-hooks] · 🌿 [conventional-branch][conventional-branch] · ✅ [commit-check][commit-check] · 🏗️ [jenkinsfilelint][jenkinsci/jenkinsfilelint] · 🐳 [hadolint-pre-commit][hadolint-pre-commit] |
-| CI/CD intelligence | AI-powered failure diagnosis, dependency security, and Python version lifecycle awareness. | 🤖 [explain-error-plugin][explain-error-plugin] · 🛡️ [pipguard][pipguard] · ⏰ [py-eol][py-eol] |
-| Workflows & insights | Platform tooling, API integrations, and maturity metrics for engineering teams. | ⚙️ [cast-cli][cast-cli] · 🔗 [atlassian-api-py][atlassian-api-py] · 📊 [gitstats][gitstats] · 📈 [devops-maturity][devops-maturity] |
-
-#### 🤖 AI & Current Focus
-
-- 🚧 [**Open Delivery Spec (ODS)**][ods] — machine-readable delivery governance: spec, CLI, and CI validation — every commit-to-deploy stage leaves auditable evidence. (actively building)
-- [**commit-check**][commit-check] — configurable Git commit and branch name validation for teams and CI pipelines.
-- [**cpp-linter**][cpp-linter-action] — C/C++ linting, formatting, and static analysis feedback directly in PRs and pre-commit.
-- [**Explain Error Plugin**][explain-error-plugin] — AI-powered Jenkins failure diagnosis: causes, explanations, and suggested fixes instead of raw logs.
+| 🏛️ **Delivery Governance** `building` | Machine-readable evidence at every commit-to-deploy stage | 📜 [spec][ods-spec]<br>🔧 [cli][ods-cli]<br>✅ [validate-action][ods-validate-action] |
+| 📏 **Code Quality & Standards** | Catch C/C++, Dockerfile & Jenkinsfile issues early; enforce commit & branch conventions | 🔍 [cpp-linter][cpp-linter-action]<br>🪝 [cpp-linter-hooks][cpp-linter-hooks]<br>✅ [commit-check][commit-check]<br>🌿 [conventional-branch][conventional-branch]<br>🏗️ [jenkinsfilelint][jenkinsci/jenkinsfilelint]<br>🐳 [hadolint][hadolint-pre-commit] |
+| 🧠 **CI/CD Intelligence** | AI failure diagnosis, dependency safety & Python EOL awareness | 🤖 [explain-error-plugin][explain-error-plugin]<br>🛡️ [pipguard][pipguard]<br>⏰ [py-eol][py-eol] |
+| 🧰 **Workflows & Insights** | Platform tooling, API integrations & engineering maturity metrics | ⚙️ [cast-cli][cast-cli]<br>🔗 [atlassian-api-py][atlassian-api-py]<br>📊 [gitstats][gitstats]<br>📈 [devops-maturity][devops-maturity] |
 
 #### 👥 Community
 
 - Maintainer and contributor in the [**Jenkins**][jenkinsci] ecosystem, including [jenkinsci/explain-error-plugin][explain-error-plugin] and [jenkinsci/jenkinsfilelint][jenkinsfilelint].
 - Contributor to [**PyPA**][pypa] ([merged PRs][pypa-prs]) and [**Python**][python] ([merged PRs][python-prs]).
-- Maintainer of [**mkdocs-ng/mkdocs**][mkdocs], [**mkdocs-ng/mkdocs-material**][mkdocs-material], [**gitstats**][gitstats], and [**badgepy**][badgepy].
+- Maintainer of [**mkdocs-ng/mkdocs**][mkdocs], [**mkdocs-ng/mkdocs-material**][mkdocs-material], and [**badgepy**][badgepy].
 
 ---
 
