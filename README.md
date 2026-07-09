@@ -21,13 +21,6 @@ I build open-source tools for **DevOps, CI/CD, and software delivery**, collecte
 | 🧠 **CI/CD Intelligence** | AI failure diagnosis, dependency safety & Python EOL awareness | 🤖 [explain-error-plugin][explain-error-plugin]<br>🛡️ [pipguard][pipguard]<br>⏰ [py-eol][py-eol] |
 | 🧰 **Workflows & Insights** | Platform tooling, API integrations & engineering maturity metrics | ⚙️ [cast-cli][cast-cli]<br>🔗 [atlassian-api-py][atlassian-api-py]<br>📊 [gitstats][gitstats]<br>📈 [devops-maturity][devops-maturity] |
 
-#### 🤖 AI & Current Focus
-
-- 🚧 [**Open Delivery Spec (ODS)**][ods] — machine-readable delivery governance: spec, CLI, and CI validation — every commit-to-deploy stage leaves auditable evidence. (actively building)
-- [**commit-check**][commit-check] — configurable Git commit and branch name validation for teams and CI pipelines.
-- [**cpp-linter**][cpp-linter-action] — C/C++ linting, formatting, and static analysis feedback directly in PRs and pre-commit.
-- [**Explain Error Plugin**][explain-error-plugin] — AI-powered Jenkins failure diagnosis: causes, explanations, and suggested fixes instead of raw logs.
-
 #### 👥 Community
 
 - Maintainer and contributor in the [**Jenkins**][jenkinsci] ecosystem, including [jenkinsci/explain-error-plugin][explain-error-plugin] and [jenkinsci/jenkinsfilelint][jenkinsfilelint].
