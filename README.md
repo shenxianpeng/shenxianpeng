@@ -25,7 +25,7 @@ I build open-source tools for **DevOps, CI/CD, and software delivery**, collecte
 
 - Maintainer and contributor in the [**Jenkins**][jenkinsci] ecosystem, including [jenkinsci/explain-error-plugin][explain-error-plugin] and [jenkinsci/jenkinsfilelint][jenkinsfilelint].
 - Contributor to [**PyPA**][pypa] ([merged PRs][pypa-prs]) and [**Python**][python] ([merged PRs][python-prs]).
-- Maintainer of [**mkdocs-ng/mkdocs**][mkdocs], [**mkdocs-ng/mkdocs-material**][mkdocs-material], [**gitstats**][gitstats], and [**badgepy**][badgepy].
+- Maintainer of [**mkdocs-ng/mkdocs**][mkdocs], [**mkdocs-ng/mkdocs-material**][mkdocs-material], and [**badgepy**][badgepy].
 
 ---
 
