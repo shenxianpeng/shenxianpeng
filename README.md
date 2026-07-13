@@ -17,7 +17,7 @@ I build open-source tools for **DevOps, CI/CD, and software delivery**, collecte
 | Focus | What it does | Projects |
 | --- | --- | --- |
 | 🏛️ **Delivery Governance** | Machine-readable evidence at every commit-to-deploy stage | 📜 [spec][ods-spec] · 🔧 [cli][ods-cli] · ✅ [validate-action][ods-validate-action] |
-| 📏 **Code Quality & Standards** | Catch C/C++, Dockerfile & Jenkinsfile issues early; enforce commit & branch conventions | 🔍 [cpp-linter][cpp-linter-action] · 🪝 [cpp-linter-hooks][cpp-linter-hooks] · ✅ [commit-check][commit-check] · 🌿 [conventional-branch][conventional-branch] · 🏗️ [jenkinsfilelint][jenkinsci/jenkinsfilelint] · 🐳 [hadolint][hadolint-pre-commit] |
+| 📏 **Code Quality & Standards** | Catch C/C++, Dockerfile & Jenkinsfile issues early; enforce commit & branch conventions | 🔍 [cpp-linter-action][cpp-linter-action] · 🪝 [cpp-linter-hooks][cpp-linter-hooks] · ✅ [commit-check][commit-check] · 🌿 [conventional-branch][conventional-branch] · 🏗️ [jenkinsfilelint][jenkinsci/jenkinsfilelint] · 🐳 [hadolint][hadolint-pre-commit] |
 | 🧠 **CI/CD Intelligence** | AI failure diagnosis, dependency safety & Python EOL awareness | 🤖 [explain-error-plugin][explain-error-plugin] · 🛡️ [pipguard][pipguard] · ⏰ [py-eol][py-eol] |
 | 🧰 **Workflows & Insights** | Platform tooling, API integrations & engineering maturity metrics | 🔗 [atlassian-api-py][atlassian-api-py] · 📊 [gitstats][gitstats] · 📈 [devops-maturity][devops-maturity] |
 
