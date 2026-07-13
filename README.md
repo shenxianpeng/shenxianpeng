@@ -19,7 +19,7 @@ I build open-source tools for **DevOps, CI/CD, and software delivery** — colle
 | Govern delivery with evidence 🚧 | AI writes code faster than governance can track; teams need machine-readable evidence at every stage. | 📜 [spec][ods-spec] · 🔧 [cli][ods-cli] · ✅ [validate-action][ods-validate-action] |
 | Code quality & standards | Catch C/C++, Jenkinsfile, and Dockerfile issues early; enforce naming and commit conventions. | 🔍 [cpp-linter-action][cpp-linter-action] · 🪝 [cpp-linter-hooks][cpp-linter-hooks] · 🌿 [conventional-branch][conventional-branch] · ✅ [commit-check][commit-check] · 🏗️ [jenkinsfilelint][jenkinsci/jenkinsfilelint] · 🐳 [hadolint-pre-commit][hadolint-pre-commit] |
 | CI/CD intelligence | AI-powered failure diagnosis, dependency security, and Python version lifecycle awareness. | 🤖 [explain-error-plugin][explain-error-plugin] · 🛡️ [pipguard][pipguard] · ⏰ [py-eol][py-eol] |
-| Workflows & insights | Platform tooling, API integrations, and maturity metrics for engineering teams. | ⚙️ [cast-cli][cast-cli] · 🔗 [atlassian-api-py][atlassian-api-py] · 📊 [gitstats][gitstats] · 📈 [devops-maturity][devops-maturity] |
+| Workflows & insights | Platform tooling, API integrations, and maturity metrics for engineering teams. | ⚙️ ~~[cast-cli][cast-cli]~~ (archived) · 🔗 [atlassian-api-py][atlassian-api-py] · 📊 [gitstats][gitstats] · 📈 [devops-maturity][devops-maturity] |
 
 #### 🤖 AI & Current Focus
 
@@ -77,7 +77,7 @@ I build open-source tools for **DevOps, CI/CD, and software delivery** — colle
 [badgepy]: https://github.com/shenxianpeng/badgepy
 [mkdocs]: https://github.com/mkdocs-ng/mkdocs
 [mkdocs-material]: https://github.com/mkdocs-ng/mkdocs-material
-[cast-cli]: https://github.com/castops/cast-cli
+[cast-cli]: https://github.com/castops/cast-cli "Archived"
 [atlassian-api-py]: https://github.com/shenxianpeng/atlassian-api-py
 [hadolint-pre-commit]: https://github.com/shenxianpeng/hadolint-pre-commit
 [py-eol]: https://github.com/shenxianpeng/py-eol
