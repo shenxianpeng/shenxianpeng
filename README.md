@@ -36,6 +36,7 @@ I build open-source tools for **DevOps, CI/CD, and software delivery**, collecte
 #### ✍️ Writing
 
 <!-- BLOG-POST-LIST:START -->
+- [Conventional Branch 1.1.0 Released—Official Support for AI Coding Agent Branch Prefixes](https://shenxianpeng.github.io/en/posts/2026/conventional-branch-v1-1-0/) - Jul 16, 2026
 - [Jenkinsfile Lint 1.5.0 Released— Standalone Mode Without a Jenkins Server](https://shenxianpeng.github.io/en/posts/2026/jenkinsfilelint-standalone/) - Jul 12, 2026
 - [Which Code in Your Repository is AI-Written—Now There&#39;s a Tool to Govern It](https://shenxianpeng.github.io/en/posts/2026/commit-check-ai-attribution/) - Jul 6, 2026
 - [Originally Just Wanted to Propose a Doc PR, Ended Up Moving the Project to the Official Jenkins Organization](https://shenxianpeng.github.io/en/posts/2026/jenkinsfilelint/) - Jun 9, 2026
@@ -44,8 +45,7 @@ I build open-source tools for **DevOps, CI/CD, and software delivery**, collecte
 - [cpp-linter-hooks: The Most Complete pre-commit Solution for C/C++ Projects](https://shenxianpeng.github.io/en/posts/2026/cpp-linter-hooks/) - May 20, 2026
 - [Conventional Branch Official Skill Is Here—Install with One Command](https://shenxianpeng.github.io/en/posts/2026/conventional-branch-skill/) - May 17, 2026
 - [mkdocs-ng Maintenance Progress — v1.7.x Fix Summary and Next Steps](https://shenxianpeng.github.io/en/posts/2026/mkdocs-ng-update/) - May 14, 2026
-- [Building an AI Agent Inside Jira —— A Jira Copilot Implementation Guide](https://shenxianpeng.github.io/en/posts/2026/jira-ai-agent/) - May 12, 2026
-- [Counter-intuitive Designs in the pi project — From AGENTS.md to &quot;Just Close Your PR First&quot;](https://shenxianpeng.github.io/en/posts/2026/pi-contributing-philosophy/) - Apr 26, 2026<!-- BLOG-POST-LIST:END -->
+- [Building an AI Agent Inside Jira —— A Jira Copilot Implementation Guide](https://shenxianpeng.github.io/en/posts/2026/jira-ai-agent/) - May 12, 2026<!-- BLOG-POST-LIST:END -->
 
 
 [blog]: https://shenxianpeng.github.io/en/posts/
