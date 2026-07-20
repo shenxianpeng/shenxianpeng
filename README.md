@@ -36,6 +36,7 @@ I build open-source tools for **DevOps, CI/CD, and software delivery**, collecte
 #### ✍️ Writing
 
 <!-- BLOG-POST-LIST:START -->
+- [From Praising to Bashing—My Attitude Shift Towards GitHub Copilot](https://shenxianpeng.github.io/en/posts/2026/goodbye-copilot/) - Jul 20, 2026
 - [Open Delivery Spec—I Built a CI Quality Gate for AI-Generated Code](https://shenxianpeng.github.io/en/posts/2026/open-delivery-spec/) - Jul 17, 2026
 - [Conventional Branch 1.1.0 Released—Official Support for AI Coding Agent Branch Prefixes](https://shenxianpeng.github.io/en/posts/2026/conventional-branch-v1-1-0/) - Jul 16, 2026
 - [Jenkinsfile Lint 1.5.0 Released— Standalone Mode Without a Jenkins Server](https://shenxianpeng.github.io/en/posts/2026/jenkinsfilelint-standalone/) - Jul 12, 2026
@@ -44,8 +45,7 @@ I build open-source tools for **DevOps, CI/CD, and software delivery**, collecte
 - [From Demo to Production—8-Layer Architecture for Agentic Applications](https://shenxianpeng.github.io/en/posts/2026/agentic-application-8-layers/) - Jun 8, 2026
 - [Conventional Branch Now Has Its Own Domain—conventionalbranch.org](https://shenxianpeng.github.io/en/posts/2026/conventional-branch-domain/) - May 31, 2026
 - [cpp-linter-hooks: The Most Complete pre-commit Solution for C/C++ Projects](https://shenxianpeng.github.io/en/posts/2026/cpp-linter-hooks/) - May 20, 2026
-- [Conventional Branch Official Skill Is Here—Install with One Command](https://shenxianpeng.github.io/en/posts/2026/conventional-branch-skill/) - May 17, 2026
-- [mkdocs-ng Maintenance Progress — v1.7.x Fix Summary and Next Steps](https://shenxianpeng.github.io/en/posts/2026/mkdocs-ng-update/) - May 14, 2026<!-- BLOG-POST-LIST:END -->
+- [Conventional Branch Official Skill Is Here—Install with One Command](https://shenxianpeng.github.io/en/posts/2026/conventional-branch-skill/) - May 17, 2026<!-- BLOG-POST-LIST:END -->
 
 
 [blog]: https://shenxianpeng.github.io/en/posts/
