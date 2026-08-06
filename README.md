@@ -1,66 +1,97 @@
-### Hi, I'm Xianpeng 👋
+## Xianpeng Shen
 
-![Profile Views](https://komarev.com/ghpvc/?username=shenxianpeng)
-[![My PyPI packages](https://img.shields.io/badge/-PyPI-4B8BBE?style=flat&labelColor=306998&logo=pypi&logoColor=FFE873 "My PyPI packages")](https://pypi.org/user/xpshen/)
-[![My PyPI packages stats](https://img.shields.io/badge/-PyPI_Stats-4B8BBE?style=flat&labelColor=306998&logo=pypi&logoColor=FFE873 "My PyPI packages stats")][pypistats]
-[![Sponsor me on GitHub](https://img.shields.io/badge/GitHub-Sponsors-EA4AAA?style=flat&logo=githubsponsors "Sponsor me on GitHub")][sponsor]
-[![committers.top badge](https://user-badge.committers.top/lithuania_public/shenxianpeng.svg)](https://user-badge.committers.top/lithuania_public/shenxianpeng)
+**I build open-source tools that make software delivery verifiable.**
 
-[About](https://shenxianpeng.github.io/en/about/) | [Blog][blog] | [RSS][rss] | [Medium][medium] | [Dev.to][dev.to] | [WeChat][qrcode] | [Zhihu][zhihu]
+Linting, commit and branch standards, and machine-readable evidence from commit to deploy — increasingly with AI in the loop: explaining CI failures, reviewing changes, and helping teams ship with proof instead of vibes.
+
+[About][about] · [Blog][blog] · [RSS][rss] · [Medium][medium] · [Dev.to][dev.to] · [Zhihu][zhihu] · [WeChat][qrcode]
 
 ---
 
-I build open-source tools for **DevOps, CI/CD, and software delivery**, collected under the **Open Delivery Stack (ODS)** vision — a machine-readable layer for how software gets governed, tested, and shipped. AI is increasingly part of this: explaining failures, reviewing changes, and helping teams ship with evidence.
+### ⭐ Start here
 
-#### 📦 What I Build
+#### [cpp-linter-action][cpp-linter-action] [![stars](https://img.shields.io/github/stars/cpp-linter/cpp-linter-action?style=social&label=)][cpp-linter-action]
 
-| Focus | What it does | Projects |
-| --- | --- | --- |
-| 🏛️ **Delivery Governance** | Machine-readable evidence at every commit-to-deploy stage | 📜 [spec][ods-spec] · 🔧 [cli][ods-cli] · ✅ [validate-action][ods-validate-action] |
-| 📏 **Code Quality & Standards** | Catch C/C++, Dockerfile & Jenkinsfile issues early; enforce commit & branch conventions | 🔍 [cpp-linter-action][cpp-linter-action] · 🪝 [cpp-linter-hooks][cpp-linter-hooks] · ✅ [commit-check][commit-check] · 🌿 [conventional-branch][conventional-branch] · 🏗️ [jenkinsfilelint][jenkinsci/jenkinsfilelint] · 🐳 [hadolint][hadolint-pre-commit] |
-| 🧠 **CI/CD Intelligence** | AI failure diagnosis, dependency safety & Python EOL awareness | 🤖 [explain-error-plugin][explain-error-plugin] · 🛡️ [pipguard][pipguard] · ⏰ [py-eol][py-eol] |
-| 🧰 **Workflows & Insights** | Platform tooling, API integrations & engineering maturity metrics | 🔗 [atlassian-api-py][atlassian-api-py] · 📊 [gitstats][gitstats] · 📈 [devops-maturity][devops-maturity] |
+clang-format & clang-tidy on every pull request, posted back as inline review comments.
 
-#### 👥 Community
+```yaml
+- uses: cpp-linter/cpp-linter-action@v2
+  with:
+    style: file
+```
 
-- Maintainer and contributor in the [**Jenkins**][jenkinsci] ecosystem, including [jenkinsci/explain-error-plugin][explain-error-plugin] and [jenkinsci/jenkinsfilelint][jenkinsfilelint].
-- Contributor to [**PyPA**][pypa] ([merged PRs][pypa-prs]) and [**Python**][python] ([merged PRs][python-prs]).
-- Maintainer of [**mkdocs-ng/mkdocs**][mkdocs], [**mkdocs-ng/mkdocs-material**][mkdocs-material], and [**badgepy**][badgepy].
+#### [commit-check][commit-check] [![stars](https://img.shields.io/github/stars/commit-check/commit-check?style=social&label=)][commit-check]
+
+Enforce commit message, branch naming, and AI-attribution rules — in CI or as a pre-commit hook.
+
+```yaml
+- repo: https://github.com/commit-check/commit-check
+  rev: v2.13.1
+  hooks:
+    - id: check-message
+    - id: check-branch
+```
+
+#### [Conventional Branch][conventional-branch] [![stars](https://img.shields.io/github/stars/conventional-branch/conventional-branch?style=social&label=)][conventional-branch]
+
+A naming specification for Git branches — `feature/`, `bugfix/`, `hotfix/`, `release/`, `chore/`, plus prefixes for AI coding agents. Lives at **[conventionalbranch.org](https://conventionalbranch.org)**.
 
 ---
 
-**WeChat:** [**shenxianpeng**][qrcode] - sharing AI + DevOps practices and real-world engineering notes.
+### 🏛️ What I'm building now — [Open Delivery Spec][ods]
+
+Standardized, machine-parseable schemas for software delivery governance: what was built, tested, reviewed, and deployed — as evidence a machine can check, at every commit-to-deploy stage.
+
+📜 [spec][ods-spec] · 🔧 [cli][ods-cli] · ✅ [validate-action][ods-validate-action]
 
 ---
 
-#### ✍️ Writing
+### 📦 Everything else
+
+| Focus | Projects |
+| --- | --- |
+| **Code quality & standards** | [cpp-linter-hooks][cpp-linter-hooks] (clang-tidy/format for pre-commit) · [jenkinsfilelint][jenkinsfilelint] (validate Jenkinsfiles locally) · [hadolint-pre-commit][hadolint-pre-commit] (Dockerfile linting) |
+| **CI/CD intelligence** | [explain-error-plugin][explain-error-plugin] (AI diagnosis of Jenkins failures) · [pipguard][pipguard] (dependency supply-chain safety) · [py-eol][py-eol] (Python EOL awareness) |
+| **Workflows & insights** | [gitstats][gitstats] (git history statistics) · [devops-maturity][devops-maturity] (engineering maturity assessment) · [atlassian-api-py][atlassian-api-py] (Atlassian REST wrapper) · [badgepy][badgepy] (local SVG badge generator) |
+
+---
+
+### 👥 Community
+
+- Contributor to [**Python**][python] ([merged PRs][python-prs]) and [**PyPA**][pypa] ([merged PRs][pypa-prs]).
+- Maintainer and contributor in the [**Jenkins**][jenkinsci] ecosystem — [explain-error-plugin][explain-error-plugin] and [jenkinsfilelint][jenkinsfilelint].
+- Maintainer of [**mkdocs-ng/mkdocs**][mkdocs] and [**mkdocs-ng/mkdocs-material**][mkdocs-material].
+
+---
+
+### ✍️ Writing
 
 <!-- BLOG-POST-LIST:START -->
 - [From Praising to Bashing—My Attitude Shift Towards GitHub Copilot](https://shenxianpeng.github.io/en/posts/2026/goodbye-copilot/) - Jul 20, 2026
 - [Open Delivery Spec—I Built a CI Quality Gate for AI-Generated Code](https://shenxianpeng.github.io/en/posts/2026/open-delivery-spec/) - Jul 17, 2026
 - [Conventional Branch 1.1.0 Released—Official Support for AI Coding Agent Branch Prefixes](https://shenxianpeng.github.io/en/posts/2026/conventional-branch-v1-1-0/) - Jul 16, 2026
 - [Jenkinsfile Lint 1.5.0 Released— Standalone Mode Without a Jenkins Server](https://shenxianpeng.github.io/en/posts/2026/jenkinsfilelint-standalone/) - Jul 12, 2026
-- [Which Code in Your Repository is AI-Written—Now There&#39;s a Tool to Govern It](https://shenxianpeng.github.io/en/posts/2026/commit-check-ai-attribution/) - Jul 6, 2026
-- [Originally Just Wanted to Propose a Doc PR, Ended Up Moving the Project to the Official Jenkins Organization](https://shenxianpeng.github.io/en/posts/2026/jenkinsfilelint/) - Jun 9, 2026
-- [From Demo to Production—8-Layer Architecture for Agentic Applications](https://shenxianpeng.github.io/en/posts/2026/agentic-application-8-layers/) - Jun 8, 2026
-- [Conventional Branch Now Has Its Own Domain—conventionalbranch.org](https://shenxianpeng.github.io/en/posts/2026/conventional-branch-domain/) - May 31, 2026
-- [cpp-linter-hooks: The Most Complete pre-commit Solution for C/C++ Projects](https://shenxianpeng.github.io/en/posts/2026/cpp-linter-hooks/) - May 20, 2026
-- [Conventional Branch Official Skill Is Here—Install with One Command](https://shenxianpeng.github.io/en/posts/2026/conventional-branch-skill/) - May 17, 2026<!-- BLOG-POST-LIST:END -->
+- [Which Code in Your Repository is AI-Written—Now There&#39;s a Tool to Govern It](https://shenxianpeng.github.io/en/posts/2026/commit-check-ai-attribution/) - Jul 6, 2026<!-- BLOG-POST-LIST:END -->
 
+→ **[More on my blog][blog]**, or follow on WeChat **[shenxianpeng][qrcode]** for AI + DevOps notes in Chinese.
 
+---
+
+<sub>
+<a href="https://pypi.org/user/xpshen/"><img src="https://img.shields.io/badge/-PyPI-4B8BBE?style=flat&labelColor=306998&logo=pypi&logoColor=FFE873" alt="My PyPI packages"></a>
+<a href="https://shenxianpeng.github.io/en/portfolio/pypistats/"><img src="https://img.shields.io/badge/-PyPI_Stats-4B8BBE?style=flat&labelColor=306998&logo=pypi&logoColor=FFE873" alt="My PyPI package stats"></a>
+<a href="https://github.com/sponsors/shenxianpeng"><img src="https://img.shields.io/badge/GitHub-Sponsors-EA4AAA?style=flat&logo=githubsponsors" alt="Sponsor me on GitHub"></a>
+</sub>
+
+[about]: https://shenxianpeng.github.io/en/about/
 [blog]: https://shenxianpeng.github.io/en/posts/
 [rss]: https://shenxianpeng.github.io/index.xml
 [medium]: https://medium.com/@xianpeng.shen
 [dev.to]: https://dev.to/shenxianpeng
 [zhihu]: https://www.zhihu.com/people/shenxianpeng
 [qrcode]: https://github.com/shenxianpeng/blog/blob/main/assets/img/qrcode.jpg
-[sponsor]: https://github.com/sponsors/shenxianpeng
-[cpp-linter-org]: https://github.com/cpp-linter
 [cpp-linter-action]: https://github.com/cpp-linter/cpp-linter-action
 [cpp-linter-hooks]: https://github.com/cpp-linter/cpp-linter-hooks
-[clang-tools-static-binaries]: https://github.com/cpp-linter/clang-tools-static-binaries
-[clang-tools-docker]: https://github.com/cpp-linter/clang-tools-docker
-[clang-tools-wheel]: https://github.com/cpp-linter/clang-tools-wheel
 [commit-check]: https://github.com/commit-check/commit-check
 [conventional-branch]: https://github.com/conventional-branch/conventional-branch
 [devops-maturity]: https://github.com/devops-maturity/devops-maturity
@@ -73,15 +104,12 @@ I build open-source tools for **DevOps, CI/CD, and software delivery**, collecte
 [atlassian-api-py]: https://github.com/shenxianpeng/atlassian-api-py
 [hadolint-pre-commit]: https://github.com/shenxianpeng/hadolint-pre-commit
 [py-eol]: https://github.com/shenxianpeng/py-eol
-[jenkinsci/jenkinsfilelint]: https://github.com/jenkinsci/jenkinsfilelint
 [pipguard]: https://github.com/shenxianpeng/pipguard
-[repokeeper]: https://github.com/shenxianpeng/repokeeper
 [jenkinsci]: https://github.com/jenkinsci
 [pypa]: https://github.com/pypa
 [python]: https://github.com/python
 [pypa-prs]: https://github.com/pulls/search?q=is%3Apr+author%3Ashenxianpeng+archived%3Afalse+is%3Amerged+user%3Apypa
 [python-prs]: https://github.com/pulls/search?q=is%3Apr+author%3Ashenxianpeng+archived%3Afalse+is%3Amerged+user%3Apython
-[pypistats]: https://shenxianpeng.github.io/en/portfolio/pypistats/
 [ods]: https://github.com/open-delivery-spec
 [ods-spec]: https://github.com/open-delivery-spec/spec
 [ods-cli]: https://github.com/open-delivery-spec/cli

@@ -19,6 +19,6 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@eba05ad46e6bac02165b77289978caf47699a41f # v1.9.3
         with:
           feed_list: "https://shenxianpeng.github.io/en/index.xml"
-          max_post_count: 10
+          max_post_count: 5
           date_format: mmm d, yyyy
           template: "$newline- [$title]($url) - $date"
