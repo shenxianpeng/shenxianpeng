@@ -6,6 +6,12 @@ Linting, commit and branch standards, and machine-readable evidence from commit 
 
 [About][about] · [Blog][blog] · [RSS][rss] · [Medium][medium] · [Dev.to][dev.to] · [Zhihu][zhihu] · [WeChat][qrcode]
 
+<a href="https://pypi.org/user/xpshen/"><img src="https://img.shields.io/badge/-PyPI-4B8BBE?style=flat&labelColor=306998&logo=pypi&logoColor=FFE873" alt="My PyPI packages" height="20"></a>
+<a href="https://shenxianpeng.github.io/en/portfolio/pypistats/"><img src="https://img.shields.io/badge/-PyPI_Stats-4B8BBE?style=flat&labelColor=306998&logo=pypi&logoColor=FFE873" alt="My PyPI package stats" height="20"></a>
+<a href="https://github.com/sponsors/shenxianpeng"><img src="https://img.shields.io/badge/GitHub-Sponsors-EA4AAA?style=flat&logo=githubsponsors" alt="Sponsor me on GitHub" height="20"></a>
+<a href="https://user-badge.committers.top/lithuania_public/shenxianpeng"><img src="https://user-badge.committers.top/lithuania_public/shenxianpeng.svg" alt="Committers.top rank in Lithuania" height="20"></a>
+<img src="https://komarev.com/ghpvc/?username=shenxianpeng&style=flat&color=blue" alt="Profile views" height="20">
+
 ---
 
 ### ⭐ Start here
@@ -74,16 +80,6 @@ Standardized, machine-parseable schemas for software delivery governance: what w
 - [Which Code in Your Repository is AI-Written—Now There&#39;s a Tool to Govern It](https://shenxianpeng.github.io/en/posts/2026/commit-check-ai-attribution/) - Jul 6, 2026<!-- BLOG-POST-LIST:END -->
 
 → **[More on my blog][blog]**, or follow on WeChat **[shenxianpeng][qrcode]** for AI + DevOps notes in Chinese.
-
----
-
-<sub>
-<a href="https://pypi.org/user/xpshen/"><img src="https://img.shields.io/badge/-PyPI-4B8BBE?style=flat&labelColor=306998&logo=pypi&logoColor=FFE873" alt="My PyPI packages"></a>
-<a href="https://shenxianpeng.github.io/en/portfolio/pypistats/"><img src="https://img.shields.io/badge/-PyPI_Stats-4B8BBE?style=flat&labelColor=306998&logo=pypi&logoColor=FFE873" alt="My PyPI package stats"></a>
-<a href="https://github.com/sponsors/shenxianpeng"><img src="https://img.shields.io/badge/GitHub-Sponsors-EA4AAA?style=flat&logo=githubsponsors" alt="Sponsor me on GitHub"></a>
-<a href="https://user-badge.committers.top/lithuania_public/shenxianpeng"><img src="https://user-badge.committers.top/lithuania_public/shenxianpeng.svg" alt="Committers.top rank in Lithuania" height="20"></a>
-<img src="https://komarev.com/ghpvc/?username=shenxianpeng&style=flat&color=blue" alt="Profile views">
-</sub>
 
 [about]: https://shenxianpeng.github.io/en/about/
 [blog]: https://shenxianpeng.github.io/en/posts/
