@@ -73,11 +73,11 @@ Standardized, machine-parseable schemas for software delivery governance: what w
 ### ✍️ Writing
 
 <!-- BLOG-POST-LIST:START -->
+- [Open Delivery Spec update: AI code shouldn&#39;t just pass the gate — it should leave evidence](https://shenxianpeng.github.io/en/posts/2026/open-delivery-spec-update/) - Aug 8, 2026
 - [From Praising to Bashing—My Attitude Shift Towards GitHub Copilot](https://shenxianpeng.github.io/en/posts/2026/goodbye-copilot/) - Jul 20, 2026
 - [Open Delivery Spec—I Built a CI Quality Gate for AI-Generated Code](https://shenxianpeng.github.io/en/posts/2026/open-delivery-spec/) - Jul 17, 2026
 - [Conventional Branch 1.1.0 Released—Official Support for AI Coding Agent Branch Prefixes](https://shenxianpeng.github.io/en/posts/2026/conventional-branch-v1-1-0/) - Jul 16, 2026
-- [Jenkinsfile Lint 1.5.0 Released— Standalone Mode Without a Jenkins Server](https://shenxianpeng.github.io/en/posts/2026/jenkinsfilelint-standalone/) - Jul 12, 2026
-- [Which Code in Your Repository is AI-Written—Now There&#39;s a Tool to Govern It](https://shenxianpeng.github.io/en/posts/2026/commit-check-ai-attribution/) - Jul 6, 2026<!-- BLOG-POST-LIST:END -->
+- [Jenkinsfile Lint 1.5.0 Released— Standalone Mode Without a Jenkins Server](https://shenxianpeng.github.io/en/posts/2026/jenkinsfilelint-standalone/) - Jul 12, 2026<!-- BLOG-POST-LIST:END -->
 
 → **[More on my blog][blog]**, or follow on WeChat **[shenxianpeng][qrcode]** for AI + DevOps notes in Chinese.
 
