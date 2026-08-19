@@ -1,0 +1,23 @@
+README.md
+  s_b6d349889c4613::t_6c996ee45a9686 1,5,7,15,18,21,27,29,31,33,38
+  s_b6d349889c4613::t_5390667d524c02 17,20,23,26
+  s_b6d349889c4613::t_2929539e7411ad 58-59
+.github/workflows/blog-post.yml
+  s_b6d349889c4613::t_6c996ee45a9686 22
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "f52da65898e3c51d722ab78da229e53738e80de9",
+  "prompts": {},
+  "sessions": {
+    "s_b6d349889c4613": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "07029bc7-cca3-4aa8-a2ec-0c92333e55da",
+        "model": "claude-opus-5"
+      },
+      "human_author": "shenxianpeng <xianpeng.shen@gmail.com>"
+    }
+  }
+}
