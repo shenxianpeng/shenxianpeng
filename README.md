@@ -1,4 +1,8 @@
-![Xianpeng Shen — Engineer. Builder. Maintainer.](assets/brand/generic-1920x480.png)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/brand/generic-1920x480.png">
+  <source media="(prefers-color-scheme: light)" srcset="assets/brand/generic-light-1920x480.png">
+  <img alt="Xianpeng Shen — Engineer. Builder. Maintainer." src="assets/brand/generic-light-1920x480.png">
+</picture>
 
 **I build open-source tools that make software delivery verifiable.**
 
