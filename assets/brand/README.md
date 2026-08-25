@@ -5,7 +5,8 @@ Banner set for the "ENGINEER. BUILDER. MAINTAINER." personal brand design.
 
 | File | Size | Intended use |
 | --- | --- | --- |
-| `generic-1920x480.png` | 1920×480 | 通用横幅（博客、Slides 等） |
+| `generic-1920x480.png` | 1920×480 | 通用横幅（深色版，博客、Slides 等） |
+| `generic-light-1920x480.png` | 1920×480 | 通用横幅（浅色版，GitHub 浅色主题下自动使用） |
 | `twitter-1500x500.png` | 1500×500 | Twitter / X header |
 | `linkedin-1584x396.png` | 1584×396 | LinkedIn background |
 | `youtube-2560x1440.png` | 2560×1440 | YouTube channel art |
