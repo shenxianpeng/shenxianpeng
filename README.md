@@ -13,7 +13,6 @@ Linting, commit and branch standards, and machine-readable evidence from commit 
 <a href="https://pypi.org/user/xpshen/"><img src="https://img.shields.io/badge/-PyPI-4B8BBE?style=flat&labelColor=306998&logo=pypi&logoColor=FFE873" alt="My PyPI packages" height="20"></a>
 <a href="https://shenxianpeng.github.io/en/portfolio/pypistats/"><img src="https://img.shields.io/badge/-PyPI_Stats-4B8BBE?style=flat&labelColor=306998&logo=pypi&logoColor=FFE873" alt="My PyPI package stats" height="20"></a>
 <a href="https://github.com/sponsors/shenxianpeng"><img src="https://img.shields.io/badge/GitHub-Sponsors-EA4AAA?style=flat&logo=githubsponsors" alt="Sponsor me on GitHub" height="20"></a>
-<a href="https://x.com/xianpengshen"><img src="https://img.shields.io/badge/-%40xianpengshen-000000?style=flat&logo=x&logoColor=white" alt="Follow me on X" height="20"></a>
 <a href="https://user-badge.committers.top/lithuania_public/shenxianpeng"><img src="https://user-badge.committers.top/lithuania_public/shenxianpeng.svg" alt="Committers.top rank in Lithuania" height="20"></a>
 <img src="https://komarev.com/ghpvc/?username=shenxianpeng&style=flat&color=blue" alt="Profile views" height="20">
 
