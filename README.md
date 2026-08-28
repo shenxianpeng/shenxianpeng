@@ -4,9 +4,7 @@
   <img alt="Xianpeng Shen — Engineer. Builder. Maintainer." src="assets/brand/generic-light-1920x480.png">
 </picture>
 
-**I build open-source tools that make software delivery verifiable.**
-
-Linting, commit and branch standards, and machine-readable evidence from commit to deploy — increasingly with AI in the loop.
+**I build open-source guardrails for software delivery — linting, commit standards, and CI/CD automation.**
 
 [About][about] · [Blog][blog] · [RSS][rss] · [X][x] · [WeChat][qrcode]
 
