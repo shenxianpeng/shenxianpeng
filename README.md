@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/brand/generic-1920x480.png">
-  <source media="(prefers-color-scheme: light)" srcset="assets/brand/generic-light-1920x480.png">
-  <img alt="Xianpeng Shen — Engineer. Builder. Maintainer." src="assets/brand/generic-light-1920x480.png">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/brand/github-1920x320.png">
+  <source media="(prefers-color-scheme: light)" srcset="assets/brand/github-light-1920x320.png">
+  <img alt="Xianpeng Shen — Engineer. Builder. Maintainer." src="assets/brand/github-light-1920x320.png">
 </picture>
 
 **I build open-source guardrails for software delivery — linting, commit standards, and CI/CD automation.**
