@@ -1,0 +1,21 @@
+README.md
+  s_0d8b9aee0876ac::t_33612f07582245 2-4
+assets/brand/README.md
+  s_0d8b9aee0876ac::t_0928a7a0fd5001 8-11
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.0",
+  "base_commit_sha": "4ec85a260c730b9191be3ae8a3200c12c9be8b41",
+  "prompts": {},
+  "sessions": {
+    "s_0d8b9aee0876ac": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3396425d-19c6-4a99-b752-0c9c47346eb7",
+        "model": "claude-fable-5"
+      },
+      "human_author": "shenxianpeng <xianpeng.shen@gmail.com>"
+    }
+  }
+}
