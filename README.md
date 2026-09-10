@@ -35,9 +35,9 @@ Also maintaining [cpp-linter-hooks][cpp-linter-hooks], [explain-error-plugin][ex
 ## Writing
 
 <!-- BLOG-POST-LIST:START -->
+- [Keelhaven Releases New Version—This Time, Updates Come from Real User Feedback](https://shenxianpeng.github.io/en/posts/2026/keelhaven-0-8-0/) - Sep 9, 2026
 - [mkdocs-ng v1.8.0 Released — Upstream Issues Fixed, Builds ~14% Faster](https://shenxianpeng.github.io/en/posts/2026/mkdocs-ng-1.8/) - Aug 13, 2026
-- [Open Delivery Spec update: AI code shouldn&#39;t just pass the gate — it should leave evidence](https://shenxianpeng.github.io/en/posts/2026/open-delivery-spec-update/) - Aug 8, 2026
-- [From Praising to Bashing—My Attitude Shift Towards GitHub Copilot](https://shenxianpeng.github.io/en/posts/2026/goodbye-copilot/) - Jul 20, 2026<!-- BLOG-POST-LIST:END -->
+- [Open Delivery Spec update: AI code shouldn&#39;t just pass the gate — it should leave evidence](https://shenxianpeng.github.io/en/posts/2026/open-delivery-spec-update/) - Aug 8, 2026<!-- BLOG-POST-LIST:END -->
 
 → **[More on my blog][blog]**, or follow on WeChat **[shenxianpeng][qrcode]** for AI + DevOps notes in Chinese.
 
