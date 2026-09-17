@@ -24,7 +24,7 @@ I maintain [cpp-linter][cpp-linter], and run two small product lines on the same
 [![clang-tools downloads](https://static.pepy.tech/badge/clang-tools/month)][clang-tools-pypi]<br>
 clang-format and clang-tidy on every pull request, posted back as inline review comments. Ships as a [GitHub Action][cpp-linter-action], a [pre-commit hook][cpp-linter-hooks], and a [Python package][cpp-linter-pypi], with pinned clang tool versions on Linux, macOS, and Windows.
 
-More than 550 public repositories run it in CI, including projects from:
+More than 1000 public repositories run it in CI, including projects from:
 
 <p>
   <a href="https://github.com/apache/orc"><img src="https://github.com/apache.png?size=56" alt="" width="24" align="top"></a> <b>Apache</b>&nbsp;&nbsp;
