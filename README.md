@@ -18,9 +18,7 @@ I maintain [cpp-linter][cpp-linter], and run two small product lines on the same
 
 ## Flagship
 
-**[cpp-linter][cpp-linter]** [![stars](https://img.shields.io/github/stars/cpp-linter/cpp-linter-action?style=social&label=)][cpp-linter-action]
-[![cpp-linter downloads](https://static.pepy.tech/badge/cpp-linter/month)][cpp-linter-pypi]
-[![clang-tools downloads](https://static.pepy.tech/badge/clang-tools/month)][clang-tools-pypi]<br>
+**[cpp-linter][cpp-linter]** [![stars](https://img.shields.io/github/stars/cpp-linter/cpp-linter-action?style=social&label=)][cpp-linter-action]<br>
 clang-format and clang-tidy on every pull request, posted back as inline review comments. Ships as a [GitHub Action][cpp-linter-action], a [pre-commit hook][cpp-linter-hooks], and a [Python package][cpp-linter-pypi], with pinned clang tool versions on Linux, macOS, and Windows.
 
 More than 1000 public repositories run it in CI, including projects from:
@@ -81,7 +79,6 @@ A native menu bar app over restic: files are encrypted on your Mac before they l
 [cpp-linter-action]: https://github.com/cpp-linter/cpp-linter-action
 [cpp-linter-hooks]: https://github.com/cpp-linter/cpp-linter-hooks
 [cpp-linter-pypi]: https://pypi.org/project/cpp-linter/
-[clang-tools-pypi]: https://pypi.org/project/clang-tools/
 [cpp-linter-showcase]: https://cpp-linter.github.io/showcase/
 [keelinfra]: https://keelinfra.io
 [keelinfra-keycloak]: https://github.com/keelinfra/keycloak
