@@ -1,0 +1,19 @@
+README.md
+  s_797e3933ee8a97::t_94879cd2fbd56c 9-10,13-14,20-40,42-43,45-46,48-49,51-53,55-59,61,70,75,77-78,81-89
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "a3a44ace0e9f742094cac08ca0ba94bf9b0dcede",
+  "prompts": {},
+  "sessions": {
+    "s_797e3933ee8a97": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "2b4a1047-5655-4524-a769-e344963d8e3f",
+        "model": "claude-fable-5-1"
+      },
+      "human_author": "Xianpeng Shen <xianpeng.shen@gmail.com>"
+    }
+  }
+}
