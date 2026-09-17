@@ -1,0 +1,21 @@
+.github/workflows/blog-post.yml
+  s_797e3933ee8a97::t_2b95b0308a00e6 21
+README.md
+  s_797e3933ee8a97::t_2b95b0308a00e6 16,66-68,72,74-75
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "9d1359b3658b15576d199bf06ced0f4a14319a3e",
+  "prompts": {},
+  "sessions": {
+    "s_797e3933ee8a97": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "2b4a1047-5655-4524-a769-e344963d8e3f",
+        "model": "claude-fable-5-1"
+      },
+      "human_author": "Xianpeng Shen <xianpeng.shen@gmail.com>"
+    }
+  }
+}
