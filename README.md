@@ -15,7 +15,6 @@ I maintain [cpp-linter][cpp-linter], and run two small product lines on the same
 <a href="https://pypi.org/user/xpshen/"><img src="https://img.shields.io/badge/-PyPI-4B8BBE?style=flat&labelColor=306998&logo=pypi&logoColor=FFE873" alt="My PyPI packages" height="20"></a>
 <a href="https://shenxianpeng.github.io/en/portfolio/pypistats/"><img src="https://img.shields.io/badge/-PyPI_Stats-4B8BBE?style=flat&labelColor=306998&logo=pypi&logoColor=FFE873" alt="My PyPI package stats" height="20"></a>
 <a href="https://user-badge.committers.top/lithuania_public/shenxianpeng"><img src="https://user-badge.committers.top/lithuania_public/shenxianpeng.svg" alt="Committers.top rank in Lithuania" height="20"></a>
-<img src="https://komarev.com/ghpvc/?username=shenxianpeng&style=flat&color=blue" alt="Profile views" height="20">
 
 ## Flagship
 
@@ -28,12 +27,15 @@ More than 1000 public repositories run it in CI, including projects from:
 
 <p>
   <a href="https://github.com/apache/orc"><img src="https://github.com/apache.png?size=56" alt="" width="24" align="top"></a> <b>Apache</b>&nbsp;&nbsp;
-  <a href="https://github.com/bloomberg/blazingmq"><img src="https://github.com/bloomberg.png?size=56" alt="" width="24" align="top"></a> <b>Bloomberg</b>&nbsp;&nbsp;
-  <a href="https://github.com/qualcomm/eld"><img src="https://github.com/qualcomm.png?size=56" alt="" width="24" align="top"></a> <b>Qualcomm</b>&nbsp;&nbsp;
   <a href="https://github.com/Samsung/mTower"><img src="https://github.com/Samsung.png?size=56" alt="" width="24" align="top"></a> <b>Samsung</b>&nbsp;&nbsp;
-  <a href="https://github.com/nextcloud/desktop"><img src="https://github.com/nextcloud.png?size=56" alt="" width="24" align="top"></a> <b>Nextcloud</b>&nbsp;&nbsp;
-  <a href="https://github.com/jupyter-xeus/cpp-terminal"><img src="https://github.com/jupyter-xeus.png?size=56" alt="" width="24" align="top"></a> <b>Jupyter</b>
+  <a href="https://github.com/qualcomm/eld"><img src="https://github.com/qualcomm.png?size=56" alt="" width="24" align="top"></a> <b>Qualcomm</b>&nbsp;&nbsp;
+  <a href="https://github.com/bloomberg/blazingmq"><img src="https://github.com/bloomberg.png?size=56" alt="" width="24" align="top"></a> <b>Bloomberg</b>&nbsp;&nbsp;
+  <a href="https://github.com/llnl/AMS"><img src="https://github.com/LLNL.png?size=56" alt="" width="24" align="top"></a> <b>LLNL</b>&nbsp;&nbsp;
+  <a href="https://github.com/stanford-ssi/samwise-flight-software"><img src="https://github.com/stanford-ssi.png?size=56" alt="" width="24" align="top"></a> <b>Stanford SSI</b>&nbsp;&nbsp;
+  <a href="https://github.com/nextcloud/desktop"><img src="https://github.com/nextcloud.png?size=56" alt="" width="24" align="top"></a> <b>Nextcloud</b>
 </p>
+
+It also lints [zeal](https://github.com/zealdocs/zeal), [libvips](https://github.com/libvips/libvips), [DevilutionX](https://github.com/diasurgical/DevilutionX), and [IREE](https://github.com/iree-org/iree).
 
 → [Who else uses it][cpp-linter-showcase]
 
