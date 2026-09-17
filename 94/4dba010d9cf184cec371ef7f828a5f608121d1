@@ -1,0 +1,21 @@
+README.md
+  s_797e3933ee8a97::t_6b065226482b83 38
+  s_797e3933ee8a97::t_7b531bbc7b6c13 31-35
+  s_797e3933ee8a97::t_c1d479a2804e5c 39
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "944dba010d9cf184cec371ef7f828a5f608121d1",
+  "prompts": {},
+  "sessions": {
+    "s_797e3933ee8a97": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "2b4a1047-5655-4524-a769-e344963d8e3f",
+        "model": "claude-fable-5-1"
+      },
+      "human_author": "Xianpeng Shen <xianpeng.shen@gmail.com>"
+    }
+  }
+}
