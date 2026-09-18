@@ -13,7 +13,7 @@ I maintain [cpp-linter][cpp-linter], and run two small product lines on the same
 <a href="https://x.com/xianpengshen"><img src="https://img.shields.io/twitter/follow/xianpengshen?style=social&logo=x" alt="Follow @xianpengshen on X" height="20"></a>
 <a href="https://github.com/sponsors/shenxianpeng"><img src="https://img.shields.io/badge/GitHub-Sponsors-EA4AAA?style=flat&logo=githubsponsors" alt="Sponsor me on GitHub" height="20"></a>
 <a href="https://pypi.org/user/xpshen/"><img src="https://img.shields.io/badge/-PyPI-4B8BBE?style=flat&labelColor=306998&logo=pypi&logoColor=FFE873" alt="My PyPI packages" height="20"></a>
-<a href="https://shenxianpeng.dev/en/portfolio/pypistats/"><img src="https://img.shields.io/badge/-PyPI_Stats-4B8BBE?style=flat&labelColor=306998&logo=pypi&logoColor=FFE873" alt="My PyPI package stats" height="20"></a>
+<a href="https://shenxianpeng.dev/portfolio/pypistats/"><img src="https://img.shields.io/badge/-PyPI_Stats-4B8BBE?style=flat&labelColor=306998&logo=pypi&logoColor=FFE873" alt="My PyPI package stats" height="20"></a>
 <a href="https://user-badge.committers.top/lithuania_public/shenxianpeng"><img src="https://user-badge.committers.top/lithuania_public/shenxianpeng.svg" alt="Committers.top rank in Lithuania" height="20"></a>
 
 ## Flagship
@@ -69,10 +69,10 @@ A native menu bar app over restic: files are encrypted on your Mac before they l
 
 → **[More on my blog][blog]**. Follow along in English on **[X][x]** or by **[RSS][rss]**. 中文读者请关注公众号 **[沈显鹏][qrcode]**。
 
-[about]: https://shenxianpeng.dev/en/about/
+[about]: https://shenxianpeng.dev/about/
 [x]: https://x.com/xianpengshen
-[blog]: https://shenxianpeng.dev/en/posts/
-[rss]: https://shenxianpeng.dev/en/index.xml
+[blog]: https://shenxianpeng.dev/posts/
+[rss]: https://shenxianpeng.dev/index.xml
 [qrcode]: https://github.com/shenxianpeng/blog/blob/main/assets/img/qrcode.jpg
 [sponsors]: https://github.com/sponsors/shenxianpeng
 [cpp-linter]: https://github.com/cpp-linter

@@ -18,7 +18,7 @@ jobs:
           git config user.email github-actions@github.com
       - uses: gautamkrishnar/blog-post-workflow@eba05ad46e6bac02165b77289978caf47699a41f # v1.9.3
         with:
-          feed_list: "https://shenxianpeng.dev/en/index.xml"
+          feed_list: "https://shenxianpeng.dev/index.xml"
           max_post_count: 3
           date_format: mmm d, yyyy
           template: "$newline- [$title]($url) - $date"
