@@ -6,7 +6,7 @@
 
 **I build open-source guardrails for software delivery — linting, commit standards, and CI/CD automation.**
 
-I maintain [cpp-linter][cpp-linter], and run two small product lines on the same principle: [keelinfra][keelinfra] (self-hosted Keycloak for production) and [keelapps][keelapps] (admin tools for Jira and Confluence). To support the open-source work, [sponsor me][sponsors]; to get help running Keycloak, see [keelinfra services][keelinfra-pricing].
+I maintain [cpp-linter][cpp-linter], and run two small product lines: [keelinfra][keelinfra] (self-hosted Keycloak for production) and [keelapps][keelapps] (admin tools for Jira and Confluence). To support the open-source work, [sponsor me][sponsors]; to get help running Keycloak, see [keelinfra services][keelinfra-pricing].
 
 [About][about] · [Blog][blog] · [RSS][rss] · [X][x] · [WeChat][qrcode]
 
