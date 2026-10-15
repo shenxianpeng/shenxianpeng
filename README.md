@@ -64,8 +64,8 @@ A native menu bar app over restic: files are encrypted on your Mac before they l
 
 <!-- BLOG-POST-LIST:START -->
 - [Keelhaven Releases New Version—This Time, Updates Come from Real User Feedback](https://shenxianpeng.dev/posts/2026/keelhaven-0-8-0/) - Sep 9, 2026
-- [mkdocs-ng v1.8.0 Released — Upstream Issues Fixed, Builds ~14% Faster](https://shenxianpeng.dev/posts/2026/mkdocs-ng-1.8/) - Aug 13, 2026
-- [Open Delivery Spec update: AI code shouldn&#39;t just pass the gate — it should leave evidence](https://shenxianpeng.dev/posts/2026/open-delivery-spec-update/) - Aug 8, 2026<!-- BLOG-POST-LIST:END -->
+- [Keelhaven: A Mac Menu Bar App for restic Backups](https://shenxianpeng.dev/posts/2026/keelhaven/) - Sep 3, 2026
+- [mkdocs-ng v1.8.0 Released — Upstream Issues Fixed, Builds ~14% Faster](https://shenxianpeng.dev/posts/2026/mkdocs-ng-1.8/) - Aug 13, 2026<!-- BLOG-POST-LIST:END -->
 
 → **[More on my blog][blog]**. Follow along in English on **[X][x]** or by **[RSS][rss]**. 中文读者请关注公众号 **[沈显鹏][qrcode]**。
 
