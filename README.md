@@ -6,7 +6,7 @@
 
 **I build open-source guardrails for software delivery — linting, commit standards, and CI/CD automation.**
 
-I maintain [cpp-linter][cpp-linter], and run two small product lines: [keelinfra][keelinfra] (self-hosted Keycloak for production) and [keelapps][keelapps] (admin tools for Jira and Confluence). To support the open-source work, [sponsor me][sponsors]; to get help running Keycloak, see [keelinfra services][keelinfra-pricing].
+I maintain [cpp-linter][cpp-linter], and run two small product lines: [keelinfra][keelinfra] (self-hosted Keycloak, and Jenkins agents for legacy build hosts) and [keelapps][keelapps] (admin tools for Jira and Confluence). To support the open-source work, [sponsor me][sponsors]; to get help running Keycloak or Jenkins in production, see keelinfra's [Keycloak][keelinfra-pricing] and [Jenkins][agent8-pricing] plans.
 
 [About][about] · [Blog][blog] · [RSS][rss] · [X][x] · [WeChat][qrcode]
 
@@ -21,7 +21,7 @@ I maintain [cpp-linter][cpp-linter], and run two small product lines: [keelinfra
 **[cpp-linter][cpp-linter]** [![stars](https://img.shields.io/github/stars/cpp-linter/cpp-linter-action?style=social&label=)][cpp-linter-action]<br>
 clang-format and clang-tidy on every pull request, posted back as inline review comments. Ships as a [GitHub Action][cpp-linter-action], a [pre-commit hook][cpp-linter-hooks], and a [Python package][cpp-linter-pypi], with pinned clang tool versions on Linux, macOS, and Windows.
 
-More than 1000 public repositories run it in CI, including projects from:
+GitHub counts more than 1,000 repositories that depend on it, including projects from:
 
 <p>
   <a href="https://github.com/apache/orc"><img src="https://github.com/apache.png?size=56" alt="" width="24" align="top"></a> <b>Apache</b>&nbsp;&nbsp;
@@ -39,11 +39,11 @@ It also lints [zeal](https://github.com/zealdocs/zeal), [libvips](https://github
 
 ## Products
 
-**[keelinfra][keelinfra]** — self-hosted Keycloak you can run in production<br>
-An Apache-2.0 [distribution][keelinfra-keycloak] with HA, backups and point-in-time recovery, monitoring, and upgrade paths re-tested nightly in public CI. Free to run yourself; [subscriptions and fixed-scope services][keelinfra-pricing] for teams that want someone to call.
+**[keelinfra][keelinfra]** — self-hosted infrastructure, proven in public<br>
+An Apache-2.0 [Keycloak distribution][keelinfra-keycloak] with HA, backups and point-in-time recovery, monitoring, and upgrade paths re-tested nightly in public CI. And [Agent8][agent8] (MIT), which runs native Jenkins agents on build hosts stuck on Java 8, 11 or 17, connected to a current controller. Free to run yourself; [subscriptions and fixed-scope services][keelinfra-pricing] for teams that want someone to call.
 
 **[keelapps][keelapps]** — admin tools for Jira and Confluence Cloud<br>
-Permission audits, recurring tasks, scheduled reports, page approvals. Built on Atlassian Forge, so each app runs inside your own tenant. Available on the [Atlassian Marketplace][keelapps-marketplace].
+Twelve apps: permission audits, recurring tasks, scheduled reports, page approvals, bulk page and attachment tools. Built on Atlassian Forge, so each app runs inside your own tenant. Available on the [Atlassian Marketplace][keelapps-marketplace].
 
 **[Keelhaven][keelhaven]** — Mac backup to storage you own<br>
 A native menu bar app over restic: files are encrypted on your Mac before they leave it. Free and open source — no subscription, no telemetry.
@@ -82,7 +82,9 @@ A native menu bar app over restic: files are encrypted on your Mac before they l
 [cpp-linter-showcase]: https://cpp-linter.github.io/showcase/
 [keelinfra]: https://keelinfra.io
 [keelinfra-keycloak]: https://github.com/keelinfra/keycloak
-[keelinfra-pricing]: https://keelinfra.io/pricing/
+[keelinfra-pricing]: https://keelinfra.io/keycloak/pricing/
+[agent8]: https://github.com/keelinfra/agent8
+[agent8-pricing]: https://keelinfra.io/jenkins/pricing/
 [keelapps]: https://keelapps.app
 [keelapps-marketplace]: https://marketplace.atlassian.com/vendors/1003432963/keelapps
 [keelhaven]: https://keelhaven.app
