@@ -63,9 +63,9 @@ A native menu bar app over restic: files are encrypted on your Mac before they l
 ## Writing
 
 <!-- BLOG-POST-LIST:START -->
+- [Old Jenkins Straight to 2.580.1: 12 LTS Lines Fail to Start, Online or Not](https://shenxianpeng.dev/posts/2026/jenkins-2-580-old-upgrade/) - Oct 21, 2026
 - [Jenkins Needs Java 21, Your Old Build Hosts Stop at Java 8: I Built Agent8](https://shenxianpeng.dev/posts/2026/agent8/) - Oct 16, 2026
-- [Keelhaven Releases New Version—This Time, Updates Come from Real User Feedback](https://shenxianpeng.dev/posts/2026/keelhaven-0-8-0/) - Sep 9, 2026
-- [Keelhaven: A Mac Menu Bar App for restic Backups](https://shenxianpeng.dev/posts/2026/keelhaven/) - Sep 3, 2026<!-- BLOG-POST-LIST:END -->
+- [Keelhaven Releases New Version—This Time, Updates Come from Real User Feedback](https://shenxianpeng.dev/posts/2026/keelhaven-0-8-0/) - Sep 9, 2026<!-- BLOG-POST-LIST:END -->
 
 → **[More on my blog][blog]**. Follow along in English on **[X][x]** or by **[RSS][rss]**. 中文读者请关注公众号 **[沈显鹏][qrcode]**。
 
