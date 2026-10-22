@@ -1,0 +1,21 @@
+.github/dependabot.yml
+  s_6535937731a8c8::t_29b05ca5f7d959 1-6
+.github/workflows/blog-post.yml
+  s_6535937731a8c8::t_6c5cafac0d332d 9-11,16-17,24
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "8428ec367232fae63d3ecab29dde68d96dcc34d2",
+  "prompts": {},
+  "sessions": {
+    "s_6535937731a8c8": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "7be933fd-3555-4179-bf89-3d88091b3193",
+        "model": "claude-fable-5-1"
+      },
+      "human_author": "Xianpeng Shen <xianpeng.shen@gmail.com>"
+    }
+  }
+}
