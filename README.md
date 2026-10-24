@@ -1,27 +1,18 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/brand/github-1920x320.png">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/brand/github-dark-1920x320.png">
   <source media="(prefers-color-scheme: light)" srcset="assets/brand/github-light-1920x320.png">
-  <img alt="Xianpeng Shen — Engineer. Builder. Maintainer." src="assets/brand/github-light-1920x320.png">
+  <img alt="From commit to release. commit: commit-check, Conventional Branch. review: cpp-linter. build: explain-error, Agent8. release: Open Delivery Spec." src="assets/brand/github-light-1920x320.png">
 </picture>
 
-**I build open-source guardrails for software delivery — linting, commit standards, and CI/CD automation.**
+I build open-source guardrails for software delivery: the checks that run between a commit and a release, whether a person or an AI agent wrote the code. I have worked on the build, test and release side of software since 2009.
 
-I maintain [cpp-linter][cpp-linter], and run two small product lines: [keelinfra][keelinfra] (self-hosted Keycloak, and Jenkins agents for legacy build hosts) and [keelapps][keelapps] (admin tools for Jira and Confluence). To support the open-source work, [sponsor me][sponsors]; to get help running Keycloak or Jenkins in production, see keelinfra's [Keycloak][keelinfra-pricing] and [Jenkins][agent8-pricing] plans.
+[Blog][blog] · [About][about] · [X][x] · [LinkedIn][linkedin] · [RSS][rss] · [Sponsor][sponsors]
 
-[About][about] · [Blog][blog] · [RSS][rss] · [X][x] · [WeChat][qrcode]
+## Open source
 
-<a href="https://x.com/xianpengshen"><img src="https://img.shields.io/twitter/follow/xianpengshen?style=social&logo=x" alt="Follow @xianpengshen on X" height="20"></a>
-<a href="https://github.com/sponsors/shenxianpeng"><img src="https://img.shields.io/badge/GitHub-Sponsors-EA4AAA?style=flat&logo=githubsponsors" alt="Sponsor me on GitHub" height="20"></a>
-<a href="https://pypi.org/user/xpshen/"><img src="https://img.shields.io/badge/-PyPI-4B8BBE?style=flat&labelColor=306998&logo=pypi&logoColor=FFE873" alt="My PyPI packages" height="20"></a>
-<a href="https://shenxianpeng.dev/portfolio/pypistats/"><img src="https://img.shields.io/badge/-PyPI_Stats-4B8BBE?style=flat&labelColor=306998&logo=pypi&logoColor=FFE873" alt="My PyPI package stats" height="20"></a>
-<a href="https://user-badge.committers.top/lithuania_public/shenxianpeng"><img src="https://user-badge.committers.top/lithuania_public/shenxianpeng.svg" alt="Committers.top rank in Lithuania" height="20"></a>
+`commit` &nbsp;[**commit-check**][commit-check] checks commit messages, branch names, authors, sign-offs and AI attribution from one config file, in CI or as a pre-commit hook. About 55,000 downloads a month on PyPI. Its branch rules follow [**Conventional Branch**][conventional-branch], a naming spec with a JSON Schema and conformance fixtures.
 
-## Flagship
-
-**[cpp-linter][cpp-linter]** [![stars](https://img.shields.io/github/stars/cpp-linter/cpp-linter-action?style=social&label=)][cpp-linter-action]<br>
-clang-format and clang-tidy on every pull request, posted back as inline review comments. Ships as a [GitHub Action][cpp-linter-action], a [pre-commit hook][cpp-linter-hooks], and a [Python package][cpp-linter-pypi], with pinned clang tool versions on Linux, macOS, and Windows.
-
-GitHub counts more than 1,000 repositories that depend on it, including projects from:
+`review` &nbsp;[**cpp-linter**][cpp-linter] runs clang-format and clang-tidy on every pull request and posts the results back as review comments. It ships as a [GitHub Action][cpp-linter-action], a [pre-commit hook][cpp-linter-hooks] and a [Python package][cpp-linter-pypi]. GitHub counts more than 1,000 repositories that depend on it, including projects from:
 
 <p>
   <a href="https://github.com/apache/orc"><img src="https://github.com/apache.png?size=56" alt="" width="24" align="top"></a> <b>Apache</b>&nbsp;&nbsp;
@@ -33,32 +24,17 @@ GitHub counts more than 1,000 repositories that depend on it, including projects
   <a href="https://github.com/nextcloud/desktop"><img src="https://github.com/nextcloud.png?size=56" alt="" width="24" align="top"></a> <b>Nextcloud</b>
 </p>
 
-It also lints [zeal](https://github.com/zealdocs/zeal), [libvips](https://github.com/libvips/libvips), [DevilutionX](https://github.com/diasurgical/DevilutionX), and [IREE](https://github.com/iree-org/iree).
+`build` &nbsp;In the jenkinsci organization I maintain [**explain-error**][explain-error-plugin], which explains failed Jenkins builds with AI, and [**jenkinsfilelint**][jenkinsfilelint]. [**Agent8**][agent8] keeps build hosts stuck on Java 8 connected to a current Jenkins.
 
-→ [Who else uses it][cpp-linter-showcase]
+`release` &nbsp;[**Open Delivery Spec**][ods] records what was built, tested, reviewed and deployed, as evidence a machine can check. It is early, and it is what I am building now.
 
-## Products
+Also [gitstats][gitstats], [mkdocs-ng][mkdocs], and merged pull requests in [Python][python-prs] and [PyPA][pypa-prs].
 
-**[keelinfra][keelinfra]** — self-hosted infrastructure, proven in public<br>
-An Apache-2.0 [Keycloak distribution][keelinfra-keycloak] with HA, backups and point-in-time recovery, monitoring, and upgrade paths re-tested nightly in public CI. And [Agent8][agent8] (MIT), which runs native Jenkins agents on build hosts stuck on Java 8, 11 or 17, connected to a current controller. Free to run yourself; [subscriptions and fixed-scope services][keelinfra-pricing] for teams that want someone to call.
+## Infrastructure you own
 
-**[keelapps][keelapps]** — admin tools for Jira and Confluence Cloud<br>
-Twelve apps: permission audits, recurring tasks, scheduled reports, page approvals, bulk page and attachment tools. Built on Atlassian Forge, so each app runs inside your own tenant. Available on the [Atlassian Marketplace][keelapps-marketplace].
-
-**[Keelhaven][keelhaven]** — Mac backup to storage you own<br>
-A native menu bar app over restic: files are encrypted on your Mac before they leave it. Free and open source — no subscription, no telemetry.
-
-<details>
-<summary><b>More open source</b> — commit-check, Conventional Branch, Open Delivery Spec, Jenkins plugins</summary>
-<br>
-
-- **[commit-check][commit-check]** — enforce commit message, branch naming, and AI-attribution rules, in CI or as a pre-commit hook.
-- **[Conventional Branch][conventional-branch]** — a naming specification for Git branches, with a JSON Schema and conformance fixtures. Lives at [conventionalbranch.org](https://conventionalbranch.org).
-- **[Open Delivery Spec][ods]** — machine-parseable schemas for delivery governance: what was built, tested, reviewed, and deployed, as evidence a machine can check. [spec][ods-spec] · [cli][ods-cli] · [validate-action][ods-validate-action]
-- **Jenkins** — [explain-error-plugin][explain-error-plugin] (AI diagnosis of build failures) and [jenkinsfilelint][jenkinsfilelint].
-- Also [gitstats][gitstats] and [mkdocs-ng][mkdocs]. Contributor to [Python][python-prs] and [PyPA][pypa-prs].
-
-</details>
+- [**keelinfra**][keelinfra]: a production [Keycloak distribution][keelinfra-keycloak] with HA, point-in-time recovery and upgrade paths re-tested every night in public CI, plus [Agent8][agent8] and a [Jenkins upgrade check][jenkins-upgrade-check]. Free to run yourself, with [support plans][keelinfra-pricing] for teams that want someone to call.
+- [**keelapps**][keelapps]: twelve admin apps for Jira and Confluence Cloud, built on Forge so they run inside your own tenant.
+- [**Keelhaven**][keelhaven]: Mac backup to storage you own. Free and open source.
 
 ## Writing
 
@@ -67,36 +43,32 @@ A native menu bar app over restic: files are encrypted on your Mac before they l
 - [Jenkins Needs Java 21, Your Old Build Hosts Stop at Java 8: I Built Agent8](https://shenxianpeng.dev/posts/2026/agent8/) - Oct 16, 2026
 - [Keelhaven Releases New Version—This Time, Updates Come from Real User Feedback](https://shenxianpeng.dev/posts/2026/keelhaven-0-8-0/) - Sep 9, 2026<!-- BLOG-POST-LIST:END -->
 
-→ **[More on my blog][blog]**. Follow along in English on **[X][x]** or by **[RSS][rss]**. 中文读者请关注公众号 **[沈显鹏][qrcode]**。
+More [on the blog][blog]. 中文读者请关注公众号「[沈显鹏][qrcode]」。
 
 [about]: https://shenxianpeng.dev/about/
-[x]: https://x.com/xianpengshen
 [blog]: https://shenxianpeng.dev/posts/
 [rss]: https://shenxianpeng.dev/index.xml
+[x]: https://x.com/xianpengshen
+[linkedin]: https://www.linkedin.com/in/xianpeng-shen/
 [qrcode]: https://github.com/shenxianpeng/blog/blob/main/assets/img/qrcode.jpg
 [sponsors]: https://github.com/sponsors/shenxianpeng
+[commit-check]: https://github.com/commit-check/commit-check
+[conventional-branch]: https://conventionalbranch.org
 [cpp-linter]: https://github.com/cpp-linter
 [cpp-linter-action]: https://github.com/cpp-linter/cpp-linter-action
 [cpp-linter-hooks]: https://github.com/cpp-linter/cpp-linter-hooks
 [cpp-linter-pypi]: https://pypi.org/project/cpp-linter/
-[cpp-linter-showcase]: https://cpp-linter.github.io/showcase/
+[explain-error-plugin]: https://github.com/jenkinsci/explain-error-plugin
+[jenkinsfilelint]: https://github.com/jenkinsci/jenkinsfilelint
+[agent8]: https://github.com/keelinfra/agent8
+[ods]: https://github.com/open-delivery-spec
+[gitstats]: https://github.com/shenxianpeng/gitstats
+[mkdocs]: https://github.com/mkdocs-ng/mkdocs
+[python-prs]: https://github.com/search?q=is%3Apr+author%3Ashenxianpeng+is%3Amerged+user%3Apython&type=pullrequests
+[pypa-prs]: https://github.com/search?q=is%3Apr+author%3Ashenxianpeng+is%3Amerged+user%3Apypa&type=pullrequests
 [keelinfra]: https://keelinfra.io
 [keelinfra-keycloak]: https://github.com/keelinfra/keycloak
 [keelinfra-pricing]: https://keelinfra.io/keycloak/pricing/
-[agent8]: https://github.com/keelinfra/agent8
-[agent8-pricing]: https://keelinfra.io/jenkins/pricing/
+[jenkins-upgrade-check]: https://github.com/keelinfra/jenkins-upgrade-check
 [keelapps]: https://keelapps.app
-[keelapps-marketplace]: https://marketplace.atlassian.com/vendors/1003432963/keelapps
 [keelhaven]: https://keelhaven.app
-[commit-check]: https://github.com/commit-check/commit-check
-[conventional-branch]: https://github.com/conventional-branch/conventional-branch
-[explain-error-plugin]: https://github.com/jenkinsci/explain-error-plugin
-[jenkinsfilelint]: https://github.com/jenkinsci/jenkinsfilelint
-[gitstats]: https://github.com/shenxianpeng/gitstats
-[mkdocs]: https://github.com/mkdocs-ng/mkdocs
-[ods]: https://github.com/open-delivery-spec
-[ods-spec]: https://github.com/open-delivery-spec/spec
-[ods-cli]: https://github.com/open-delivery-spec/cli
-[ods-validate-action]: https://github.com/open-delivery-spec/validate-action
-[pypa-prs]: https://github.com/search?q=is%3Apr+author%3Ashenxianpeng+is%3Amerged+user%3Apypa&type=pullrequests
-[python-prs]: https://github.com/search?q=is%3Apr+author%3Ashenxianpeng+is%3Amerged+user%3Apython&type=pullrequests
