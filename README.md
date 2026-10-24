@@ -32,7 +32,7 @@ Also [gitstats][gitstats], which turns a Git history into an HTML report, [mkdoc
 
 ## Infrastructure you own
 
-- [**keelinfra**][keelinfra]: [Agent8][agent8] for Jenkins build hosts stuck on Java 8, tested in public CI. Free and open source.
+- [**keelinfra**][keelinfra]: [Agent8][agent8], which keeps build hosts stuck on Java 8 (AIX, Solaris, HP-UX) connected to a current Jenkins, and [release-ledger][release-ledger], which records the EU Cyber Resilience Act evidence for every release. Free to run yourself, with [support plans][keelinfra-pricing] for teams that want someone to call.
 - [**keelapps**][keelapps]: twelve admin apps for Jira and Confluence Cloud, built on Forge so they run inside your own tenant.
 - [**Keelhaven**][keelhaven]: Mac backup to storage you own. Free and open source.
 
@@ -68,5 +68,6 @@ More [on the blog][blog]. 中文读者请关注公众号「[沈显鹏][qrcode]�
 [python-prs]: https://github.com/search?q=is%3Apr+author%3Ashenxianpeng+is%3Amerged+user%3Apython&type=pullrequests
 [pypa-prs]: https://github.com/search?q=is%3Apr+author%3Ashenxianpeng+is%3Amerged+user%3Apypa&type=pullrequests
 [keelinfra]: https://keelinfra.io
+[keelinfra-pricing]: https://keelinfra.io/jenkins/pricing/
 [keelapps]: https://keelapps.app
 [keelhaven]: https://keelhaven.app
