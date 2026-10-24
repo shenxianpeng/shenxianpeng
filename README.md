@@ -1,7 +1,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/brand/github-dark-1920x320.png">
   <source media="(prefers-color-scheme: light)" srcset="assets/brand/github-light-1920x320.png">
-  <img alt="From commit to release. commit: commit-check, Conventional Branch. review: cpp-linter. build: explain-error, Agent8. release: Open Delivery Spec." src="assets/brand/github-light-1920x320.png">
+  <img alt="From commit to release. commit: commit-check, Conventional Branch. review: cpp-linter. build: explain-error, Agent8. release: clang-tools static binaries." src="assets/brand/github-light-1920x320.png">
 </picture>
 
 I build open-source guardrails for software delivery: the checks that run between a commit and a release, whether a person or an AI agent wrote the code. I have worked on the build, test and release side of software since 2009.
@@ -26,7 +26,7 @@ I build open-source guardrails for software delivery: the checks that run betwee
 
 `build` &nbsp;In the jenkinsci organization I maintain [**explain-error**][explain-error-plugin], which explains failed Jenkins builds with AI, and [**jenkinsfilelint**][jenkinsfilelint]. [**Agent8**][agent8] keeps build hosts stuck on Java 8 connected to a current Jenkins.
 
-`release` &nbsp;[**Open Delivery Spec**][ods] records what was built, tested, reviewed and deployed, as evidence a machine can check. It is early, and it is what I am building now.
+`release` &nbsp;I run the release pipeline for [**clang-tools**][clang-tools]: static clang-format and clang-tidy binaries for Linux, macOS and Windows, one release per LLVM version, downloaded more than 750,000 times. I also maintain its [PyPI installer][clang-tools-pip], which cpp-linter uses to install the tools, and the [Docker images][clang-tools-docker].
 
 Also [gitstats][gitstats], [mkdocs-ng][mkdocs], and merged pull requests in [Python][python-prs] and [PyPA][pypa-prs].
 
@@ -61,7 +61,9 @@ More [on the blog][blog]. 中文读者请关注公众号「[沈显鹏][qrcode]�
 [explain-error-plugin]: https://github.com/jenkinsci/explain-error-plugin
 [jenkinsfilelint]: https://github.com/jenkinsci/jenkinsfilelint
 [agent8]: https://github.com/keelinfra/agent8
-[ods]: https://github.com/open-delivery-spec
+[clang-tools]: https://github.com/cpp-linter/clang-tools-static-binaries
+[clang-tools-pip]: https://github.com/cpp-linter/clang-tools-pip
+[clang-tools-docker]: https://github.com/cpp-linter/clang-tools-docker
 [gitstats]: https://github.com/shenxianpeng/gitstats
 [mkdocs]: https://github.com/mkdocs-ng/mkdocs
 [python-prs]: https://github.com/search?q=is%3Apr+author%3Ashenxianpeng+is%3Amerged+user%3Apython&type=pullrequests

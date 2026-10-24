@@ -2,7 +2,7 @@
 
 "From commit to release." 横幅：一条全部通过的流水线，每一站标出在那里运行的项目
 （commit → commit-check / Conventional Branch，review → cpp-linter，
-build → explain-error / Agent8，release → Open Delivery Spec）。
+build → explain-error / Agent8，release → clang-tools 静态二进制）。
 
 配色和字体与博客 shenxianpeng.dev 的 Evergreen 设计系统一致
 （`shenxianpeng/blog` 的 `assets/css/schemes/evergreen.css` 与 `DESIGN.md`）：

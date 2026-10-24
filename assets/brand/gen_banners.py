@@ -29,7 +29,7 @@ STAGES = [
     ("commit", "commit-check", "Conventional Branch"),
     ("review", "cpp-linter", ""),
     ("build", "explain-error", "Agent8"),
-    ("release", "Open Delivery Spec", ""),
+    ("release", "clang-tools", "static binaries"),
 ]
 
 
@@ -79,7 +79,7 @@ def github(theme):
     w, h = 1920, 320
     body = f'''<text x="128" y="144" class="h" font-size="82" fill="{t['ink']}">From commit</text>
 <text x="128" y="232" class="h" font-size="82" fill="{t['ink']}">to release.</text>
-{pipeline(t, 820, 1651, 146, 1.1)}'''
+{pipeline(t, 820, 1700, 146, 1.1)}'''
     return w, h, page(w, h, t, body)
 
 
@@ -89,7 +89,7 @@ def x_header():
     w, h = 1500, 500
     body = f'''<text x="1380" y="100" text-anchor="end" class="meta" font-size="22" fill="{t['muted']}">shenxianpeng.dev</text>
 <text x="1380" y="206" text-anchor="end" class="h" font-size="104" fill="{t['ink']}">From commit to release.</text>
-{pipeline(t, 541, 1261, 318, 0.95)}'''
+{pipeline(t, 541, 1300, 318, 0.95)}'''
     return w, h, page(w, h, t, body)
 
 
@@ -99,7 +99,7 @@ def linkedin():
     w, h = 1584, 396
     body = f'''<text x="1480" y="62" text-anchor="end" class="meta" font-size="20" fill="{t['muted']}">shenxianpeng.dev</text>
 <text x="1480" y="150" text-anchor="end" class="h" font-size="84" fill="{t['ink']}">From commit to release.</text>
-{pipeline(t, 596, 1355, 244, 1.0)}'''
+{pipeline(t, 596, 1398, 244, 1.0)}'''
     return w, h, page(w, h, t, body)
 
 
