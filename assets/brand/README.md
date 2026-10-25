@@ -1,23 +1,25 @@
 # Personal Brand Assets · 个人品牌素材
 
-"From commit to release." 横幅。X 和 LinkedIn 两张画的是一条全部通过的流水线，每一站标出在那里运行的项目
-（commit → commit-check / Conventional Branch，review → cpp-linter，
-build → explain-error / Agent8，release → release-ledger）。
+"From commit to release." 横幅：一句标题，下面一条带四个点的线，代表 commit → review → build → release
+四个阶段。图上不放阶段名和项目名：GitHub、X、LinkedIn 在桌面上把图缩到原宽的三分之一到一半，
+手机上缩到四分之一以下，小字缩完都看不清。阶段和项目写在 README 正文、X 简介和 LinkedIn About 里。
 
-GitHub 主页那两张只留一句标题，流水线只画成标题下一条带四个点的线。GitHub 会把 1920 px 宽的图缩到
-桌面 846 px、手机 308 px 显示，原图里 60 px 以下的字缩完都比 GitHub 自己最小的 12 px 字还小；
-四个阶段和项目名写在紧接着的 README 正文里。
+| 平台 | 原图宽 | 桌面显示宽 | 手机显示宽 | 标题在桌面 / 手机上的大小 |
+| --- | --- | --- | --- | --- |
+| GitHub | 1920 | 846 | 308 | 53 / 19 px |
+| X | 1500 | 约 600 | 约 390 | 42 / 27 px |
+| LinkedIn | 1584 | 约 804 | 约 390 | 43 / 21 px |
 
 配色和字体与博客 shenxianpeng.dev 的 Evergreen 设计系统一致
 （`shenxianpeng/blog` 的 `assets/css/schemes/evergreen.css` 与 `DESIGN.md`）：
-深色 `#111914` / 浅色 `#F2F3EF` 底，强调色 `#4FB88A` / `#1D6A4B`，Geist 与 Geist Mono。
+深色 `#111914` / 浅色 `#F2F3EF` 底，强调色 `#4FB88A` / `#1D6A4B`，Geist。
 
 | File | Size | Intended use |
 | --- | --- | --- |
 | `github-dark-1920x320.png` | 1920×320 | GitHub 主页 README，深色主题。只有标题，不写名字和网址，页面本身已有 |
 | `github-light-1920x320.png` | 1920×320 | GitHub 主页 README，浅色主题 |
-| `x-1500x500.png` | 1500×500 | X 头图。文字在 x ≥ 437 区域，避开左下角头像 |
-| `linkedin-1584x396.png` | 1584×396 | LinkedIn 背景图。文字在 x ≥ 487 区域，避开左侧头像 |
+| `x-1500x500.png` | 1500×500 | X 头图，深色，右对齐。左下角（x < 375、y > 333）留给头像 |
+| `linkedin-1584x396.png` | 1584×396 | LinkedIn 背景图，深色，右对齐。左侧（x < 347）留给头像 |
 
 以上四张由 `gen_banners.py` 生成，改文案或项目后重跑即可：
 
