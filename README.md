@@ -39,9 +39,9 @@ Also [gitstats][gitstats], which turns a Git history into an HTML report, [mkdoc
 ## Writing
 
 <!-- BLOG-POST-LIST:START -->
+- [After OVHcloud&#39;s Release Was Swapped: Three in Four Popular CLIs Could Be Too](https://shenxianpeng.dev/posts/2026/swappable-github-releases/) - Oct 24, 2026
 - [Jira Is Moving to the Cloud. What Happens to Jenkins and Bitbucket?](https://shenxianpeng.dev/posts/2026/jira-cloud-jenkins-bitbucket/) - Oct 24, 2026
-- [Open-Source AI Coding Index, 2026 Q3: 13.2% of Commits in 20 Large Projects Name an AI Assistant](https://shenxianpeng.dev/posts/2026/ai-coding-index-q3/) - Oct 24, 2026
-- [Who Writes Open Source? What the Commit Addresses of 107 Projects Say](https://shenxianpeng.dev/posts/2026/who-commits-to-open-source/) - Oct 24, 2026<!-- BLOG-POST-LIST:END -->
+- [Open-Source AI Coding Index, 2026 Q3: 13.2% of Commits in 20 Large Projects Name an AI Assistant](https://shenxianpeng.dev/posts/2026/ai-coding-index-q3/) - Oct 24, 2026<!-- BLOG-POST-LIST:END -->
 
 More [on the blog][blog]. 中文读者请关注公众号「[沈显鹏][qrcode]」。
 
