@@ -1,8 +1,12 @@
 # Personal Brand Assets · 个人品牌素材
 
-"From commit to release." 横幅：一条全部通过的流水线，每一站标出在那里运行的项目
+"From commit to release." 横幅。X 和 LinkedIn 两张画的是一条全部通过的流水线，每一站标出在那里运行的项目
 （commit → commit-check / Conventional Branch，review → cpp-linter，
 build → explain-error / Agent8，release → release-ledger）。
+
+GitHub 主页那两张只留一句标题，流水线只画成标题下一条带四个点的线。GitHub 会把 1920 px 宽的图缩到
+桌面 846 px、手机 308 px 显示，原图里 60 px 以下的字缩完都比 GitHub 自己最小的 12 px 字还小；
+四个阶段和项目名写在紧接着的 README 正文里。
 
 配色和字体与博客 shenxianpeng.dev 的 Evergreen 设计系统一致
 （`shenxianpeng/blog` 的 `assets/css/schemes/evergreen.css` 与 `DESIGN.md`）：
@@ -10,7 +14,7 @@ build → explain-error / Agent8，release → release-ledger）。
 
 | File | Size | Intended use |
 | --- | --- | --- |
-| `github-dark-1920x320.png` | 1920×320 | GitHub 主页 README，深色主题。不写名字和网址，页面本身已有 |
+| `github-dark-1920x320.png` | 1920×320 | GitHub 主页 README，深色主题。只有标题，不写名字和网址，页面本身已有 |
 | `github-light-1920x320.png` | 1920×320 | GitHub 主页 README，浅色主题 |
 | `x-1500x500.png` | 1500×500 | X 头图。文字在 x ≥ 437 区域，避开左下角头像 |
 | `linkedin-1584x396.png` | 1584×396 | LinkedIn 背景图。文字在 x ≥ 487 区域，避开左侧头像 |

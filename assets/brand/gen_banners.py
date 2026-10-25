@@ -1,7 +1,9 @@
 """Render the profile banners in the blog's Evergreen design system.
 
-The banner is a passing pipeline, drawn the way Jenkins and GitHub Actions
-draw one: stage name, a green check, and the project that runs at that stage.
+The X and LinkedIn headers show a passing pipeline, drawn the way Jenkins and
+GitHub Actions draw one: stage name, a green check, and the project that runs
+at that stage. The GitHub README banner keeps only the headline and the
+pipeline's line, because GitHub shrinks the image (see github()).
 Colours and fonts come from shenxianpeng/blog (assets/css/schemes/evergreen.css,
 DESIGN.md): Geist for type, Geist Mono for stage names.
 
@@ -55,7 +57,7 @@ def pipeline(t, x0, x1, y, s):
     return "\n".join(out)
 
 
-def page(w, h, t, body):
+def head(w, h, t):
     return f"""<!doctype html><html><head><meta charset="utf-8">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Geist:wght@400..800&family=Geist+Mono:wght@400..600&display=swap">
 <style>
@@ -69,18 +71,38 @@ svg{{display:block}}
 .proj{{font-family:Geist,system-ui,sans-serif;font-weight:600;letter-spacing:-0.01em}}
 .sub{{font-weight:500}}
 </style></head><body>
-<svg width="{w}" height="{h}" viewBox="0 0 {w} {h}" xmlns="http://www.w3.org/2000/svg">{body}</svg>
+"""
+
+
+def page(w, h, t, body):
+    """An SVG page."""
+    return head(w, h, t) + f"""<svg width="{w}" height="{h}" viewBox="0 0 {w} {h}" xmlns="http://www.w3.org/2000/svg">{body}</svg>
 </body></html>"""
 
 
 def github(theme):
-    """README banner. No name or URL: the profile page shows both."""
+    """README banner: the headline, and the pipeline as a line with one dot per stage.
+
+    GitHub shows this 1920 px image 846 px wide on a desktop and 308 px wide on
+    a phone, so text under about 60 px here ends up smaller than GitHub's own
+    12 px type. The stage and project names live in the README right below.
+    The line spans the headline, so it is laid out in HTML rather than SVG.
+    No name or URL: the profile page shows both.
+    """
     t = THEMES[theme]
     w, h = 1920, 320
-    body = f'''<text x="128" y="144" class="h" font-size="82" fill="{t['ink']}">From commit</text>
-<text x="128" y="232" class="h" font-size="82" fill="{t['ink']}">to release.</text>
-{pipeline(t, 820, 1680, 146, 1.1)}'''
-    return w, h, page(w, h, t, body)
+    dot = f'<span style="width:19px;height:19px;border-radius:50%;background:{t["accent"]}"></span>'
+    body = f'''<div style="height:{h}px;box-sizing:border-box;padding:0 128px;display:flex;align-items:center">
+  <div style="display:inline-flex;flex-direction:column;gap:34px">
+    <div class="h" style="font-size:120px;line-height:1;color:{t['ink']};white-space:nowrap">From commit to release.</div>
+    <div style="position:relative;height:19px">
+      <div style="position:absolute;left:9px;right:9px;top:8px;height:3px;background:{t['accent']}"></div>
+      <div style="position:relative;display:flex;justify-content:space-between">{dot * len(STAGES)}</div>
+    </div>
+  </div>
+</div>
+</body></html>'''
+    return w, h, head(w, h, t) + body
 
 
 def x_header():
