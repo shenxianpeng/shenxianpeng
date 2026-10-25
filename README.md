@@ -40,8 +40,8 @@ Also [gitstats][gitstats], which turns a Git history into an HTML report, [mkdoc
 
 <!-- BLOG-POST-LIST:START -->
 - [Jira Is Moving to the Cloud. What Happens to Jenkins and Bitbucket?](https://shenxianpeng.dev/posts/2026/jira-cloud-jenkins-bitbucket/) - Oct 24, 2026
-- [Old Jenkins Straight to 2.580.1: 12 LTS Lines Fail to Start, Online or Not](https://shenxianpeng.dev/posts/2026/jenkins-2-580-old-upgrade/) - Oct 21, 2026
-- [Jenkins Needs Java 21, Your Old Build Hosts Stop at Java 8: I Built Agent8](https://shenxianpeng.dev/posts/2026/agent8/) - Oct 16, 2026<!-- BLOG-POST-LIST:END -->
+- [Open-Source AI Coding Index, 2026 Q3: 13.2% of Commits in 20 Large Projects Name an AI Assistant](https://shenxianpeng.dev/posts/2026/ai-coding-index-q3/) - Oct 24, 2026
+- [Who Writes Open Source? What the Commit Addresses of 107 Projects Say](https://shenxianpeng.dev/posts/2026/who-commits-to-open-source/) - Oct 24, 2026<!-- BLOG-POST-LIST:END -->
 
 More [on the blog][blog]. 中文读者请关注公众号「[沈显鹏][qrcode]」。
 
