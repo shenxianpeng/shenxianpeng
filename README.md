@@ -28,13 +28,7 @@ I build open-source guardrails for software delivery: the checks that run betwee
 
 `release` &nbsp;[**release-ledger**][release-ledger], my newest project, runs when you publish a release. It attaches an SBOM, signs build provenance, and then checks every version still in its support period against known exploited vulnerabilities, which the EU Cyber Resilience Act now requires you to report within 24 hours.
 
-Also [gitstats][gitstats], which turns a Git history into an HTML report, [mkdocs-ng][mkdocs], and merged pull requests in [Python][python-prs] and [PyPA][pypa-prs].
-
-## Infrastructure you own
-
-- [**keelinfra**][keelinfra]: [support plans][keelinfra-pricing] for Agent8 and release-ledger, for teams that want someone to call. Both stay free to run yourself.
-- [**keelapps**][keelapps]: twelve admin apps for Jira and Confluence Cloud, built on Forge so they run inside your own tenant.
-- [**Keelhaven**][keelhaven]: Mac backup to storage you own. Free and open source.
+Also [gitstats][gitstats] (a Git history as an HTML report), [Keelhaven][keelhaven] (Mac backups to storage you own), [mkdocs-ng][mkdocs], and merged pull requests in [Python][python-prs] and [PyPA][pypa-prs].
 
 ## Writing
 
@@ -67,7 +61,4 @@ More [on the blog][blog]. 中文读者请关注公众号「[沈显鹏][qrcode]�
 [mkdocs]: https://github.com/mkdocs-ng/mkdocs
 [python-prs]: https://github.com/search?q=is%3Apr+author%3Ashenxianpeng+is%3Amerged+user%3Apython&type=pullrequests
 [pypa-prs]: https://github.com/search?q=is%3Apr+author%3Ashenxianpeng+is%3Amerged+user%3Apypa&type=pullrequests
-[keelinfra]: https://keelinfra.io
-[keelinfra-pricing]: https://keelinfra.io/jenkins/pricing/
-[keelapps]: https://keelapps.app
-[keelhaven]: https://keelhaven.app
+[keelhaven]: https://github.com/shenxianpeng/keelhaven
