@@ -6,7 +6,9 @@
 
 I build open-source guardrails for software delivery: the checks that run between a commit and a release, whether a person or an AI agent wrote the code. I have worked on the build, test and release side of software since 2009.
 
-[Blog][blog] · [About][about] · [X][x] · [LinkedIn][linkedin] · [RSS][rss] · [Sponsor][sponsors]
+I think the old systems, small teams and niche tools that big vendors leave behind still deserve to be maintained well.
+
+[Blog][blog] · [About][about] · [X][x] · [LinkedIn][linkedin] · [公众号「沈显鹏」][qrcode] · [RSS][rss] · [Sponsor][sponsors]
 
 ## Open source
 
