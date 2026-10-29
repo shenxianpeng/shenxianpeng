@@ -4,15 +4,15 @@
   <img alt="From commit to release." src="assets/brand/github-light-1920x320.png">
 </picture>
 
-I build open-source guardrails for software delivery: the checks that run between a commit and a release, whether a person or an AI agent wrote the code. I have worked on the build, test and release side of software since 2009.
+I build open-source guardrails for software delivery: the checks between a commit and a release, whether a person or an AI agent wrote the code.
 
 [Blog][blog] · [About][about] · [X][x] · [LinkedIn][linkedin] · [RSS][rss] · [Sponsor][sponsors]
 
 ## Open source
 
-`commit` &nbsp;[**commit-check**][commit-check] checks commit messages, branch names, authors, sign-offs and AI attribution from one config file, in CI or as a pre-commit hook. About 55,000 downloads a month on PyPI. Its branch rules follow [**Conventional Branch**][conventional-branch], a naming spec with a JSON Schema and conformance fixtures.
+`commit` &nbsp;[**commit-check**][commit-check]: checks commit messages, branch names and AI attribution, in CI or as a pre-commit hook. About 55,000 downloads a month.
 
-`review` &nbsp;[**cpp-linter**][cpp-linter] runs clang-format and clang-tidy on every pull request and posts the results back as review comments. It ships as a [GitHub Action][cpp-linter-action], a [pre-commit hook][cpp-linter-hooks] and a [Python package][cpp-linter-pypi]. The clang-format and clang-tidy it runs come from the [static binaries][clang-tools] I maintain for each LLVM version, downloaded more than 750,000 times. GitHub counts more than 1,000 repositories that depend on cpp-linter, including projects from:
+`review` &nbsp;[**cpp-linter**][cpp-linter]: runs clang-format and clang-tidy on every pull request. More than 1,000 repositories depend on it, including projects from:
 
 <p>
   <a href="https://github.com/apache/orc"><img src="https://github.com/apache.png?size=56" alt="" width="24" align="top"></a> <b>Apache</b>&nbsp;&nbsp;
@@ -24,11 +24,11 @@ I build open-source guardrails for software delivery: the checks that run betwee
   <a href="https://github.com/nextcloud/desktop"><img src="https://github.com/nextcloud.png?size=56" alt="" width="24" align="top"></a> <b>Nextcloud</b>
 </p>
 
-`build` &nbsp;[**explain-error**][explain-error-plugin] explains failed Jenkins builds with AI. I maintain it and [**jenkinsfilelint**][jenkinsfilelint] in the jenkinsci organization. [**Agent8**][agent8] keeps build hosts stuck on Java 8 (AIX, Solaris, HP-UX) connected to a current Jenkins.
+`build` &nbsp;[**explain-error**][explain-error-plugin]: explains failed Jenkins builds with AI. [**Agent8**][agent8] keeps Java 8 build hosts (AIX, Solaris, HP-UX) on a current Jenkins.
 
-`release` &nbsp;[**release-ledger**][release-ledger], my newest project, runs when you publish a release. It attaches an SBOM, signs build provenance, and then checks every version still in its support period against known exploited vulnerabilities, which the EU Cyber Resilience Act now requires you to report within 24 hours.
+`release` &nbsp;[**release-ledger**][release-ledger]: attaches an SBOM, signs provenance and checks every supported version against known exploited vulnerabilities.
 
-Also [gitstats][gitstats] (a Git history as an HTML report), [Keelhaven][keelhaven] (Mac backups to storage you own), [mkdocs-ng][mkdocs], and merged pull requests in [Python][python-prs] and [PyPA][pypa-prs].
+Also: [Conventional Branch][conventional-branch] · [gitstats][gitstats] · [Keelhaven][keelhaven] · [mkdocs-ng][mkdocs] · merged PRs in [Python][python-prs] and [PyPA][pypa-prs]
 
 ## Writing
 
@@ -49,13 +49,8 @@ More [on the blog][blog]. 中文读者请关注公众号「[沈显鹏][qrcode]�
 [commit-check]: https://github.com/commit-check/commit-check
 [conventional-branch]: https://conventionalbranch.org
 [cpp-linter]: https://github.com/cpp-linter
-[cpp-linter-action]: https://github.com/cpp-linter/cpp-linter-action
-[cpp-linter-hooks]: https://github.com/cpp-linter/cpp-linter-hooks
-[cpp-linter-pypi]: https://pypi.org/project/cpp-linter/
 [explain-error-plugin]: https://github.com/jenkinsci/explain-error-plugin
-[jenkinsfilelint]: https://github.com/jenkinsci/jenkinsfilelint
 [agent8]: https://github.com/keelinfra/agent8
-[clang-tools]: https://github.com/cpp-linter/clang-tools-static-binaries
 [release-ledger]: https://github.com/keelinfra/release-ledger
 [gitstats]: https://github.com/shenxianpeng/gitstats
 [mkdocs]: https://github.com/mkdocs-ng/mkdocs
