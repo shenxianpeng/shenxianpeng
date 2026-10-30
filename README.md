@@ -6,7 +6,7 @@
 
 I build open-source guardrails for software delivery: the checks between a commit and a release, whether a person or an AI agent wrote the code.
 
-[Blog][blog] · [About][about] · [X][x] · [LinkedIn][linkedin] · [RSS][rss] · [Sponsor][sponsors]
+[Blog][blog] · [About][about] · [X][x] · [LinkedIn][linkedin] · [RSS][rss]
 
 ## Open source
 
@@ -45,7 +45,6 @@ More [on the blog][blog]. 中文读者请关注公众号「[沈显鹏][qrcode]�
 [x]: https://x.com/xianpengshen
 [linkedin]: https://www.linkedin.com/in/xianpeng-shen/
 [qrcode]: https://github.com/shenxianpeng/blog/blob/main/assets/img/qrcode.jpg
-[sponsors]: https://github.com/sponsors/shenxianpeng
 [commit-check]: https://github.com/commit-check/commit-check
 [conventional-branch]: https://conventionalbranch.org
 [cpp-linter]: https://github.com/cpp-linter
