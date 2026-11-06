@@ -33,9 +33,9 @@ Also: [Conventional Branch][conventional-branch] · [gitstats][gitstats] · [Kee
 ## Writing
 
 <!-- BLOG-POST-LIST:START -->
+- [pybadges Fails on Python 3.13: How to Fix &quot;No module named &#39;imghdr&#39;&quot;](https://shenxianpeng.dev/posts/2026/pybadges-imghdr/) - Nov 6, 2026
 - [Six Months of Maintaining MkDocs NG: Why I Keep Going](https://shenxianpeng.dev/posts/2026/mkdocs-ng-1.11/) - Nov 4, 2026
-- [After OVHcloud&#39;s Release Was Swapped: Three in Four Popular CLIs Could Be Too](https://shenxianpeng.dev/posts/2026/swappable-github-releases/) - Oct 24, 2026
-- [Jira Is Moving to the Cloud. What Happens to Jenkins and Bitbucket?](https://shenxianpeng.dev/posts/2026/jira-cloud-jenkins-bitbucket/) - Oct 24, 2026<!-- BLOG-POST-LIST:END -->
+- [After OVHcloud&#39;s Release Was Swapped: Three in Four Popular CLIs Could Be Too](https://shenxianpeng.dev/posts/2026/swappable-github-releases/) - Oct 24, 2026<!-- BLOG-POST-LIST:END -->
 
 More [on the blog][blog]. 中文读者请关注公众号「[沈显鹏][qrcode]」。
 
