@@ -28,9 +28,9 @@ Open-source guardrails for software delivery, whether a person or an AI agent wr
 
 `build` &nbsp;[**explain-error**][explain-error-plugin]: explains failed Jenkins builds with AI. [**Agent8**][agent8] keeps Java 8 build hosts (AIX, Solaris, HP-UX) on a current Jenkins.
 
-`release` &nbsp;[**release-ledger**][release-ledger]: attaches an SBOM, signs provenance and checks every supported version against known exploited vulnerabilities.
+`release` &nbsp;[**clang-tools-static-binaries**][clang-tools]: builds and publishes static clang-format, clang-tidy and other LLVM tools for every LLVM version, so nobody has to build LLVM. Downloaded more than 750,000 times.
 
-Also: [Conventional Branch][conventional-branch] · [gitstats][gitstats] · [Keelhaven][keelhaven] · [mkdocs-ng][mkdocs] · merged PRs in [Python][python-prs] and [PyPA][pypa-prs]
+Also: [Conventional Branch][conventional-branch] · [gitstats][gitstats] · [Keelhaven][keelhaven] · [mkdocs-ng][mkdocs] · [release-ledger][release-ledger] · merged PRs in [Python][python-prs] and [PyPA][pypa-prs]
 
 ## Writing
 
@@ -54,6 +54,7 @@ More [on the blog][blog]. 中文读者请关注公众号「[沈显鹏][qrcode]�
 [explain-error-plugin]: https://github.com/jenkinsci/explain-error-plugin
 [agent8]: https://github.com/keelinfra/agent8
 [release-ledger]: https://github.com/keelinfra/release-ledger
+[clang-tools]: https://github.com/cpp-linter/clang-tools-static-binaries
 [gitstats]: https://github.com/shenxianpeng/gitstats
 [mkdocs]: https://github.com/mkdocs-ng/mkdocs
 [python-prs]: https://github.com/search?q=is%3Apr+author%3Ashenxianpeng+is%3Amerged+user%3Apython&type=pullrequests
