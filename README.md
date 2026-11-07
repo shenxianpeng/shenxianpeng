@@ -1,10 +1,6 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/brand/github-dark-1920x320.png">
-  <source media="(prefers-color-scheme: light)" srcset="assets/brand/github-light-1920x320.png">
-  <img alt="From commit to release." src="assets/brand/github-light-1920x320.png">
-</picture>
+# From commit to release.
 
-I build open-source guardrails for software delivery: the checks between a commit and a release, whether a person or an AI agent wrote the code.
+Open-source guardrails for software delivery, whether a person or an AI agent wrote the code.
 
 [Blog][blog] · [About][about] · [X][x] · [LinkedIn][linkedin] · [RSS][rss] · [Sponsor][sponsors]
 

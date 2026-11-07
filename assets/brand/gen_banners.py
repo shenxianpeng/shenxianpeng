@@ -1,10 +1,11 @@
 """Render the profile banners in the blog's Evergreen design system.
 
 Every banner is the headline "From commit to release." with the pipeline drawn
-as a line under it, one dot per stage. There is no small text: GitHub, X and
-LinkedIn show these images at a third to a half of their width on a desktop
-and at a quarter or less on a phone, so stage and project names became too
-small to read. The README, the X bio and the LinkedIn About carry those names.
+as a line under it, one dot per stage. There is no small text: X and LinkedIn
+show these images at about half of their width on a desktop and at a quarter
+on a phone, so stage and project names became too small to read. The X bio and
+the LinkedIn About carry those names. The GitHub profile README uses a text
+heading instead of an image.
 Colours and fonts come from shenxianpeng/blog (assets/css/schemes/evergreen.css,
 DESIGN.md): Geist for type.
 
@@ -59,19 +60,6 @@ def headline(t, size):
   </div>'''
 
 
-def github(theme):
-    """README banner, left-aligned. No name or URL: the profile page shows both.
-
-    GitHub shows this 1920 px image 846 px wide on a desktop and 308 px on a phone.
-    """
-    t = THEMES[theme]
-    w, h = 1920, 320
-    body = f'''<div style="height:{h}px;box-sizing:border-box;padding:0 128px;display:flex;align-items:center">
-  {headline(t, 120)}
-</div>'''
-    return w, h, page(w, h, t, body)
-
-
 def x_header():
     """X header, right-aligned: the avatar covers the bottom-left corner (x < 375, y > 333).
 
@@ -95,13 +83,11 @@ def linkedin():
 
 
 JOBS = {
-    "github-dark-1920x320.png": github("dark"),
-    "github-light-1920x320.png": github("light"),
     "x-1500x500.png": x_header(),
     "linkedin-1584x396.png": linkedin(),
 }
 
-FONTS = ["700 120px Geist"]
+FONTS = ["700 104px Geist"]
 
 if __name__ == "__main__":
     with sync_playwright() as p:

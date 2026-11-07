@@ -1,12 +1,12 @@
 # Personal Brand Assets · 个人品牌素材
 
 "From commit to release." 横幅：一句标题，下面一条带四个点的线，代表 commit → review → build → release
-四个阶段。图上不放阶段名和项目名：GitHub、X、LinkedIn 在桌面上把图缩到原宽的三分之一到一半，
-手机上缩到四分之一以下，小字缩完都看不清。阶段和项目写在 README 正文、X 简介和 LinkedIn About 里。
+四个阶段。图上不放阶段名和项目名：X、LinkedIn 在桌面上把图缩到原宽的一半左右，手机上缩到四分之一，
+小字缩完都看不清。阶段和项目写在 X 简介和 LinkedIn About 里。GitHub 主页 README 不用图，
+标题直接用文字，正文里四行就是那条线。
 
 | 平台 | 原图宽 | 桌面显示宽 | 手机显示宽 | 标题在桌面 / 手机上的大小 |
 | --- | --- | --- | --- | --- |
-| GitHub | 1920 | 846 | 308 | 53 / 19 px |
 | X | 1500 | 约 600 | 约 390 | 42 / 27 px |
 | LinkedIn | 1584 | 约 804 | 约 390 | 43 / 21 px |
 
@@ -16,12 +16,10 @@
 
 | File | Size | Intended use |
 | --- | --- | --- |
-| `github-dark-1920x320.png` | 1920×320 | GitHub 主页 README，深色主题。只有标题，不写名字和网址，页面本身已有 |
-| `github-light-1920x320.png` | 1920×320 | GitHub 主页 README，浅色主题 |
 | `x-1500x500.png` | 1500×500 | X 头图，深色，右对齐。左下角（x < 375、y > 333）留给头像 |
 | `linkedin-1584x396.png` | 1584×396 | LinkedIn 背景图，深色，右对齐。左侧（x < 347）留给头像 |
 
-以上四张由 `gen_banners.py` 生成，改文案或项目后重跑即可：
+以上两张由 `gen_banners.py` 生成，改文案或项目后重跑即可：
 
 ```bash
 pip install playwright
