@@ -2,7 +2,13 @@
 
 Open-source guardrails for software delivery, whether a person or an AI agent wrote the code.
 
-[Blog][blog] · [About][about] · [X][x] · [LinkedIn][linkedin] · [RSS][rss] · [Sponsor][sponsors]
+[Blog][blog] · [About][about] · [LinkedIn][linkedin] · [RSS][rss]
+
+<a href="https://committers.top/lithuania_public"><img src="https://user-badge.committers.top/lithuania_public/shenxianpeng.svg" alt="committers.top rank: Lithuania #3, public contributions" height="20"></a>
+<a href="https://x.com/xianpengshen"><img src="https://img.shields.io/badge/follow-@xianpengshen-1D6A4B?style=flat&logo=x&logoColor=white&labelColor=24292f" alt="Follow @xianpengshen on X" height="20"></a>
+<a href="https://github.com/sponsors/shenxianpeng"><img src="https://img.shields.io/badge/GitHub-Sponsors-EA4AAA?style=flat&logo=githubsponsors" alt="Sponsor me on GitHub" height="20"></a>
+<a href="https://pypi.org/user/xpshen/"><img src="https://img.shields.io/badge/-PyPI-4B8BBE?style=flat&labelColor=306998&logo=pypi&logoColor=FFE873" alt="My PyPI packages" height="20"></a>
+<a href="https://shenxianpeng.dev/portfolio/pypistats/"><img src="https://img.shields.io/badge/-PyPI_Stats-4B8BBE?style=flat&labelColor=306998&logo=pypi&logoColor=FFE873" alt="My PyPI package stats" height="20"></a>
 
 ## Open source
 
@@ -11,12 +17,12 @@ Open-source guardrails for software delivery, whether a person or an AI agent wr
 `review` &nbsp;[**cpp-linter**][cpp-linter]: runs clang-format and clang-tidy on every pull request. More than 1,000 repositories depend on it, including projects from:
 
 <p>
+  <a href="https://github.com/aws/s2n-tls"><img src="https://github.com/aws.png?size=56" alt="" width="24" align="top"></a> <b>AWS</b>&nbsp;&nbsp;
   <a href="https://github.com/apache/orc"><img src="https://github.com/apache.png?size=56" alt="" width="24" align="top"></a> <b>Apache</b>&nbsp;&nbsp;
   <a href="https://github.com/Samsung/mTower"><img src="https://github.com/Samsung.png?size=56" alt="" width="24" align="top"></a> <b>Samsung</b>&nbsp;&nbsp;
   <a href="https://github.com/qualcomm/eld"><img src="https://github.com/qualcomm.png?size=56" alt="" width="24" align="top"></a> <b>Qualcomm</b>&nbsp;&nbsp;
   <a href="https://github.com/bloomberg/blazingmq"><img src="https://github.com/bloomberg.png?size=56" alt="" width="24" align="top"></a> <b>Bloomberg</b>&nbsp;&nbsp;
   <a href="https://github.com/llnl/AMS"><img src="https://github.com/LLNL.png?size=56" alt="" width="24" align="top"></a> <b>LLNL</b>&nbsp;&nbsp;
-  <a href="https://github.com/stanford-ssi/samwise-flight-software"><img src="https://github.com/stanford-ssi.png?size=56" alt="" width="24" align="top"></a> <b>Stanford SSI</b>&nbsp;&nbsp;
   <a href="https://github.com/nextcloud/desktop"><img src="https://github.com/nextcloud.png?size=56" alt="" width="24" align="top"></a> <b>Nextcloud</b>
 </p>
 
