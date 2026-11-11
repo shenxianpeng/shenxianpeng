@@ -6,9 +6,12 @@
 
 | 用途 | English | 中文 |
 | --- | --- | --- |
-| 定位句 | Release engineer. I build open-source tools that keep software shipping, even after upstream moves on. | 发布工程师。我做开源工具，帮团队把软件稳稳发出去，上游不管了也一样。 |
+| 定位句 | DevOps and release engineer. I build open-source tools that keep software shipping, even after upstream moves on. | DevOps 与发布工程师。我做开源工具，帮团队把软件稳稳发出去，上游不管了也一样。 |
 | 短标题（首页大字） | Keep software shipping. | 把软件稳稳发出去。 |
 | 资历 | On the build, test and release side of software since 2009. | 2009 年入行，一直在做构建、测试和发布。 |
+
+头衔写 DevOps and release engineer（简介里空间紧就写 DevOps & release engineer），和日常职位一致。
+不要只写 Release engineer：定位句讲的是发布这一段，头衔不因此改窄。
 
 为什么是发布这一段（About 页第二段，写文章、做分享时的开场也用它）：
 
@@ -20,9 +23,9 @@
 
 | 平台 | 文案 |
 | --- | --- |
-| GitHub bio（160 字符以内） | Release engineer. Open-source tools that keep software shipping, even after upstream moves on. cpp-linter · commit-check · keelinfra |
-| X bio（160 字符以内） | Release engineer. Open-source tools that keep software shipping, even after upstream moves on. cpp-linter · commit-check · keelinfra |
-| LinkedIn headline | Release engineer · Open-source tools that keep software shipping, even after upstream moves on · cpp-linter, commit-check, Conventional Branch, keelinfra |
+| GitHub bio（160 字符以内） | DevOps & release engineer. Open-source tools that keep software shipping, even after upstream moves on. cpp-linter · commit-check · keelinfra |
+| X bio（160 字符以内） | DevOps & release engineer. Open-source tools that keep software shipping, even after upstream moves on. cpp-linter · commit-check · keelinfra |
+| LinkedIn headline | DevOps & release engineer · Open-source tools that keep software shipping, even after upstream moves on · cpp-linter, commit-check, Conventional Branch, keelinfra |
 | 公众号简介 | 2009 年入行，一直在做构建、测试和发布。写怎么把软件稳稳发出去，上游不管了又该怎么办。 |
 
 GitHub 主页和各平台简介里，项目一个一个讲：做什么，给链接。不按 commit、review、build、release
