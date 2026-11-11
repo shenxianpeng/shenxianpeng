@@ -1,6 +1,6 @@
-# From commit to release.
+# From commit to release, and long after.
 
-Open-source guardrails for software delivery, whether a person or an AI agent wrote the code.
+Release engineer. Open-source tools that keep software shipping, whether a person or an AI agent wrote the code, even after upstream moves on.
 
 [Blog][blog] · [About][about] · [LinkedIn][linkedin] · [RSS][rss]
 
@@ -30,7 +30,9 @@ Open-source guardrails for software delivery, whether a person or an AI agent wr
 
 `release` &nbsp;[**clang-tools-static-binaries**][clang-tools]: builds and publishes static clang-format, clang-tidy and other LLVM tools for every LLVM version, so nobody has to build LLVM. Downloaded more than 750,000 times.
 
-Also: [Conventional Branch][conventional-branch] · [gitstats][gitstats] · [Keelhaven][keelhaven] · [mkdocs-ng][mkdocs] · [release-ledger][release-ledger] · merged PRs in [Python][python-prs] and [PyPA][pypa-prs]
+`support` &nbsp;[**Extended Security for Jenkins**][jenkins-es]: Jenkins 2.541.3, the last LTS that runs on Java 17, with the core security fixes released after it. [**MkDocs NG**][mkdocs] keeps MkDocs 1.x sites and their plugins building, with 1.x supported until the end of 2028.
+
+Also: [Conventional Branch][conventional-branch] · [gitstats][gitstats] · [Keelhaven][keelhaven] · [release-ledger][release-ledger] · merged PRs in [Python][python-prs] and [PyPA][pypa-prs]
 
 ## Writing
 
@@ -53,6 +55,7 @@ More [on the blog][blog]. 中文读者请关注公众号「[沈显鹏][qrcode]�
 [cpp-linter]: https://github.com/cpp-linter
 [explain-error-plugin]: https://github.com/jenkinsci/explain-error-plugin
 [agent8]: https://github.com/keelinfra/agent8
+[jenkins-es]: https://github.com/keelinfra/jenkins-extended-security
 [release-ledger]: https://github.com/keelinfra/release-ledger
 [clang-tools]: https://github.com/cpp-linter/clang-tools-static-binaries
 [gitstats]: https://github.com/shenxianpeng/gitstats
