@@ -1,9 +1,42 @@
 # Personal Brand Assets · 个人品牌素材
 
+## 定位文案
+
+所有平台用同一句话开头，改的时候一起改（博客首页、About 页、GitHub 主页 README、X、LinkedIn、公众号）。
+
+| 用途 | English | 中文 |
+| --- | --- | --- |
+| 定位句 | Release engineer. I build open-source tools that keep software shipping, even after upstream moves on. | 发布工程师。我做开源工具，帮团队把软件稳稳发出去，上游不管了也一样。 |
+| 短标题（首页大字） | Keep software shipping. | 把软件稳稳发出去。 |
+| 资历 | On the build, test and release side of software since 2009. | 2009 年入行，一直在做构建、测试和发布。 |
+
+为什么是发布这一段（About 页第二段，写文章、做分享时的开场也用它）：
+
+> AI has made writing code cheap. What comes after the code is as expensive as ever: knowing who, or which agent, made a change, building it on the hosts you actually have, showing where a release came from, and patching it for years. From December 2027 the EU Cyber Resilience Act turns part of that into a legal duty: a manufacturer selling software in the EU has to declare a support period and ship security updates until it ends.
+
+> AI 让写代码变便宜了，代码写完之后的事一样没便宜：这次改动是谁、或者哪个 agent 提交的，在你手上那些机器上还能不能构建，发出去的版本说不说得清来历，往后几年出了漏洞谁来补。从 2027 年 12 月起，欧盟《网络弹性法案》把其中一部分写成了法律义务：在欧盟卖软件的厂商要声明支持期，并在支持期内持续提供安全更新。
+
+各平台简介，可以直接粘贴：
+
+| 平台 | 文案 |
+| --- | --- |
+| GitHub bio（160 字符以内） | Release engineer. Open-source tools that keep software shipping, even after upstream moves on. cpp-linter · commit-check · keelinfra |
+| X bio（160 字符以内） | Release engineer. Open-source tools that keep software shipping, even after upstream moves on. cpp-linter · commit-check · keelinfra |
+| LinkedIn headline | Release engineer · Open-source tools that keep software shipping, even after upstream moves on · cpp-linter, commit-check, Conventional Branch, keelinfra |
+| 公众号简介 | 2009 年入行，一直在做构建、测试和发布。写怎么把软件稳稳发出去，上游不管了又该怎么办。 |
+
+GitHub 主页和各平台简介里，项目一个一个讲：做什么，给链接。不按 commit、review、build、release
+把它们串成一条线：每个阶段只有一两个自己的项目，串起来像是在说这一段都归我管，其实没有。
+博客 About 页篇幅够，可以按阶段大致分个类。
+
+keelinfra 和 keelapps 面向同一群人（在公司里维护研发工具的团队），放在一起讲。Keelhaven 是业余项目，单独提一句。
+
+## 横幅
+
 "From commit to release." 横幅：一句标题，下面一条带四个点的线，代表 commit → review → build → release
 四个阶段。图上不放阶段名和项目名：X、LinkedIn 在桌面上把图缩到原宽的一半左右，手机上缩到四分之一，
-小字缩完都看不清。阶段和项目写在 X 简介和 LinkedIn About 里。GitHub 主页 README 不用图，
-标题直接用文字，正文里四行就是那条线。
+小字缩完都看不清。项目写在 X 简介和 LinkedIn About 里。GitHub 主页 README 不用图，
+标题直接用文字，下面是定位句和项目列表。
 
 | 平台 | 原图宽 | 桌面显示宽 | 手机显示宽 | 标题在桌面 / 手机上的大小 |
 | --- | --- | --- | --- | --- |
