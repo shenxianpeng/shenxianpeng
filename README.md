@@ -1,6 +1,6 @@
 # From commit to release.
 
-Release engineer. Open-source tools that keep software shipping, whether a person or an AI agent wrote the code, even after upstream moves on.
+DevOps and release engineer. Open-source tools that keep software shipping, whether a person or an AI agent wrote the code, even after upstream moves on.
 
 [Blog][blog] · [About][about] · [LinkedIn][linkedin] · [RSS][rss]
 
