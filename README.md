@@ -1,4 +1,4 @@
-# From commit to release, and long after.
+# From commit to release.
 
 Release engineer. Open-source tools that keep software shipping, whether a person or an AI agent wrote the code, even after upstream moves on.
 
@@ -12,9 +12,7 @@ Release engineer. Open-source tools that keep software shipping, whether a perso
 
 ## Open source
 
-`commit` &nbsp;[**commit-check**][commit-check]: checks commit messages, branch names and AI attribution, in CI or as a pre-commit hook. About 55,000 downloads a month.
-
-`review` &nbsp;[**cpp-linter**][cpp-linter]: runs clang-format and clang-tidy on every pull request. More than 1,000 repositories depend on it, including projects from:
+[**cpp-linter**][cpp-linter]: runs clang-format and clang-tidy on every pull request. More than 1,000 repositories depend on it, including projects from:
 
 <p>
   <a href="https://github.com/aws/s2n-tls"><img src="https://github.com/aws.png?size=56" alt="" width="24" align="top"></a> <b>AWS</b>&nbsp;&nbsp;
@@ -26,11 +24,13 @@ Release engineer. Open-source tools that keep software shipping, whether a perso
   <a href="https://github.com/nextcloud/desktop"><img src="https://github.com/nextcloud.png?size=56" alt="" width="24" align="top"></a> <b>Nextcloud</b>
 </p>
 
-`build` &nbsp;[**explain-error**][explain-error-plugin]: explains failed Jenkins builds with AI. [**Agent8**][agent8] keeps Java 8 build hosts (AIX, Solaris, HP-UX) on a current Jenkins.
+[**commit-check**][commit-check]: checks commit messages, branch names and AI attribution, in CI or as a pre-commit hook. About 55,000 downloads a month.
 
-`release` &nbsp;[**clang-tools-static-binaries**][clang-tools]: builds and publishes static clang-format, clang-tidy and other LLVM tools for every LLVM version, so nobody has to build LLVM. Downloaded more than 750,000 times.
+[**explain-error**][explain-error-plugin]: explains failed Jenkins builds with AI. [**Agent8**][agent8] keeps Java 8 build hosts (AIX, Solaris, HP-UX) on a current Jenkins, and [**Extended Security for Jenkins**][jenkins-es] adds later security fixes to 2.541.3, the last LTS that runs on Java 17.
 
-`support` &nbsp;[**Extended Security for Jenkins**][jenkins-es]: Jenkins 2.541.3, the last LTS that runs on Java 17, with the core security fixes released after it. [**MkDocs NG**][mkdocs] keeps MkDocs 1.x sites and their plugins building, with 1.x supported until the end of 2028.
+[**clang-tools-static-binaries**][clang-tools]: builds and publishes static clang-format, clang-tidy and other LLVM tools for every LLVM version, so nobody has to build LLVM. Downloaded more than 750,000 times.
+
+[**MkDocs NG**][mkdocs]: MkDocs 1.x, maintained, so existing sites and their plugins keep building. 1.x is supported until the end of 2028.
 
 Also: [Conventional Branch][conventional-branch] · [gitstats][gitstats] · [Keelhaven][keelhaven] · [release-ledger][release-ledger] · merged PRs in [Python][python-prs] and [PyPA][pypa-prs]
 
