@@ -38,8 +38,8 @@ Also: [Conventional Branch][conventional-branch] · [gitstats][gitstats] · [Kee
 
 <!-- BLOG-POST-LIST:START -->
 - [A rule in AGENTS.md doesn&#39;t stop AI: one month of commits in 31 popular projects](https://shenxianpeng.dev/posts/2026/rules-as-code-for-ai/) - Nov 14, 2026
-- [pybadges Fails on Python 3.13: How to Fix &quot;No module named &#39;imghdr&#39;&quot;](https://shenxianpeng.dev/posts/2026/pybadges-imghdr/) - Nov 6, 2026
-- [Six Months of Maintaining MkDocs NG: Why I Keep Going](https://shenxianpeng.dev/posts/2026/mkdocs-ng-1.11/) - Nov 4, 2026<!-- BLOG-POST-LIST:END -->
+- [MkDocs Alternatives in 2026: Where Existing Sites Can Go](https://shenxianpeng.dev/posts/2026/mkdocs-alternatives/) - Nov 14, 2026
+- [pybadges Fails on Python 3.13: How to Fix &quot;No module named &#39;imghdr&#39;&quot;](https://shenxianpeng.dev/posts/2026/pybadges-imghdr/) - Nov 6, 2026<!-- BLOG-POST-LIST:END -->
 
 More [on the blog][blog]. 中文读者请关注公众号「[沈显鹏][qrcode]」。
 
