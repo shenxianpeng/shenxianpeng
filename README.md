@@ -4,11 +4,11 @@ DevOps and release engineer. Open-source tools that keep software shipping, whet
 
 [Blog][blog] · [About][about] · [LinkedIn][linkedin] · [RSS][rss]
 
-<a href="https://committers.top/lithuania_public"><img src="https://img.shields.io/badge/committers.top-Lithuania_%233-1D6A4B?style=flat&logo=github&logoColor=white&labelColor=24292f" alt="committers.top rank: Lithuania #3, public contributions" height="20"></a>
-<a href="https://x.com/xianpengshen"><img src="https://img.shields.io/badge/follow-@xianpengshen-1D6A4B?style=flat&logo=x&logoColor=white&labelColor=24292f" alt="Follow @xianpengshen on X" height="20"></a>
-<a href="https://github.com/sponsors/shenxianpeng"><img src="https://img.shields.io/badge/GitHub-Sponsors-1D6A4B?style=flat&logo=githubsponsors&logoColor=white&labelColor=24292f" alt="Sponsor me on GitHub" height="20"></a>
-<a href="https://pypi.org/user/xpshen/"><img src="https://img.shields.io/badge/PyPI-packages-1D6A4B?style=flat&logo=pypi&logoColor=white&labelColor=24292f" alt="My PyPI packages" height="20"></a>
-<a href="https://shenxianpeng.dev/portfolio/pypistats/"><img src="https://img.shields.io/badge/PyPI-stats-1D6A4B?style=flat&logo=pypi&logoColor=white&labelColor=24292f" alt="My PyPI package stats" height="20"></a>
+<a href="https://committers.top/lithuania_public"><img src="https://img.shields.io/badge/committers.top-Lithuania_%233-2EA44F?style=flat&logo=github&logoColor=white&labelColor=555555" alt="committers.top rank: Lithuania #3, public contributions" height="20"></a>
+<a href="https://x.com/xianpengshen"><img src="https://img.shields.io/badge/follow-@xianpengshen-2EA44F?style=flat&logo=x&logoColor=white&labelColor=555555" alt="Follow @xianpengshen on X" height="20"></a>
+<a href="https://github.com/sponsors/shenxianpeng"><img src="https://img.shields.io/badge/GitHub-Sponsors-2EA44F?style=flat&logo=githubsponsors&logoColor=white&labelColor=555555" alt="Sponsor me on GitHub" height="20"></a>
+<a href="https://pypi.org/user/xpshen/"><img src="https://img.shields.io/badge/PyPI-packages-2EA44F?style=flat&logo=pypi&logoColor=white&labelColor=555555" alt="My PyPI packages" height="20"></a>
+<a href="https://shenxianpeng.dev/portfolio/pypistats/"><img src="https://img.shields.io/badge/PyPI-stats-2EA44F?style=flat&logo=pypi&logoColor=white&labelColor=555555" alt="My PyPI package stats" height="20"></a>
 
 ## Open source
 
