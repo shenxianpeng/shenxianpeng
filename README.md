@@ -28,7 +28,7 @@ DevOps and release engineer. Open-source tools that keep software shipping, whet
 
 [**explain-error**][explain-error-plugin]: explains failed Jenkins builds with AI. [**Agent8**][agent8] keeps Java 8 build hosts (AIX, Solaris, HP-UX) on a current Jenkins, and [**Extended Security for Jenkins**][jenkins-es] adds later security fixes to 2.541.3, the last LTS that runs on Java 17.
 
-[**clang-tools-static-binaries**][clang-tools]: builds and publishes static clang-format, clang-tidy and other LLVM tools for every LLVM version, so nobody has to build LLVM. Downloaded more than 850,000 times.
+[**clang-tools-static-binaries**][clang-tools]: builds and publishes static clang-format, clang-tidy and other LLVM tools for every LLVM version, so nobody has to build LLVM. Downloaded more than 500,000 times.
 
 [**MkDocs NG**][mkdocs]: MkDocs 1.x, maintained, so existing sites and their plugins keep building. 1.x is supported until the end of 2028.
 
