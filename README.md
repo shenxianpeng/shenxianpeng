@@ -2,7 +2,7 @@
 
 DevOps and release engineer. Open-source tools that keep software shipping, whether a person or an AI agent wrote the code, even after upstream moves on.
 
-[Blog][blog] · [About][about] · [LinkedIn][linkedin] · [RSS][rss]
+[Blog][blog] · [About][about] · [RSS][rss]
 
 <a href="https://committers.top/lithuania_public"><img src="https://img.shields.io/badge/committers.top-Lithuania_%233-1D6A4B?style=flat&logo=github&logoColor=white&labelColor=24292f" alt="committers.top rank: Lithuania #3, public contributions" height="20"></a>
 <a href="https://x.com/xianpengshen"><img src="https://img.shields.io/badge/follow-@xianpengshen-1D6A4B?style=flat&logo=x&logoColor=white&labelColor=24292f" alt="Follow @xianpengshen on X" height="20"></a>
@@ -47,7 +47,6 @@ More [on the blog][blog]. 中文读者请关注公众号「[沈显鹏][qrcode]�
 [blog]: https://shenxianpeng.dev/posts/
 [rss]: https://shenxianpeng.dev/index.xml
 [x]: https://x.com/xianpengshen
-[linkedin]: https://www.linkedin.com/in/xianpeng-shen/
 [qrcode]: https://github.com/shenxianpeng/blog/blob/main/assets/img/qrcode.jpg
 [sponsors]: https://github.com/sponsors/shenxianpeng
 [commit-check]: https://github.com/commit-check/commit-check
